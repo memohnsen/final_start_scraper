@@ -216,26 +216,54 @@ def enrich_data(entries):
 def save_to_json(data, output_path):
     """Save the parsed data to a JSON file."""
     # Fields to exclude from output
-    excluded_fields = ['lot_number', 'state', 'weight_classes', 'age_groups']
+    excluded_fields = ['lot_number', 'state', 'weight_classes', 'age_groups', 'session', 'platform', 'gender']
     
     # Filter out the excluded fields
     filtered_data = []
     for entry in data:
         filtered_entry = {k: v for k, v in entry.items() if k not in excluded_fields}
+        
+        # Rename categories to weightClass
+        if 'categories' in entry:
+            filtered_entry['weightClass'] = entry['categories']
+            if 'categories' in filtered_entry:
+                del filtered_entry['categories']
+        
+        # Create nested session object with number and platform
+        if 'session' in entry and 'platform' in entry:
+            session_number = entry.get('session', '')
+            platform_name = entry.get('platform', '')
+            
+            # Convert session to integer if it's a digit
+            if session_number.isdigit():
+                session_number = int(session_number)
+                
+            # Add the nested session object
+            filtered_entry['session'] = {
+                'number': session_number,
+                'platform': platform_name
+            }
+        
         filtered_data.append(filtered_entry)
     
     # Convert numeric fields to integers
-    numeric_fields = ['entry_total', 'age', 'session']
+    numeric_fields = ['entry_total', 'age', 'entryTotal']
     for entry in filtered_data:
         for field in numeric_fields:
-            if field in entry and entry[field].isdigit():
+            if field in entry and isinstance(entry[field], str) and entry[field].isdigit():
                 entry[field] = int(entry[field])
     
-    # Convert session to integer for proper numerical sorting
+    # Convert session.number to integer for proper numerical sorting
     for entry in filtered_data:
         try:
-            entry['session_int'] = int(entry.get('session', '0') or '0')
-        except ValueError:
+            if 'session' in entry and 'number' in entry['session']:
+                session_number = entry['session']['number']
+                if isinstance(session_number, str) and session_number.isdigit():
+                    entry['session']['number'] = int(session_number)
+                entry['session_int'] = entry['session']['number'] if isinstance(entry['session']['number'], int) else 0
+            else:
+                entry['session_int'] = 0
+        except (ValueError, AttributeError, TypeError):
             entry['session_int'] = 0
     
     # Define platform order
@@ -250,8 +278,11 @@ def save_to_json(data, output_path):
     
     # Assign platform order value for sorting
     for entry in filtered_data:
-        platform = entry.get('platform', '')
-        entry['platform_order'] = platform_order.get(platform, 999)  # Default high value for unknown platforms
+        if 'session' in entry and 'platform' in entry['session']:
+            platform = entry['session']['platform']
+            entry['platform_order'] = platform_order.get(platform, 999)  # Default high value for unknown platforms
+        else:
+            entry['platform_order'] = 999
     
     # Sort data by session number first, then by platform order, then by group
     filtered_data.sort(key=lambda x: (
@@ -270,32 +301,42 @@ def save_to_json(data, output_path):
     # Custom JSON formatting - each object on a single line with session+platform grouping
     # and TypeScript-friendly property names (without quotes)
     with open(output_path, 'w') as f:
-        f.write('[\n')
+        f.write('export const startListData = [\n')
         
-        current_session = None
+        current_session_number = None
         current_platform = None
         
         for i, entry in enumerate(filtered_data):
-            session = entry.get('session', '')
-            platform = entry.get('platform', '')
+            session_obj = entry.get('session', {})
+            session_number = session_obj.get('number', 0) if isinstance(session_obj, dict) else 0
+            platform = session_obj.get('platform', '') if isinstance(session_obj, dict) else ''
             
             # Add an extra newline when platform changes within the same session
             # or when session changes
             if current_platform is not None and (
-                (session == current_session and platform != current_platform) or
-                (session != current_session)
+                (session_number == current_session_number and platform != current_platform) or
+                (session_number != current_session_number)
             ):
                 f.write('\n')
             
-            current_session = session
+            current_session_number = session_number
             current_platform = platform
             
             # Create TypeScript-friendly JSON (without quotes around property names)
             # Add spaces between key-value pairs for better readability
             ts_json_parts = []
             for key, value in entry.items():
-                # For string values, keep the quotes around the value
-                if isinstance(value, str):
+                if key == 'session' and isinstance(value, dict):
+                    # Format the nested session object
+                    session_parts = []
+                    for session_key, session_value in value.items():
+                        if isinstance(session_value, str):
+                            session_parts.append(f"{session_key}: \"{session_value}\"")
+                        else:
+                            session_parts.append(f"{session_key}: {session_value}")
+                    ts_json_parts.append(f"{key}: {{ {', '.join(session_parts)} }}")
+                elif isinstance(value, str):
+                    # For string values, keep the quotes around the value
                     ts_json_parts.append(f"{key}: \"{value}\"")
                 else:
                     ts_json_parts.append(f"{key}: {value}")
