@@ -244,7 +244,8 @@ def save_to_json(data, output_path):
         'White': 2,
         'Blue': 3,
         'Stars': 4,
-        'Stripes': 5
+        'Stripes': 5,
+        'Rogue': 6
     }
     
     # Assign platform order value for sorting
@@ -290,15 +291,16 @@ def save_to_json(data, output_path):
             current_platform = platform
             
             # Create TypeScript-friendly JSON (without quotes around property names)
+            # Add spaces between key-value pairs for better readability
             ts_json_parts = []
             for key, value in entry.items():
                 # For string values, keep the quotes around the value
                 if isinstance(value, str):
-                    ts_json_parts.append(f"{key}:\"{value}\"")
+                    ts_json_parts.append(f"{key}: \"{value}\"")
                 else:
-                    ts_json_parts.append(f"{key}:{value}")
+                    ts_json_parts.append(f"{key}: {value}")
             
-            ts_json_str = "{" + ",".join(ts_json_parts) + "}"
+            ts_json_str = "{ " + ", ".join(ts_json_parts) + " }"
             
             if i < len(filtered_data) - 1:
                 f.write(f"  {ts_json_str},\n")
