@@ -93,7 +93,7 @@ def parse_start_list(text):
                         gender_index = rest_after_age.find(gender_match.group(0))
                         
                         # Extract club name (everything before gender)
-                        club_name = rest_after_age[:gender_index].strip()
+                        club = rest_after_age[:gender_index].strip()
                         
                         # Extract the rest after gender
                         rest_after_gender = rest_after_age[gender_index + len(gender_match.group(0)):].strip()
@@ -114,7 +114,7 @@ def parse_start_list(text):
                             # Split the remaining parts for entry total, session, platform, day, and time
                             parts = rest_after_group.split()
                             if len(parts) >= 5:  # We need at least 5 parts: entry_total, session, platform, day, time
-                                entry_total = parts[0]
+                                entryTotal = parts[0]
                                 
                                 # Parse session and platform from combined field (e.g., "1RED")
                                 session_platform = parts[1]
@@ -135,11 +135,11 @@ def parse_start_list(text):
                                     'name': name,
                                     'state': state,
                                     'age': age,
-                                    'club_name': club_name,
+                                    'club': club,
                                     'gender': gender_match.group(1),
                                     'categories': categories,
                                     'group': group,
-                                    'entry_total': entry_total,
+                                    'entryTotal': entryTotal,
                                     'session': session,
                                     'platform': platform,
                                     'day': day,
