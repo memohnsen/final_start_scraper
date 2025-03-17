@@ -216,7 +216,7 @@ def enrich_data(entries):
 def save_to_json(data, output_path):
     """Save the parsed data to a JSON file."""
     # Fields to exclude from output
-    excluded_fields = ['lot_number', 'state', 'weight_classes', 'age_groups', 'session', 'platform', 'gender']
+    excluded_fields = ['lot_number', 'state', 'weight_classes', 'age_groups', 'session', 'platform', 'gender', 'day', 'time']
     
     # Filter out the excluded fields
     filtered_data = []
