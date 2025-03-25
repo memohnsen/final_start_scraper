@@ -2,6 +2,7 @@ import PyPDF2
 import pdfplumber
 import re
 import json
+import csv
 from pathlib import Path
 
 def extract_text_from_pdf(pdf_path):
@@ -44,7 +45,7 @@ def parse_start_list(text):
             continue
             
         # Skip header lines and "Start List presented by:" lines
-        if "Lot First Name Last Name State Age Club Name Gender CATEGORIES Group Entry Total Session Platform Day Lifting Time" in line:
+        if "Lot First Name Last Name State Age Club Name Gender Event CATEGORIES Group Entry Total Session Platform Day Lifting Time" in line:
             header_seen = True
             start_processing = True
             continue
@@ -213,58 +214,10 @@ def enrich_data(entries):
     
     return enriched_entries
 
-def save_to_json(data, output_path):
-    """Save the parsed data to a JSON file."""
+def save_to_csv(data, output_path):
+    """Save the parsed data to a CSV file."""
     # Fields to exclude from output
-    excluded_fields = ['lot_number', 'state', 'weight_classes', 'age_groups', 'session', 'platform', 'gender', 'day', 'time']
-    
-    # Filter out the excluded fields
-    filtered_data = []
-    for entry in data:
-        filtered_entry = {k: v for k, v in entry.items() if k not in excluded_fields}
-        
-        # Rename categories to weightClass
-        if 'categories' in entry:
-            filtered_entry['weightClass'] = entry['categories']
-            if 'categories' in filtered_entry:
-                del filtered_entry['categories']
-        
-        # Create nested session object with number and platform
-        if 'session' in entry and 'platform' in entry:
-            session_number = entry.get('session', '')
-            platform_name = entry.get('platform', '')
-            
-            # Convert session to integer if it's a digit
-            if session_number.isdigit():
-                session_number = int(session_number)
-                
-            # Add the nested session object
-            filtered_entry['session'] = {
-                'number': session_number,
-                'platform': platform_name
-            }
-        
-        filtered_data.append(filtered_entry)
-    
-    # Convert numeric fields to integers
-    numeric_fields = ['entry_total', 'age', 'entryTotal']
-    for entry in filtered_data:
-        for field in numeric_fields:
-            if field in entry and isinstance(entry[field], str) and entry[field].isdigit():
-                entry[field] = int(entry[field])
-    
-    # Convert session.number to integer for proper numerical sorting
-    for entry in filtered_data:
-        try:
-            if 'session' in entry and 'number' in entry['session']:
-                session_number = entry['session']['number']
-                if isinstance(session_number, str) and session_number.isdigit():
-                    entry['session']['number'] = int(session_number)
-                entry['session_int'] = entry['session']['number'] if isinstance(entry['session']['number'], int) else 0
-            else:
-                entry['session_int'] = 0
-        except (ValueError, AttributeError, TypeError):
-            entry['session_int'] = 0
+    excluded_fields = ['lot_number', 'state', 'group', 'age_groups', 'day', 'time', 'weight_classes', 'categories']
     
     # Define platform order
     platform_order = {
@@ -276,86 +229,65 @@ def save_to_json(data, output_path):
         'Rogue': 6
     }
     
-    # Assign platform order value for sorting
-    for entry in filtered_data:
-        if 'session' in entry and 'platform' in entry['session']:
-            platform = entry['session']['platform']
-            entry['platform_order'] = platform_order.get(platform, 999)  # Default high value for unknown platforms
-        else:
-            entry['platform_order'] = 999
+    # Filter out the excluded fields and rename fields
+    filtered_data = []
+    for entry in data:
+        filtered_entry = {}
+        
+        # Convert gender from W/M to Female/Male
+        gender = 'Female' if entry.get('gender') == 'W' else 'Male'
+        
+        # Extract just the weight class number that follows M## or W## and append kg
+        weight_class = ''
+        categories = entry.get('categories', '')
+        weight_match = re.search(r'[MW]\d{2}\s+(\d{2,3}\+?)', categories)
+        if weight_match:
+            weight_class = weight_match.group(1) + 'kg'
+        
+        # Map the fields with their new names
+        field_mapping = {
+            'name': entry.get('name', ''),
+            'age': entry.get('age', ''),
+            'club': entry.get('club', ''),
+            'gender': gender,
+            'weight_class': weight_class,
+            'entry_total': entry.get('entryTotal', ''),
+            'session_number': entry.get('session', ''),
+            'session_platform': entry.get('platform', ''),
+            'meet': "USAW Master's Nationals"  # Add constant meet name
+        }
+        
+        filtered_entry.update(field_mapping)
+        filtered_data.append(filtered_entry)
     
-    # Sort data by session number first, then by platform order, then by group
+    # Convert numeric fields to integers
+    numeric_fields = ['entry_total', 'age', 'session_number']
+    for entry in filtered_data:
+        for field in numeric_fields:
+            if field in entry and isinstance(entry[field], str) and entry[field].isdigit():
+                entry[field] = int(entry[field])
+    
+    # Sort data by session number and platform
     filtered_data.sort(key=lambda x: (
-        x.get('session_int', 0),
-        x.get('platform_order', 999),
-        x.get('group', '')
+        x.get('session_number', 0),
+        platform_order.get(x.get('session_platform', ''), 999)
     ))
     
-    # Remove temporary sorting fields
-    for entry in filtered_data:
-        if 'session_int' in entry:
-            del entry['session_int']
-        if 'platform_order' in entry:
-            del entry['platform_order']
+    # Define the exact order of columns
+    fieldnames = ['name', 'age', 'club', 'gender', 'weight_class', 'entry_total', 'session_number', 'session_platform', 'meet']
     
-    # Custom JSON formatting - each object on a single line with session+platform grouping
-    # and TypeScript-friendly property names (without quotes)
-    with open(output_path, 'w') as f:
-        f.write('export const startListData = [\n')
-        
-        current_session_number = None
-        current_platform = None
-        
-        for i, entry in enumerate(filtered_data):
-            session_obj = entry.get('session', {})
-            session_number = session_obj.get('number', 0) if isinstance(session_obj, dict) else 0
-            platform = session_obj.get('platform', '') if isinstance(session_obj, dict) else ''
-            
-            # Add an extra newline when platform changes within the same session
-            # or when session changes
-            if current_platform is not None and (
-                (session_number == current_session_number and platform != current_platform) or
-                (session_number != current_session_number)
-            ):
-                f.write('\n')
-            
-            current_session_number = session_number
-            current_platform = platform
-            
-            # Create TypeScript-friendly JSON (without quotes around property names)
-            # Add spaces between key-value pairs for better readability
-            ts_json_parts = []
-            for key, value in entry.items():
-                if key == 'session' and isinstance(value, dict):
-                    # Format the nested session object
-                    session_parts = []
-                    for session_key, session_value in value.items():
-                        if isinstance(session_value, str):
-                            session_parts.append(f"{session_key}: \"{session_value}\"")
-                        else:
-                            session_parts.append(f"{session_key}: {session_value}")
-                    ts_json_parts.append(f"{key}: {{ {', '.join(session_parts)} }}")
-                elif isinstance(value, str):
-                    # For string values, keep the quotes around the value
-                    ts_json_parts.append(f"{key}: \"{value}\"")
-                else:
-                    ts_json_parts.append(f"{key}: {value}")
-            
-            ts_json_str = "{ " + ", ".join(ts_json_parts) + " }"
-            
-            if i < len(filtered_data) - 1:
-                f.write(f"  {ts_json_str},\n")
-            else:
-                f.write(f"  {ts_json_str}\n")
-        
-        f.write(']\n')
+    # Write to CSV with specified column order
+    with open(output_path, 'w', newline='') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(filtered_data)
     
     print(f"Data saved to {output_path}")
 
 def main():
     # File paths
     pdf_path = "start-list.pdf"
-    json_output = "start_list_data.ts"
+    output_path = "start_list_data.csv"  # Changed extension to .csv
     
     # Extract text from PDF
     print(f"Extracting text from {pdf_path}...")
@@ -374,8 +306,8 @@ def main():
     print("Enriching data...")
     enriched_data = enrich_data(parsed_data)
     
-    # Save the parsed data to JSON only
-    save_to_json(enriched_data, json_output)
+    # Save the parsed data to CSV
+    save_to_csv(enriched_data, output_path)
     
     print(f"Successfully processed {len(enriched_data)} entries from the PDF.")
 

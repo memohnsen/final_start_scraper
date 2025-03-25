@@ -1,0 +1,677 @@
+name,age,club,gender,weight_class,entry_total,session_number,session_platform,meet
+Laurie Nelson,80,Polaris Weightlifting,Female,71kg,64,1,Red,USAW Master's Nationals
+Holly Arrow,70,Eastside Barbell,Female,71kg,100,1,Red,USAW Master's Nationals
+Beth Lamoreaux,65,BASA Weightlifting,Female,55kg,88,1,Red,USAW Master's Nationals
+Valerie Matsunaga,68,HI PERFORMANCE ATHLETICS,Female,55kg,68,1,Red,USAW Master's Nationals
+Kellie Moylan,65,1Kilo,Female,59kg,72,1,Red,USAW Master's Nationals
+Carrie Thompson,67,5 Rings Barbell,Female,64kg,70,1,Red,USAW Master's Nationals
+Kate Mitchell,66,Brave Barbells N Sprinkles WLC,Female,64kg,70,1,Red,USAW Master's Nationals
+Kim Washington,67,Optimus Barbell Club,Female,64kg,60,1,Red,USAW Master's Nationals
+Bennie Jarvis,66,Unaffiliated,Female,76kg,78,1,Red,USAW Master's Nationals
+Deborah Strobel,67,Pure Health Barbell,Female,87kg,98,1,Red,USAW Master's Nationals
+Doncella Young,66,CHFP WEIGHTLIFTING CLUB,Female,87kg,80,1,Red,USAW Master's Nationals
+Barry Lewis,82,Boulder Barbell Club,Male,89kg,90,1,Blue,USAW Master's Nationals
+JEROME MILLER,76,Unaffiliated,Male,61kg,110,1,Blue,USAW Master's Nationals
+Philip Arnold,77,PARAMOUNT BARBELL CLUB,Male,89kg,127,1,Blue,USAW Master's Nationals
+Joe DeLago,72,MOORESTOWN WLC,Male,61kg,90,1,Blue,USAW Master's Nationals
+Nicholas Weingarten,74,MILLER WEIGHTLIFTING,Male,73kg,110,1,Blue,USAW Master's Nationals
+James Tracy,71,Unaffiliated,Male,81kg,110,1,Blue,USAW Master's Nationals
+Thomas Zucca,73,Unaffiliated,Male,81kg,98,1,Blue,USAW Master's Nationals
+John West,71,Unaffiliated,Male,96kg,125,1,Blue,USAW Master's Nationals
+Christopher Polakowski,70,Delaware and Vermont Weightlifting,Male,96kg,121,1,Blue,USAW Master's Nationals
+Bruce Barry,73,GARAGE STRENGTH,Male,96kg,114,1,Blue,USAW Master's Nationals
+Akiko Stojek,60,Marble Weightlifting,Female,49kg,74,2,Red,USAW Master's Nationals
+gaby morgerman,62,Unaffiliated,Female,55kg,57,2,Red,USAW Master's Nationals
+Deanna Johnson,61,Eastside Barbell,Female,59kg,78,2,Red,USAW Master's Nationals
+Laura Seals,62,Eastside Barbell,Female,59kg,68,2,Red,USAW Master's Nationals
+Tierney Korotkin,64,Team Aita,Female,64kg,90,2,Red,USAW Master's Nationals
+Maureen O'Hagan,60,Cully Strength,Female,64kg,77,2,Red,USAW Master's Nationals
+Debbie Bennett,61,Pilchuck Barbell,Female,64kg,72,2,Red,USAW Master's Nationals
+Litsa Olsson,64,Unaffiliated,Female,71kg,105,2,Red,USAW Master's Nationals
+Barbara Kazmierczak,61,Unaffiliated,Female,76kg,85,2,Red,USAW Master's Nationals
+Margaret binzer,64,CHFP WEIGHTLIFTING CLUB,Female,81kg,98,2,Red,USAW Master's Nationals
+Gwen Chamberlin,62,Summit Barbell,Female,81kg,90,2,Red,USAW Master's Nationals
+Debbie Alexander,63,CLEAN SLATE WEIGHTLIFTING,Female,87+kg,90,2,Red,USAW Master's Nationals
+Kerry Dahl,67,Unaffiliated,Male,89kg,75,2,Blue,USAW Master's Nationals
+Arthur Slade,66,Unaffiliated,Male,73kg,110,2,Blue,USAW Master's Nationals
+Donald Glab,65,Unaffiliated,Male,81kg,135,2,Blue,USAW Master's Nationals
+Teddy Binette,65,Beyond The Barbell,Male,81kg,120,2,Blue,USAW Master's Nationals
+Robert Gallup,67,ALLSOUTH Barbell,Male,81kg,110,2,Blue,USAW Master's Nationals
+Samuel Starkey III,67,Stomp Weightlifting,Male,89kg,145,2,Blue,USAW Master's Nationals
+Charlie Simmons,66,Unaffiliated,Male,89kg,135,2,Blue,USAW Master's Nationals
+Carlos Martinez,67,Unaffiliated,Male,89kg,120,2,Blue,USAW Master's Nationals
+Kevin Kreamer,65,MISSISSIPPI BARBELL,Male,109kg,140,2,Blue,USAW Master's Nationals
+Mark Solomon,67,BUFFALO BARBELL CLUB,Male,109+kg,110,2,Blue,USAW Master's Nationals
+Jennifer Nelson,55,Unaffiliated,Female,55kg,100,3,Red,USAW Master's Nationals
+Alexandra Weill,57,People's Republic of The Dojo,Female,55kg,100,3,Red,USAW Master's Nationals
+Elizabeth Weil,59,MILLER WEIGHTLIFTING,Female,55kg,70,3,Red,USAW Master's Nationals
+Evelyn Knight,55,Southern California Weightlifting Club,Female,59kg,100,3,Red,USAW Master's Nationals
+Judith Anzaldo,59,PRECISION BARBELL,Female,59kg,80,3,Red,USAW Master's Nationals
+Nicole Devine,58,FOUNDATION BARBELL,Female,59kg,75,3,Red,USAW Master's Nationals
+LeAlyce Miller,58,Pilchuck Barbell,Female,64kg,100,3,Red,USAW Master's Nationals
+Gary Gill,56,Unaffiliated,Male,96kg,166,3,Blue,USAW Master's Nationals
+Christopher Follenius,58,Team Florida Gainesville,Male,67kg,165,3,Blue,USAW Master's Nationals
+Matthew Mediatore,57,Unaffiliated,Male,81kg,160,3,Blue,USAW Master's Nationals
+Kevin Dittler,60,Unaffiliated,Male,81kg,160,3,Blue,USAW Master's Nationals
+Raymond Loser,57,Strength Ratio,Male,89kg,152,3,Blue,USAW Master's Nationals
+Marc Silverstein,56,West Chester Weightlifting,Male,73kg,150,3,Blue,USAW Master's Nationals
+Justin Brandstater,58,Unaffiliated,Male,96kg,150,3,Blue,USAW Master's Nationals
+Eric Bramwell,55,POWER AND GRACE PERFORMANCE.,Male,73kg,150,3,Blue,USAW Master's Nationals
+Steve Schang,56,HEAVY METAL BARBELL,Male,89kg,140,3,Blue,USAW Master's Nationals
+RAYMOND BERRY,61,CROSSFIT FORT VANCOUVER BARBELL CLUB,Male,102kg,133,3,Blue,USAW Master's Nationals
+Jerry Wigger,62,Lowcountry Barbell,Male,89kg,130,3,Blue,USAW Master's Nationals
+Russell Seay,64,HARRISBURG WEIGHTLIFTING CLUB,Male,61kg,109,3,Blue,USAW Master's Nationals
+Michelle Picking,56,Team SAW,Female,71kg,130,4,Red,USAW Master's Nationals
+Tatiana Nikitina,55,Manhattan Barbell,Female,71kg,110,4,Red,USAW Master's Nationals
+Halelly Azulay,55,PRECISION BARBELL,Female,71kg,110,4,Red,USAW Master's Nationals
+Lisa Barrow,55,Vardanian Weightlifting,Female,71kg,100,4,Red,USAW Master's Nationals
+Gladys Spaulding,56,McKenna Weightlifting,Female,71kg,85,4,Red,USAW Master's Nationals
+Helen Shiver,57,Butcher Barbell,Female,71kg,80,4,Red,USAW Master's Nationals
+Vicki Piper,58,Unaffiliated,Female,76kg,131,4,Red,USAW Master's Nationals
+Kirstin Boddy,56,Eastside Barbell,Female,76kg,89,4,Red,USAW Master's Nationals
+Loretta Scott,55,Team SAW,Female,81kg,115,4,Red,USAW Master's Nationals
+Krista Dornbush,56,Southern California Weightlifting Club,Female,81kg,110,4,Red,USAW Master's Nationals
+Kelley Howell,57,Eastside Barbell,Female,81kg,100,4,Red,USAW Master's Nationals
+Anna Cannington,58,EAST COAST GOLD W/L TEAM,Female,87kg,110,4,Red,USAW Master's Nationals
+Jana Berhow,58,CHFP WEIGHTLIFTING CLUB,Female,87+kg,96,4,Red,USAW Master's Nationals
+Eric Brown,56,CROSSFIT FORT VANCOUVER BARBELL CLUB,Male,102kg,227,4,Blue,USAW Master's Nationals
+Fernando Chaviano,61,Oly Concepts,Male,73kg,216,4,Blue,USAW Master's Nationals
+Joel Lackey,58,Unaffiliated,Male,89kg,211,4,Blue,USAW Master's Nationals
+Robert Fezza,55,POWER AND GRACE PERFORMANCE.,Male,96kg,205,4,Blue,USAW Master's Nationals
+Robert O'Day,61,Attitude Nation Barbell Club,Male,89kg,201,4,Blue,USAW Master's Nationals
+Tim Hennessey,58,FORZA WEIGHTLIFTING CLUB,Male,89kg,200,4,Blue,USAW Master's Nationals
+Johnny Williams,56,Freedom Weightlifting,Male,102kg,195,4,Blue,USAW Master's Nationals
+Dean Goad,57,CALPIANS WLC,Male,81kg,194,4,Blue,USAW Master's Nationals
+Mark Lado,60,Greenville Weightlifting,Male,102kg,194,4,Blue,USAW Master's Nationals
+John Dalessio,57,CALIFORNIA STRENGTH,Male,89kg,190,4,Blue,USAW Master's Nationals
+Darin Dehle,58,Eastside Barbell,Male,96kg,170,4,Blue,USAW Master's Nationals
+Daniel Nelson,61,Unaffiliated,Male,81kg,167,4,Blue,USAW Master's Nationals
+Julie Carmody,52,Tri State Barbell,Female,45kg,75,5,Red,USAW Master's Nationals
+Janet Chow,50,Oly Concepts,Female,45kg,70,5,Red,USAW Master's Nationals
+Holly Kauffman,54,GARAGE STRENGTH,Female,49kg,80,5,Red,USAW Master's Nationals
+Annia Velazquez Padron,52,Unaffiliated,Female,55kg,135,5,Red,USAW Master's Nationals
+Barbara Brewer,53,Unaffiliated,Female,55kg,93,5,Red,USAW Master's Nationals
+Jara MacDermott,50,CHFP WEIGHTLIFTING CLUB,Female,59kg,136,5,Red,USAW Master's Nationals
+Mira Kwon Gracia,54,Haworth Weightlifting,Female,59kg,125,5,Red,USAW Master's Nationals
+pamela gagnon,51,Unaffiliated,Female,59kg,117,5,Red,USAW Master's Nationals
+Wendi Lubinus,54,Tacoma Strength Weightlifting,Female,59kg,83,5,Red,USAW Master's Nationals
+Amy Farrell,51,MASS Strength,Female,64kg,135,5,Blue,USAW Master's Nationals
+Deanna Montalbano,52,Unaffiliated,Female,64kg,105,5,Blue,USAW Master's Nationals
+Amy Herrera,52,Attitude Nation Barbell Club,Female,64kg,95,5,Blue,USAW Master's Nationals
+Katherine Brown,50,Haworth Weightlifting,Female,71kg,160,5,Blue,USAW Master's Nationals
+Tressie Mullins,52,HEAVY METAL BARBELL,Female,71kg,139,5,Blue,USAW Master's Nationals
+Christie McNair,50,Unaffiliated,Female,71kg,135,5,Blue,USAW Master's Nationals
+Jolene Bollman,51,CROSSFIT FORT VANCOUVER BARBELL CLUB,Female,71kg,117,5,Blue,USAW Master's Nationals
+Brad Baldwin,52,CLEAN SLATE WEIGHTLIFTING,Male,67kg,200,6,Red,USAW Master's Nationals
+Michael Herzog,53,ATLANTA PERFORMANCE,Male,73kg,210,6,Red,USAW Master's Nationals
+Jonathan Willmoth,50,Parish Barbell Club,Male,73kg,182,6,Red,USAW Master's Nationals
+Martin Palma,51,Unaffiliated,Male,73kg,180,6,Red,USAW Master's Nationals
+Michael Romero,50,Unaffiliated,Male,73kg,170,6,Red,USAW Master's Nationals
+Dan Wells,52,Team Juanatas-Bowens,Male,81kg,175,6,Red,USAW Master's Nationals
+Douglas Desatnik,50,Catalyst Masters,Male,81kg,170,6,Red,USAW Master's Nationals
+Brian Zimmerman,50,Unaffiliated,Male,81kg,170,6,Red,USAW Master's Nationals
+Jimmy Kantor,51,Unaffiliated,Male,89kg,204,6,Red,USAW Master's Nationals
+Greg Karas,51,4 Star Strength,Male,89kg,195,6,Red,USAW Master's Nationals
+Armando Ordonez,52,Stonehenge Weightlifting,Male,89kg,191,6,Red,USAW Master's Nationals
+Mike Osborn,51,Unaffiliated,Male,89kg,190,6,Red,USAW Master's Nationals
+Jeven Sloan,50,Wheelhouse Academy,Male,89kg,190,6,Red,USAW Master's Nationals
+Jay Jernigan,51,Wheelhouse Academy,Male,89kg,175,6,Red,USAW Master's Nationals
+Greg Darian,53,Unaffiliated,Male,89kg,172,6,Red,USAW Master's Nationals
+William Loheide,54,Unaffiliated,Male,89kg,168,6,Red,USAW Master's Nationals
+Elizabeth Korchnak,51,CHFP WEIGHTLIFTING CLUB,Female,76kg,125,6,Blue,USAW Master's Nationals
+Elisa Leporini,54,SAYRE PARK WLC,Female,76kg,123,6,Blue,USAW Master's Nationals
+Gwendolyn Montgomery,50,CHFP WEIGHTLIFTING CLUB,Female,76kg,116,6,Blue,USAW Master's Nationals
+Margaret Dubbin,51,BlueWave Weightlifting,Female,76kg,110,6,Blue,USAW Master's Nationals
+Tiffany Pezzulo,50,MILLER WEIGHTLIFTING,Female,76kg,100,6,Blue,USAW Master's Nationals
+Jennifer Valosek,50,CALIFORNIA STRENGTH,Female,81kg,125,6,Blue,USAW Master's Nationals
+Susanne Taggi,50,Unaffiliated,Female,81kg,114,6,Blue,USAW Master's Nationals
+Chris Brown,54,CLEAN SLATE WEIGHTLIFTING,Female,81kg,112,6,Blue,USAW Master's Nationals
+Joy Baganz,51,Unaffiliated,Female,81kg,100,6,Blue,USAW Master's Nationals
+Brandy Thomas,51,Unaffiliated,Female,87kg,98,6,Blue,USAW Master's Nationals
+Kristina Teel,54,The Strength Shack,Female,87+kg,138,6,Blue,USAW Master's Nationals
+Tammy Berry,51,CROSSFIT FORT VANCOUVER BARBELL CLUB,Female,87+kg,113,6,Blue,USAW Master's Nationals
+Heather Thrush,48,RUBBER CITY WEIGHTLIFTING,Female,49kg,118,7,Red,USAW Master's Nationals
+Melissa Sue JutrasKamphake,45,EAST COAST GOLD W/L TEAM,Female,49kg,108,7,Red,USAW Master's Nationals
+Kelly Rexroad Williams,47,WILLIAMS WEIGHTLIFTING,Female,49kg,101,7,Red,USAW Master's Nationals
+Huyen-Lam Nguyen,48,Catalyst Masters,Female,49kg,85,7,Red,USAW Master's Nationals
+Rebecca Anderson,45,Catalyst Masters,Female,55kg,125,7,Red,USAW Master's Nationals
+Lauren Storck,47,ATLANTA PERFORMANCE,Female,55kg,125,7,Red,USAW Master's Nationals
+ANGELA TUCKER,48,HEAVY METAL BARBELL,Female,55kg,110,7,Red,USAW Master's Nationals
+Kerri Mailer carreira,48,Keep Pulling,Female,55kg,100,7,Red,USAW Master's Nationals
+Samantha Mosher,45,Unaffiliated,Female,55kg,98,7,Red,USAW Master's Nationals
+Merenciana Paulus,45,Jake Pudenz Strength & Power,Female,55kg,88,7,Red,USAW Master's Nationals
+Katherine Hejtmanek,47,Brooklyn Training Hall,Female,59kg,145,7,White,USAW Master's Nationals
+Heather Albro,49,BLUEGRASS BARBELL CLUB,Female,59kg,125,7,White,USAW Master's Nationals
+Rachel Batista,49,Unaffiliated,Female,59kg,125,7,White,USAW Master's Nationals
+Lynnette Hull,46,Brave Barbells N Sprinkles WLC,Female,59kg,120,7,White,USAW Master's Nationals
+Soupha Jones,49,CALAVERA BARBELL,Female,59kg,115,7,White,USAW Master's Nationals
+ALEXANDRIA Zikoyanis,45,Unaffiliated,Female,59kg,113,7,White,USAW Master's Nationals
+Kimberly Barham,48,PTW Training,Female,59kg,99,7,White,USAW Master's Nationals
+Alicia Bryan,48,Unaffiliated,Female,59kg,87,7,White,USAW Master's Nationals
+Kurby Brown Jr,50,McKenna Weightlifting,Male,96kg,225,7,Blue,USAW Master's Nationals
+Christopher Gregg,54,Root 18 Weightlifting,Male,96kg,196,7,Blue,USAW Master's Nationals
+Roy Lesui,53,Unaffiliated,Male,102kg,220,7,Blue,USAW Master's Nationals
+Steve Griffin,54,PTW Training,Male,102kg,200,7,Blue,USAW Master's Nationals
+Chris Wagner,53,Cherokee Barbell,Male,102kg,190,7,Blue,USAW Master's Nationals
+Joseph DeStasio,54,Shoofly Barbell Club,Male,102kg,190,7,Blue,USAW Master's Nationals
+Danny Henry,54,Team Juanatas-Bowens,Male,102kg,184,7,Blue,USAW Master's Nationals
+Gregory Vallee,52,Swamp Cabbage Barbell Club,Male,109kg,210,7,Blue,USAW Master's Nationals
+Tony Keeler,52,Oly Concepts,Male,109kg,210,7,Blue,USAW Master's Nationals
+Jason Long,52,Unaffiliated,Male,109kg,200,7,Blue,USAW Master's Nationals
+Valerie Greenslade,49,Oly Concepts,Female,64kg,140,8,Red,USAW Master's Nationals
+Crysta Parkin,48,ROCHESTER BARBELL CLUB,Female,64kg,137,8,Red,USAW Master's Nationals
+Kelly Smith,46,Boombox Barbell,Female,64kg,113,8,Red,USAW Master's Nationals
+Brandi Fallica,48,Southern California Weightlifting Club,Female,64kg,110,8,Red,USAW Master's Nationals
+Jen Kicker,47,Unaffiliated,Female,64kg,105,8,Red,USAW Master's Nationals
+Jaime Jones,47,ALLSOUTH Barbell,Female,64kg,105,8,Red,USAW Master's Nationals
+Kamber Sherrod,45,DC WEIGHTLIFTING CLUB,Female,64kg,105,8,Red,USAW Master's Nationals
+Alicia Greer,48,TOUGH TEMPLE BARBELL CLUB,Female,64kg,105,8,Red,USAW Master's Nationals
+Carolyn Bryant,46,West Coast Weightlifting,Female,64kg,100,8,Red,USAW Master's Nationals
+Natalie Dale,48,Vektløfter Barbell,Female,64kg,98,8,Red,USAW Master's Nationals
+Sally Stephens,47,Echo Weightlifting,Female,64kg,97,8,Red,USAW Master's Nationals
+Aimee Anaya Everett,48,CATALYST ATHLETICS,Female,71kg,155,8,White,USAW Master's Nationals
+Jennifer Riley,46,Unaffiliated,Female,71kg,123,8,White,USAW Master's Nationals
+Samantha Artiga,49,CHFP WEIGHTLIFTING CLUB,Female,71kg,122,8,White,USAW Master's Nationals
+Alexis Horn,47,Team Aita,Female,71kg,117,8,White,USAW Master's Nationals
+Jodi Lin,45,BARBARIAN BARBELL CLUB,Female,71kg,112,8,White,USAW Master's Nationals
+Megan Vickery,48,CROSSFIT FORT VANCOUVER BARBELL CLUB,Female,71kg,110,8,White,USAW Master's Nationals
+Pennye Stansel,49,HEAVY METAL BARBELL,Female,71kg,110,8,White,USAW Master's Nationals
+Kirsten Spargo,45,People's Republic of The Dojo,Female,71kg,104,8,White,USAW Master's Nationals
+Torie Mathis,47,Unaffiliated,Female,71kg,100,8,White,USAW Master's Nationals
+Alison Blaum,48,PTW Training,Female,71kg,100,8,White,USAW Master's Nationals
+Alison Roark,47,Swamp Cabbage Barbell Club,Female,71kg,92,8,White,USAW Master's Nationals
+Tony Lau,47,FOUNDATION BARBELL,Male,67kg,187,8,Blue,USAW Master's Nationals
+Eric Chang,48,HI PERFORMANCE ATHLETICS,Male,67kg,170,8,Blue,USAW Master's Nationals
+Keith Whitmore,45,CROSSFIT FORT VANCOUVER BARBELL CLUB,Male,67kg,163,8,Blue,USAW Master's Nationals
+Chris Miller,46,Unaffiliated,Male,73kg,195,8,Blue,USAW Master's Nationals
+John Negron,48,Unaffiliated,Male,73kg,185,8,Blue,USAW Master's Nationals
+David Seltzer,45,Tri State Barbell,Male,73kg,170,8,Blue,USAW Master's Nationals
+Chris Carreira,48,Keep Pulling,Male,73kg,167,8,Blue,USAW Master's Nationals
+Fred Macaraeg,48,12 Labours Barbell,Male,81kg,210,8,Blue,USAW Master's Nationals
+matthew gonzalez,46,HEAVY METAL BARBELL,Male,81kg,210,8,Blue,USAW Master's Nationals
+Nathan Black,46,Unaffiliated,Male,81kg,208,8,Blue,USAW Master's Nationals
+Corey Johnson,45,Heartland Strength,Male,81kg,175,8,Blue,USAW Master's Nationals
+Renee Michelle Burnette,46,ALLSOUTH Barbell,Female,76kg,90,9,Red,USAW Master's Nationals
+Ayse Sukola,45,Cherokee Barbell,Female,76kg,125,9,Red,USAW Master's Nationals
+Faith Hilterbrand,47,Superfly Barbell Club,Female,76kg,125,9,Red,USAW Master's Nationals
+Jewelyn Cabigon,48,HI PERFORMANCE ATHLETICS,Female,76kg,120,9,Red,USAW Master's Nationals
+Hanna Estevez,45,Unaffiliated,Female,76kg,120,9,Red,USAW Master's Nationals
+Angela Di Fiore,48,Catalyst Masters,Female,76kg,113,9,Red,USAW Master's Nationals
+Kelley Marsh,48,Down South Barbell,Female,76kg,109,9,Red,USAW Master's Nationals
+Misty Hill,49,Vektløfter Barbell,Female,76kg,103,9,Red,USAW Master's Nationals
+Amy Hovan,48,Eastside Barbell,Female,81kg,174,9,Red,USAW Master's Nationals
+Jessica Beal,45,Oly Concepts,Female,81kg,148,9,Red,USAW Master's Nationals
+Colleen Moon,45,Desert Devil Barbell,Female,81kg,141,9,Red,USAW Master's Nationals
+Melissa Melvin-Rodriguez,46,HEAVY METAL BARBELL,Female,81kg,120,9,Red,USAW Master's Nationals
+Melissa Selk,48,Unaffiliated,Female,81kg,113,9,Red,USAW Master's Nationals
+Paula Habel,46,PAWSitive Barbell Club,Female,87kg,147,9,White,USAW Master's Nationals
+Marissa Sterrett,46,Vardanian Weightlifting,Female,87kg,140,9,White,USAW Master's Nationals
+Lindsay Pitzer,47,12 Labours Barbell,Female,87kg,125,9,White,USAW Master's Nationals
+Brandi Eustice,45,Buff City Barbell,Female,87kg,120,9,White,USAW Master's Nationals
+Chelsea Hopkins,49,Eastside Barbell,Female,87+kg,164,9,White,USAW Master's Nationals
+Candace Sneed,45,Unaffiliated,Female,87+kg,132,9,White,USAW Master's Nationals
+Natasha Wunderlich,46,McKenna Weightlifting,Female,87+kg,130,9,White,USAW Master's Nationals
+Kelly Smotherman,45,Unaffiliated,Female,87+kg,128,9,White,USAW Master's Nationals
+Kelli Wells,48,CHFP WEIGHTLIFTING CLUB,Female,87+kg,120,9,White,USAW Master's Nationals
+Tracy Bolsinger,48,Seven Pound Lifting,Female,87+kg,117,9,White,USAW Master's Nationals
+Donna Richards,48,CROSSFIT FORT VANCOUVER BARBELL CLUB,Female,87+kg,115,9,White,USAW Master's Nationals
+Rebecca Pearce,45,3P Weightlifting,Female,87+kg,112,9,White,USAW Master's Nationals
+Christopher Robertson,45,Unaffiliated,Male,89kg,246,9,Blue,USAW Master's Nationals
+Efe Sozkesen,45,Standard Strength,Male,89kg,205,9,Blue,USAW Master's Nationals
+Neil Roberts,45,TOUGH TEMPLE BARBELL CLUB,Male,89kg,205,9,Blue,USAW Master's Nationals
+Noah Oliphant,46,Wheelhouse Academy,Male,89kg,195,9,Blue,USAW Master's Nationals
+Garret St. Onge,46,Wormtown Weightlifting,Male,89kg,190,9,Blue,USAW Master's Nationals
+David Jones,48,ALLSOUTH Barbell,Male,89kg,187,9,Blue,USAW Master's Nationals
+Benton Ives,49,Unaffiliated,Male,89kg,185,9,Blue,USAW Master's Nationals
+Michael Ben-Hain,49,Bexar Barbell,Male,89kg,184,9,Blue,USAW Master's Nationals
+Jessica Taylor,42,Team SAW,Female,64kg,121,10,Red,USAW Master's Nationals
+Trina Sumodobila,42,BARBARIAN BARBELL CLUB,Female,64kg,121,10,Red,USAW Master's Nationals
+Jennifer Spafford,41,Kenmore Barbell Club,Female,64kg,120,10,Red,USAW Master's Nationals
+Angela White,44,Unaffiliated,Female,64kg,120,10,Red,USAW Master's Nationals
+Bethany Weaver,43,Unaffiliated,Female,64kg,120,10,Red,USAW Master's Nationals
+Lisa Nichols,41,Schuster Athletics,Female,64kg,120,10,Red,USAW Master's Nationals
+Kathleen Black,42,Wormtown Weightlifting,Female,64kg,118,10,Red,USAW Master's Nationals
+Rene Bermudez,41,Cully Strength,Female,64kg,116,10,Red,USAW Master's Nationals
+Erica Skinner,41,HEAVY METAL BARBELL,Female,64kg,115,10,Red,USAW Master's Nationals
+Juliana Gil,42,TEAM OMNIA,Female,64kg,114,10,Red,USAW Master's Nationals
+Christina Girton,44,Unaffiliated,Female,64kg,110,10,Red,USAW Master's Nationals
+Christine Kato,40,Southern California Weightlifting Club,Female,64kg,106,10,Red,USAW Master's Nationals
+Allyson Cochran,43,HEAVY METAL BARBELL,Female,64kg,100,10,Red,USAW Master's Nationals
+Jennifer Fullhart,40,A1 Barbell Club,Female,49kg,135,10,White,USAW Master's Nationals
+Nile Franklin,40,Wilder Athletics,Female,49kg,130,10,White,USAW Master's Nationals
+Amy Smith,41,Unaffiliated,Female,55kg,152,10,White,USAW Master's Nationals
+Rachael Bommicino,44,Grow or Die Barbell,Female,55kg,127,10,White,USAW Master's Nationals
+Emily Lau,40,FOUNDATION BARBELL,Female,55kg,123,10,White,USAW Master's Nationals
+Jane Jones,41,Fourteen Forty Collective,Female,55kg,119,10,White,USAW Master's Nationals
+Karen Agena,44,CHFP WEIGHTLIFTING CLUB,Female,59kg,119,10,White,USAW Master's Nationals
+Aubrey Raymond,40,Powerhouse Functional Fitness,Female,59kg,117,10,White,USAW Master's Nationals
+Tiffany Hoffner,43,BAM Weightlifting Club,Female,59kg,115,10,White,USAW Master's Nationals
+Mariya Kalishchuk,40,Unaffiliated,Female,59kg,110,10,White,USAW Master's Nationals
+Dijana Stojanovski,42,Unaffiliated,Female,59kg,104,10,White,USAW Master's Nationals
+Joy Munyan,43,HEAVY METAL BARBELL,Female,59kg,100,10,White,USAW Master's Nationals
+Jonathan Herrera,48,Unaffiliated,Male,96kg,220,10,Blue,USAW Master's Nationals
+Lee Sikon,46,North 41 Barbell,Male,96kg,215,10,Blue,USAW Master's Nationals
+Jason Adams,45,Unaffiliated,Male,96kg,210,10,Blue,USAW Master's Nationals
+Marq Cerqua,48,Unaffiliated,Male,96kg,210,10,Blue,USAW Master's Nationals
+Peter Schied,45,Tsunami Weightlifting System,Male,96kg,200,10,Blue,USAW Master's Nationals
+Bryan Bee,46,Wheelhouse Academy,Male,102kg,220,10,Blue,USAW Master's Nationals
+Max Sterling,48,Haworth Weightlifting,Male,102kg,207,10,Blue,USAW Master's Nationals
+Kevin Wright,49,FOREVER YOUNG BARBELL,Male,102kg,205,10,Blue,USAW Master's Nationals
+Ruben Martinez,47,Bexar Barbell,Male,102kg,200,10,Blue,USAW Master's Nationals
+Jason Dinius,46,PR WEIGHTLIFTING,Male,109kg,275,10,Blue,USAW Master's Nationals
+Cody Looney,45,Wolf Pack Weightlifting,Male,109kg,220,10,Blue,USAW Master's Nationals
+Jason Kristal,46,Unaffiliated,Male,109+kg,275,10,Blue,USAW Master's Nationals
+Chris Walls,45,CROSSFIT FORT VANCOUVER BARBELL CLUB,Male,109+kg,244,10,Blue,USAW Master's Nationals
+Jonathan Schultz,46,Unaffiliated,Male,109+kg,200,10,Blue,USAW Master's Nationals
+Traci Beaune,40,Optimus Barbell Club,Female,64kg,180,11,Red,USAW Master's Nationals
+Abigail Hoskins,43,POWER AND GRACE PERFORMANCE.,Female,64kg,168,11,Red,USAW Master's Nationals
+Christina Henesian,43,Unaffiliated,Female,64kg,148,11,Red,USAW Master's Nationals
+Kristin Maselli,43,Red Eye Barbell Club,Female,64kg,148,11,Red,USAW Master's Nationals
+Kelly Nichols,40,BASA Weightlifting,Female,64kg,140,11,Red,USAW Master's Nationals
+Erinn Frazer,43,PROJECT LIFT,Female,64kg,138,11,Red,USAW Master's Nationals
+Brenda Emery,44,Fourteen Forty Collective,Female,64kg,136,11,Red,USAW Master's Nationals
+Rachel Bryla,40,Team SAW,Female,64kg,132,11,Red,USAW Master's Nationals
+Megan Patton,40,Brave Barbells N Sprinkles WLC,Female,64kg,132,11,Red,USAW Master's Nationals
+Rebeca Stephenson,40,Oly Concepts,Female,64kg,129,11,Red,USAW Master's Nationals
+Charlene Sattler,43,Bexar Barbell,Female,64kg,125,11,Red,USAW Master's Nationals
+Jillian Wagner-Green,40,Catalyst Masters,Female,64kg,125,11,Red,USAW Master's Nationals
+Patricia Lawson,40,Milo Strength Weightlifting Club,Female,59kg,146,11,White,USAW Master's Nationals
+Cameron Barden,41,POWER AND GRACE PERFORMANCE.,Female,59kg,145,11,White,USAW Master's Nationals
+Cynthia Rae,40,Down South Barbell,Female,59kg,142,11,White,USAW Master's Nationals
+Libby Elias,41,Tri State Barbell,Female,59kg,140,11,White,USAW Master's Nationals
+Katy Large,42,POWER AND GRACE PERFORMANCE.,Female,59kg,134,11,White,USAW Master's Nationals
+Amy Callori,40,BEANTOWN BARBELL CLUB,Female,59kg,133,11,White,USAW Master's Nationals
+Lindsey Kujawski,41,Unaffiliated,Female,59kg,130,11,White,USAW Master's Nationals
+Maryam Zanbagh,42,Built By Becker Weightlifting Club,Female,59kg,130,11,White,USAW Master's Nationals
+Leah EdwArds,44,ALPHA BARBELL,Female,59kg,129,11,White,USAW Master's Nationals
+Shunsuke Nakao,42,Koyano Weightlifting,Male,61kg,169,11,Blue,USAW Master's Nationals
+Jethro Acenas,42,Unaffiliated,Male,67kg,171,11,Blue,USAW Master's Nationals
+Wes Richardson,43,HEAVY METAL BARBELL,Male,67kg,170,11,Blue,USAW Master's Nationals
+Christopher Douglas,44,PARAMOUNT BARBELL CLUB,Male,73kg,249,11,Blue,USAW Master's Nationals
+Edwin Johnson,43,Unaffiliated,Male,73kg,188,11,Blue,USAW Master's Nationals
+onan marroquin,40,Unaffiliated,Male,81kg,220,11,Blue,USAW Master's Nationals
+Justin Goonan,43,Unaffiliated,Male,81kg,220,11,Blue,USAW Master's Nationals
+Brian Leung,42,CHFP WEIGHTLIFTING CLUB,Male,81kg,220,11,Blue,USAW Master's Nationals
+Carl Nelson,42,MURDER OF CROWS,Male,81kg,217,11,Blue,USAW Master's Nationals
+John Erwin,40,COASTAL EMPIRE WEIGHTLIFTING,Male,81kg,215,11,Blue,USAW Master's Nationals
+Terrence O'Neil,43,True North Weightlifting,Male,81kg,200,11,Blue,USAW Master's Nationals
+Carlos Hernandez,44,CALAVERA BARBELL,Male,81kg,200,11,Blue,USAW Master's Nationals
+Lionel Bravo,42,BARBARIAN BARBELL CLUB,Male,81kg,198,11,Blue,USAW Master's Nationals
+Carlos Concepcion,41,Unaffiliated,Male,81kg,190,11,Blue,USAW Master's Nationals
+Phillip Bost,43,HEAVY METAL BARBELL,Male,81kg,189,11,Blue,USAW Master's Nationals
+Nastaran Whitson,43,Tri State Barbell,Female,71kg,120,12,Red,USAW Master's Nationals
+Nikki Ouellette,40,Wormtown Weightlifting,Female,71kg,120,12,Red,USAW Master's Nationals
+Karen O'Donnell,42,Built By Becker Weightlifting Club,Female,71kg,120,12,Red,USAW Master's Nationals
+Tiffany Pan,41,CHFP WEIGHTLIFTING CLUB,Female,71kg,120,12,Red,USAW Master's Nationals
+Ashley Cullen,42,RVA Weightlifting,Female,71kg,120,12,Red,USAW Master's Nationals
+Andrea Dyar,42,Jake Pudenz Strength & Power,Female,71kg,115,12,Red,USAW Master's Nationals
+Roslyn Taylor,44,Littleton Performance Barbell,Female,71kg,114,12,Red,USAW Master's Nationals
+Sara Liu,40,Echo Weightlifting,Female,71kg,110,12,Red,USAW Master's Nationals
+Rachel Romano,43,Unaffiliated,Female,71kg,109,12,Red,USAW Master's Nationals
+Jennifer Fite,41,POWER AND GRACE PERFORMANCE.,Female,71kg,109,12,Red,USAW Master's Nationals
+Charina Vintson,43,Butcher Barbell,Female,71kg,109,12,Red,USAW Master's Nationals
+John Gilleland,41,Unaffiliated,Male,89kg,275,12,White,USAW Master's Nationals
+Bryann Turner,41,Eastside Barbell,Male,89kg,270,12,White,USAW Master's Nationals
+Nathan Pickard,42,Unaffiliated,Male,89kg,250,12,White,USAW Master's Nationals
+Jonathan Raymond,44,Steadfast Barbell,Male,89kg,250,12,White,USAW Master's Nationals
+Terrence Roland,43,ALLSOUTH Barbell,Male,89kg,210,12,White,USAW Master's Nationals
+Erik Schreiber,41,Unaffiliated,Male,96kg,261,12,White,USAW Master's Nationals
+Mike Garrett,41,95East Barbell Club,Male,96kg,250,12,White,USAW Master's Nationals
+Neville Chu,42,Unaffiliated,Male,96kg,225,12,White,USAW Master's Nationals
+Marciano Pimentel,43,Unaffiliated,Male,96kg,202,12,White,USAW Master's Nationals
+Danielle Ashley,40,DSSC Weightlifting,Female,71kg,135,13,Red,USAW Master's Nationals
+Kalina Lesseva,40,People's Republic of The Dojo,Female,71kg,135,13,Red,USAW Master's Nationals
+Daisy May Gutierrez,44,FOUNDATION BARBELL,Female,71kg,135,13,Red,USAW Master's Nationals
+Shelli Poe,44,CHFP WEIGHTLIFTING CLUB,Female,71kg,135,13,Red,USAW Master's Nationals
+Lynsey Hathcock,41,Unaffiliated,Female,71kg,134,13,Red,USAW Master's Nationals
+Rebekah Horn,41,Unaffiliated,Female,71kg,133,13,Red,USAW Master's Nationals
+Stormy Weather,41,Unaffiliated,Female,71kg,126,13,Red,USAW Master's Nationals
+Jessica Lake,43,POWER AND GRACE PERFORMANCE.,Female,71kg,125,13,Red,USAW Master's Nationals
+Morgan Memmott,43,Unaffiliated,Female,71kg,124,13,Red,USAW Master's Nationals
+Brooke Thompson,40,Unaffiliated,Female,71kg,122,13,Red,USAW Master's Nationals
+Phoebe Storck,12,ATLANTA PERFORMANCE,Female,,37,13,White,USAW Master's Nationals
+Jayde Duncan,8,South Georgia Barbell,Female,,30,13,White,USAW Master's Nationals
+Hadley Tillman,8,South Georgia Barbell,Female,,30,13,White,USAW Master's Nationals
+Lilia Demers,19,Floyd Farms Weightlifting,Female,,90,13,White,USAW Master's Nationals
+Talayna Britt,10,WILLIAMS WEIGHTLIFTING,Female,,65,13,White,USAW Master's Nationals
+KAIDENCE WASHINGTON,11,COASTAL EMPIRE WEIGHTLIFTING,Female,,60,13,White,USAW Master's Nationals
+Leila Ray,14,South Georgia Barbell,Female,,90,13,White,USAW Master's Nationals
+Ellie Kichler,15,South Georgia Barbell,Female,,100,13,White,USAW Master's Nationals
+Imani Washington,12,COASTAL EMPIRE WEIGHTLIFTING,Female,,70,13,White,USAW Master's Nationals
+Gabrielle Holmes,11,COASTAL EMPIRE WEIGHTLIFTING,Female,,40,13,White,USAW Master's Nationals
+Judah Mangrum,18,Zoetic Weightlifting,Female,,150,13,White,USAW Master's Nationals
+sofia kokorina,16,W GA WSO U17,Female,,128,13,White,USAW Master's Nationals
+Emma Meads,17,South Georgia Barbell,Female,,135,13,White,USAW Master's Nationals
+Anthony Pantazides Jr,41,Cherokee Barbell,Male,102kg,260,13,Blue,USAW Master's Nationals
+Adrian Francis,42,Wellbuilt Strength,Male,102kg,257,13,Blue,USAW Master's Nationals
+Steven Bambinelli,40,Vardanian Weightlifting,Male,102kg,255,13,Blue,USAW Master's Nationals
+david ethier,42,Providence Barbell Club,Male,102kg,250,13,Blue,USAW Master's Nationals
+Eric Brandom,40,Cheshire Weightlifting Club,Male,102kg,245,13,Blue,USAW Master's Nationals
+Eligio Sotelo,40,Jake Pudenz Strength & Power,Male,102kg,225,13,Blue,USAW Master's Nationals
+Mike Isman,43,Unaffiliated,Male,102kg,217,13,Blue,USAW Master's Nationals
+Herrick Chang,40,Polaris Weightlifting,Male,102kg,211,13,Blue,USAW Master's Nationals
+Kristin Brimhall,42,Unaffiliated,Female,81kg,123,14,Red,USAW Master's Nationals
+Paige Hernandez,41,CALAVERA BARBELL,Female,76kg,120,14,Red,USAW Master's Nationals
+Keli Holley,41,EAST ALABAMA WEIGHTLIFTING,Female,81kg,120,14,Red,USAW Master's Nationals
+Emily Heiberg,41,Industrial Strength WLC,Female,76kg,120,14,Red,USAW Master's Nationals
+Tracy Wong,40,FOUNDATION BARBELL,Female,76kg,120,14,Red,USAW Master's Nationals
+LeslieAnne Pester,43,Oly Concepts,Female,81kg,119,14,Red,USAW Master's Nationals
+Heather Myers,40,BAM Weightlifting Club,Female,81kg,117,14,Red,USAW Master's Nationals
+Kate Jensen,41,Giffy’s Barbell Club,Female,87kg,116,14,Red,USAW Master's Nationals
+Tristin Miller,43,Unaffiliated,Female,81kg,112,14,Red,USAW Master's Nationals
+Yecenia Feliz,43,FOREVER YOUNG BARBELL,Female,87kg,110,14,Red,USAW Master's Nationals
+Mateo Villa,40,RUBBER CITY WEIGHTLIFTING,Male,109kg,290,14,White,USAW Master's Nationals
+John Smith,42,Brave Barbells N Sprinkles WLC,Male,109kg,270,14,White,USAW Master's Nationals
+Jeffrey Gerlach,41,Vardanian Weightlifting,Male,109kg,255,14,White,USAW Master's Nationals
+Daniel Brown,41,Bexar Barbell,Male,109kg,250,14,White,USAW Master's Nationals
+Steven Doughty,43,Stay Golden Barbell,Male,109kg,235,14,White,USAW Master's Nationals
+George Gallaway,42,CHFP WEIGHTLIFTING CLUB,Male,109kg,211,14,White,USAW Master's Nationals
+Timothy Clouatre,41,Blackheart Barbell,Male,109+kg,285,14,White,USAW Master's Nationals
+Mike Preston,43,POWER AND GRACE PERFORMANCE.,Male,109+kg,250,14,White,USAW Master's Nationals
+Matthew Boyd,42,Team SAW,Male,109+kg,250,14,White,USAW Master's Nationals
+Cyrus Rasnavad,40,First Coast Weightlifting,Male,109+kg,218,14,White,USAW Master's Nationals
+Thomas Reynolds,42,Unaffiliated,Male,109+kg,218,14,White,USAW Master's Nationals
+Francisco Chacon-Rovira,13,West Georgia Weightlifting,Male,,95,14,Blue,USAW Master's Nationals
+charles colbaugh,12,Bowen Elite Weightlifting,Male,,50,14,Blue,USAW Master's Nationals
+Hunter Simmons,10,COASTAL EMPIRE WEIGHTLIFTING,Male,,40,14,Blue,USAW Master's Nationals
+Saxon Colbaugh,15,Bowen Elite Weightlifting,Male,,90,14,Blue,USAW Master's Nationals
+Gavin Nelms,20,Floyd Farms Weightlifting,Male,,195,14,Blue,USAW Master's Nationals
+Ashby Floyd,20,Floyd Farms Weightlifting,Male,,230,14,Blue,USAW Master's Nationals
+Jaden Smith,15,COASTAL EMPIRE WEIGHTLIFTING,Male,,110,14,Blue,USAW Master's Nationals
+Nathan Cleghorn,18,M GA WSO JR,Male,,200,14,Blue,USAW Master's Nationals
+Freddy Perez,20,West Georgia Weightlifting,Male,,180,14,Blue,USAW Master's Nationals
+Ahmad Minor,17,COASTAL EMPIRE WEIGHTLIFTING,Male,,180,14,Blue,USAW Master's Nationals
+"Alonzo Richardson, Jr.",14,COASTAL EMPIRE WEIGHTLIFTING,Male,,80,14,Blue,USAW Master's Nationals
+Emory McFann,16,Rising Tide Weightlifting,Male,,220,14,Blue,USAW Master's Nationals
+Trent Hagiya,37,Daidalos Weightlifting,Male,67kg,240,15,Red,USAW Master's Nationals
+Brian Horwath,36,Tri State Barbell,Male,67kg,200,15,Red,USAW Master's Nationals
+Shamil Parbhoo,38,Lupo Barbell Club,Male,67kg,194,15,Red,USAW Master's Nationals
+Nico Paulo Tolentino,35,Kim Barbell,Male,67kg,190,15,Red,USAW Master's Nationals
+donald keller lll,37,Unaffiliated,Male,67kg,181,15,Red,USAW Master's Nationals
+Bryan Jow,37,Gryphon Strength Barbell,Male,73kg,250,15,Red,USAW Master's Nationals
+Jacob Howard,37,Wolf Pack Weightlifting,Male,73kg,225,15,Red,USAW Master's Nationals
+Timothy Everhart,35,CHFP WEIGHTLIFTING CLUB,Male,73kg,220,15,Red,USAW Master's Nationals
+Joshua Claravall,37,Unaffiliated,Male,73kg,220,15,Red,USAW Master's Nationals
+Tim Lorenz,36,Denver Barbell Club,Male,73kg,205,15,Red,USAW Master's Nationals
+Sean Higgins,37,Unaffiliated,Male,73kg,193,15,Red,USAW Master's Nationals
+Ryan Miller,39,Industrial Strength WLC,Male,73kg,191,15,Red,USAW Master's Nationals
+Michael Sullivan,36,Unaffiliated,Male,73kg,190,15,Red,USAW Master's Nationals
+Amber Butler,42,W GA WSO OPEN,Female,76kg,112,15,White,USAW Master's Nationals
+Katy Lott,50,MaxOut Barbell,Female,71kg,110,15,White,USAW Master's Nationals
+Meagan Chisholm,39,South Georgia Barbell,Female,59kg,109,15,White,USAW Master's Nationals
+Kailey Diatikar,22,ATLANTA PERFORMANCE,Female,,106,15,White,USAW Master's Nationals
+Natalie Richardson,31,Cherokee Barbell,Female,,100,15,White,USAW Master's Nationals
+Torie Mathis,47,W GA WSO OPEN,Female,71kg,100,15,White,USAW Master's Nationals
+Caitlin Meyer,27,West Georgia Weightlifting,Female,,100,15,White,USAW Master's Nationals
+Ashley Bowen,37,Bowen Elite Weightlifting,Female,64kg,99,15,White,USAW Master's Nationals
+Kenya Blocker,41,W GA WSO OPEN,Female,87+kg,95,15,White,USAW Master's Nationals
+Megan Warburg,33,South Georgia Barbell,Female,,95,15,White,USAW Master's Nationals
+Lachelle Phillips,40,West Georgia Weightlifting,Female,81kg,90,15,White,USAW Master's Nationals
+Renee Michelle Burnette,46,ALLSOUTH Barbell,Female,76kg,90,15,White,USAW Master's Nationals
+Shasda Bishop,39,Bowen Elite Weightlifting,Female,87kg,67,15,White,USAW Master's Nationals
+Maria Paramo,30,South Georgia Barbell,Female,,65,15,White,USAW Master's Nationals
+Natasha Bowen,50,Bowen Elite Weightlifting,Female,64kg,65,15,White,USAW Master's Nationals
+Jennifer White,42,POWER AND GRACE PERFORMANCE.,Female,71kg,175,15,Blue,USAW Master's Nationals
+Alise Enriquez,40,Eastside Barbell,Female,71kg,166,15,Blue,USAW Master's Nationals
+Teralyn Carter,40,FRONT RANGE WLC,Female,71kg,165,15,Blue,USAW Master's Nationals
+Laura Meador,43,Unaffiliated,Female,71kg,165,15,Blue,USAW Master's Nationals
+Stephanie Jefferson,40,Unaffiliated,Female,71kg,165,15,Blue,USAW Master's Nationals
+Kate Painter,41,Brave Barbells N Sprinkles WLC,Female,71kg,151,15,Blue,USAW Master's Nationals
+Courtney Shoemaker,40,HEAVY METAL BARBELL,Female,71kg,150,15,Blue,USAW Master's Nationals
+Angelica Rosales,40,RVA Weightlifting,Female,71kg,141,15,Blue,USAW Master's Nationals
+Corinne Van Deusen,41,Root 18 Weightlifting,Female,71kg,140,15,Blue,USAW Master's Nationals
+Jessica Cummings,43,Providence Barbell Club,Female,71kg,138,15,Blue,USAW Master's Nationals
+Sean Nguyen,35,BARBARIAN BARBELL CLUB,Male,81kg,265,16,Red,USAW Master's Nationals
+Javan Freyenberger,35,Jake Pudenz Strength & Power,Male,81kg,260,16,Red,USAW Master's Nationals
+Aaron Denney,37,ALLSOUTH Barbell,Male,81kg,245,16,Red,USAW Master's Nationals
+Tony Schuster,38,Heartland Strength,Male,81kg,240,16,Red,USAW Master's Nationals
+steven franklin,37,Unaffiliated,Male,81kg,240,16,Red,USAW Master's Nationals
+Gary Esparza,36,Gary’s Gym,Male,81kg,220,16,Red,USAW Master's Nationals
+Luis Martinez,36,West Georgia Weightlifting,Male,81kg,220,16,Red,USAW Master's Nationals
+Jeff Boughton,37,Highland Weightlifting,Male,81kg,215,16,Red,USAW Master's Nationals
+John Fasulo,36,Unaffiliated,Male,81kg,204,16,Red,USAW Master's Nationals
+Matt Reeves,37,Unaffiliated,Male,81kg,200,16,Red,USAW Master's Nationals
+Justin Rae,36,Down South Barbell,Male,81kg,200,16,Red,USAW Master's Nationals
+Rachel Kremer,43,Superfly Barbell Club,Female,76kg,150,16,White,USAW Master's Nationals
+Lacey Sotelo,43,Jake Pudenz Strength & Power,Female,76kg,150,16,White,USAW Master's Nationals
+Jamie Adams,44,Atlas Weightlifting Club,Female,76kg,145,16,White,USAW Master's Nationals
+Rachel Reiboldt,42,POWER AND GRACE PERFORMANCE.,Female,81kg,145,16,White,USAW Master's Nationals
+Lisa Bagby,41,CHFP WEIGHTLIFTING CLUB,Female,87kg,140,16,White,USAW Master's Nationals
+Alba Fortuna,41,Unaffiliated,Female,76kg,136,16,White,USAW Master's Nationals
+Brigitte Bieyro,41,LuxFit Barbell Club,Female,76kg,135,16,White,USAW Master's Nationals
+Silvia Mangas,43,Unaffiliated,Female,76kg,133,16,White,USAW Master's Nationals
+Erica Fenech,43,CLEAN SLATE WEIGHTLIFTING,Female,76kg,127,16,White,USAW Master's Nationals
+Caroline Kim Palacios,41,BARBARIAN BARBELL CLUB,Female,81kg,125,16,White,USAW Master's Nationals
+Ashley Richardson,44,Unaffiliated,Female,81kg,125,16,White,USAW Master's Nationals
+Sara Soto,44,MURDER OF CROWS,Female,87kg,125,16,White,USAW Master's Nationals
+Benjamin Chang,33,M GA WSO OPEN,Male,,200,16,Blue,USAW Master's Nationals
+Michael Vo,24,Floyd Farms Weightlifting,Male,,195,16,Blue,USAW Master's Nationals
+Trip Floyd,23,Floyd Farms Weightlifting,Male,,190,16,Blue,USAW Master's Nationals
+Chris Wagner,53,Cherokee Barbell,Male,102kg,190,16,Blue,USAW Master's Nationals
+William Nollenberger,37,Cherokee Barbell,Male,89kg,179,16,Blue,USAW Master's Nationals
+Gabriel Shull,26,M GA WSO OPEN,Male,,170,16,Blue,USAW Master's Nationals
+Justin Martin-Bailey,41,Bowen Elite Weightlifting,Male,109kg,166,16,Blue,USAW Master's Nationals
+Scott Stamey,50,Brave Barbells N Sprinkles WLC,Male,89kg,160,16,Blue,USAW Master's Nationals
+Bill Prater,52,Bowen Elite Weightlifting,Male,96kg,160,16,Blue,USAW Master's Nationals
+Ryan Gesser,50,ATLANTA PERFORMANCE,Male,102kg,152,16,Blue,USAW Master's Nationals
+Michael Russell,35,South Georgia Barbell,Male,102kg,150,16,Blue,USAW Master's Nationals
+Martin Rydel,47,South Georgia Barbell,Male,81kg,140,16,Blue,USAW Master's Nationals
+Jarret Bryan,35,ATLANTA PERFORMANCE,Male,73kg,135,16,Blue,USAW Master's Nationals
+David DeGroot,55,M GA WSO OPEN,Male,96kg,130,16,Blue,USAW Master's Nationals
+Steven Acenbrak,67,Cherokee Barbell,Male,73kg,92,16,Blue,USAW Master's Nationals
+Sarah Tyler,43,HEAVY METAL BARBELL,Female,87+kg,190,17,Red,USAW Master's Nationals
+Kimberlee Douglas,44,Haworth Weightlifting,Female,87+kg,190,17,Red,USAW Master's Nationals
+Liz Earley,40,KiloDelphia,Female,87+kg,170,17,Red,USAW Master's Nationals
+Erin Becker,40,Standard Strength,Female,87+kg,166,17,Red,USAW Master's Nationals
+Megan Haymaker,41,1Kilo,Female,87+kg,165,17,Red,USAW Master's Nationals
+Stephanie Dickhute,42,Heartland Strength,Female,87+kg,161,17,Red,USAW Master's Nationals
+Jamie Martin,40,CLEAN SLATE WEIGHTLIFTING,Female,87+kg,160,17,Red,USAW Master's Nationals
+Marjorie Gottier,42,Rising Tide Weightlifting,Female,87+kg,150,17,Red,USAW Master's Nationals
+Jennifer Miller,44,Bexar Barbell,Female,87+kg,150,17,Red,USAW Master's Nationals
+Diana Thorne,44,Unaffiliated,Female,87+kg,135,17,Red,USAW Master's Nationals
+Katerina Athanassiadou,40,DC WEIGHTLIFTING CLUB,Female,87+kg,127,17,Red,USAW Master's Nationals
+Tacora Beasley,44,Unaffiliated,Female,87+kg,125,17,Red,USAW Master's Nationals
+Amber Englebright,41,Gary’s Gym,Female,87+kg,120,17,Red,USAW Master's Nationals
+Christina Brockington,40,Swamp Cabbage Barbell Club,Female,87+kg,120,17,Red,USAW Master's Nationals
+Janice White,43,HEAVY METAL BARBELL,Female,87+kg,114,17,Red,USAW Master's Nationals
+Amanda Cook,43,CALAVERA BARBELL,Female,81kg,175,17,White,USAW Master's Nationals
+Kimberly Andrew,40,Eastside Barbell,Female,76kg,170,17,White,USAW Master's Nationals
+Amanda Cann,44,Lupo Barbell Club,Female,87kg,161,17,White,USAW Master's Nationals
+Tereka Clark,40,12 Labours Barbell,Female,81kg,160,17,White,USAW Master's Nationals
+Stephanie Rosario,42,FORZA WEIGHTLIFTING CLUB,Female,76kg,160,17,White,USAW Master's Nationals
+Angie Cornejo,41,Wolf Pack Weightlifting,Female,76kg,160,17,White,USAW Master's Nationals
+Lucille Murphy,41,Gryphon Strength Barbell,Female,76kg,160,17,White,USAW Master's Nationals
+Eunice Rho,40,Unaffiliated,Female,87kg,155,17,White,USAW Master's Nationals
+Selena Cearley,43,Bexar Barbell,Female,81kg,155,17,White,USAW Master's Nationals
+Catharine Messersmith,41,Category 5 Athletics,Female,81kg,154,17,White,USAW Master's Nationals
+Cherisse Taylor,43,RFS Barbell,Female,76kg,154,17,White,USAW Master's Nationals
+Joshua Venegas,33,Rising Tide Weightlifting,Male,,270,17,Blue,USAW Master's Nationals
+Hunter Orloff,26,Endless Strength Weightlifting,Male,,265,17,Blue,USAW Master's Nationals
+Isaac Tenga,25,M GA WSO OPEN,Male,,265,17,Blue,USAW Master's Nationals
+Ethan Bowen,27,Bowen Elite Weightlifting,Male,,260,17,Blue,USAW Master's Nationals
+Jacob OConnor,27,Endless Strength Weightlifting,Male,,260,17,Blue,USAW Master's Nationals
+Anthony Pantazides Jr,41,Cherokee Barbell,Male,102kg,255,17,Blue,USAW Master's Nationals
+Stewart Ragan,33,POWER AND GRACE PERFORMANCE.,Male,,240,17,Blue,USAW Master's Nationals
+Dustin Craig,29,West Georgia Weightlifting,Male,,235,17,Blue,USAW Master's Nationals
+Gregory Sweat,23,Floyd Farms Weightlifting,Male,,220,17,Blue,USAW Master's Nationals
+Benjamin Engelbracht,23,Floyd Farms Weightlifting,Male,,220,17,Blue,USAW Master's Nationals
+Joseph DarderUquillas,28,TEAM SAVANNAH,Male,,220,17,Blue,USAW Master's Nationals
+Thomas Minor,32,Grow or Die Barbell,Male,,215,17,Blue,USAW Master's Nationals
+Bud Pearce,39,Attitude Nation Barbell Club,Male,89kg,210,17,Blue,USAW Master's Nationals
+Robert Fezza,55,POWER AND GRACE PERFORMANCE.,Male,96kg,205,17,Blue,USAW Master's Nationals
+Daniel Hamill,26,Floyd Farms Weightlifting,Male,,204,17,Blue,USAW Master's Nationals
+Tracy Liu,35,Wellbuilt Strength,Female,45kg,79,18,Red,USAW Master's Nationals
+Hannah Sirdofsky,38,West Chester Weightlifting,Female,49kg,90,18,Red,USAW Master's Nationals
+Meredith Reyes,37,351 Barbell Club,Female,55kg,145,18,Red,USAW Master's Nationals
+Suzy Sanchez,35,The Retirement Home,Female,55kg,120,18,Red,USAW Master's Nationals
+Marissa Reeves,36,Unaffiliated,Female,55kg,115,18,Red,USAW Master's Nationals
+Danielle Funaro,38,Stay Golden Barbell,Female,55kg,115,18,Red,USAW Master's Nationals
+Alyson Weidmann,37,Built By Becker Weightlifting Club,Female,55kg,114,18,Red,USAW Master's Nationals
+Amy Livingston,39,Heroic Barbell,Female,55kg,112,18,Red,USAW Master's Nationals
+Bethany Looney,35,Wolf Pack Weightlifting,Female,55kg,111,18,Red,USAW Master's Nationals
+Ashley Bowen,37,Bowen Elite Weightlifting,Female,55kg,100,18,Red,USAW Master's Nationals
+Carly Lansley,34,Haworth Weightlifting,Female,,190,18,White,USAW Master's Nationals
+Na'Erykah Goodwin,24,COASTAL EMPIRE WEIGHTLIFTING,Female,,170,18,White,USAW Master's Nationals
+Grace Jenkins,26,POWER AND GRACE PERFORMANCE.,Female,,160,18,White,USAW Master's Nationals
+Corynne Francis,34,W GA WSO OPEN,Female,,157,18,White,USAW Master's Nationals
+Amelia Kushner,24,UNIVERSITY OF TEXAS,Female,,155,18,White,USAW Master's Nationals
+Rachel Reiboldt,42,POWER AND GRACE PERFORMANCE.,Female,81kg,145,18,White,USAW Master's Nationals
+Amanda Shirley,37,W GA WSO OPEN,Female,81kg,140,18,White,USAW Master's Nationals
+Clara Dennis,34,W GA WSO OPEN,Female,,133,18,White,USAW Master's Nationals
+Jasmine Louis-Jacques,30,W GA WSO OPEN,Female,,130,18,White,USAW Master's Nationals
+Rose Caderno,28,ALLSOUTH Barbell,Female,,130,18,White,USAW Master's Nationals
+Halaina Yancey,22,Bowen Elite Weightlifting,Female,,130,18,White,USAW Master's Nationals
+Rebecca Mckinnon,35,MaxOut Barbell,Female,76kg,128,18,White,USAW Master's Nationals
+Ashleigh Hulett,33,MaxOut Barbell,Female,,126,18,White,USAW Master's Nationals
+Adrien Gates,32,Greenlight Weightlifting,Female,,120,18,White,USAW Master's Nationals
+Debra Woods,44,South Georgia Barbell,Female,71kg,115,18,White,USAW Master's Nationals
+angelica henderson,29,Cherokee Barbell,Female,,115,18,White,USAW Master's Nationals
+John Casselberry,36,Rise Weightlifting,Male,89kg,260,18,Blue,USAW Master's Nationals
+Jacob Elder,38,Bull City Barbell,Male,89kg,260,18,Blue,USAW Master's Nationals
+Dominic Montoya,39,GARAGE STRENGTH,Male,89kg,253,18,Blue,USAW Master's Nationals
+Evan Melendez,37,PROJECT LIFT,Male,89kg,250,18,Blue,USAW Master's Nationals
+Jeremy Jackson,38,Orlando Strength,Male,89kg,250,18,Blue,USAW Master's Nationals
+Alexander Arquilla,37,SAYRE PARK WLC,Male,89kg,250,18,Blue,USAW Master's Nationals
+Jacob Bockelmann,38,Mad Hammer Barbell,Male,89kg,240,18,Blue,USAW Master's Nationals
+Joseph Ward,35,House of Weightlifting,Male,89kg,229,18,Blue,USAW Master's Nationals
+James Dantoni,39,Unaffiliated,Male,89kg,225,18,Blue,USAW Master's Nationals
+Greg Foote,38,Unaffiliated,Male,89kg,217,18,Blue,USAW Master's Nationals
+Dan Sokolow,39,CLEAN SLATE WEIGHTLIFTING,Male,89kg,216,18,Blue,USAW Master's Nationals
+Sean Rabourn,39,Lupo Barbell Club,Male,89kg,215,18,Blue,USAW Master's Nationals
+Brian Sasaki,35,Unaffiliated,Male,89kg,212,18,Blue,USAW Master's Nationals
+Kentaro Majima,37,RVA Weightlifting,Male,89kg,208,18,Blue,USAW Master's Nationals
+Maxwell Anderson,37,PHILADELPHIA BARBELL,Male,89kg,207,18,Blue,USAW Master's Nationals
+Caitlin Jaeger,37,Wormtown Weightlifting,Female,64kg,130,19,Red,USAW Master's Nationals
+Laura Bleiler,35,CHFP WEIGHTLIFTING CLUB,Female,64kg,127,19,Red,USAW Master's Nationals
+Katelyn Lipa,38,Cherokee Barbell,Female,64kg,126,19,Red,USAW Master's Nationals
+Stephanie Kuehne,37,Unaffiliated,Female,64kg,125,19,Red,USAW Master's Nationals
+Karisa Hoke,36,JDI BARBELL,Female,64kg,120,19,Red,USAW Master's Nationals
+Jeana Boughton,35,Highland Weightlifting,Female,64kg,120,19,Red,USAW Master's Nationals
+Whitney Evans,35,Iron Acres Barbell,Female,64kg,120,19,Red,USAW Master's Nationals
+Lauren Hall,37,Rocket City Lifting,Female,64kg,111,19,Red,USAW Master's Nationals
+Maryann Teichman,39,Cheshire Weightlifting Club,Female,64kg,110,19,Red,USAW Master's Nationals
+Andrea Hennings,37,Heartland Strength,Female,64kg,104,19,Red,USAW Master's Nationals
+Ralph Seidler,35,GARAGE STRENGTH,Male,109kg,265,19,White,USAW Master's Nationals
+Aaron Butcher,36,BARBARIAN BARBELL CLUB,Male,109kg,250,19,White,USAW Master's Nationals
+Seth Day,39,Vektløfter Barbell,Male,109kg,245,19,White,USAW Master's Nationals
+Thomas Boatswain,39,Unaffiliated,Male,102kg,240,19,White,USAW Master's Nationals
+Seth Lingafeldt,36,HEAVY METAL BARBELL,Male,102kg,240,19,White,USAW Master's Nationals
+Emilio Azukwu,38,JDI BARBELL,Male,102kg,240,19,White,USAW Master's Nationals
+Jose Cruz Richardson,38,Bexar Barbell,Male,102kg,230,19,White,USAW Master's Nationals
+Evan Chelini,39,Unaffiliated,Male,109kg,226,19,White,USAW Master's Nationals
+Kristina Ho-on,37,Brooklyn Training Hall,Female,71kg,131,19,Blue,USAW Master's Nationals
+Cooper Wall,35,Synergy Barbell,Female,71kg,131,19,Blue,USAW Master's Nationals
+Nicole Kosakowski,37,Blackheart Barbell,Female,71kg,130,19,Blue,USAW Master's Nationals
+ASHLEY KNIGHT,36,BARBARIAN BARBELL CLUB,Female,71kg,128,19,Blue,USAW Master's Nationals
+Ashley Burnell,39,CHFP WEIGHTLIFTING CLUB,Female,71kg,125,19,Blue,USAW Master's Nationals
+Carly Jamieson,38,Butcher Barbell,Female,71kg,120,19,Blue,USAW Master's Nationals
+Anne Core,36,Full Steam Barbell,Female,71kg,120,19,Blue,USAW Master's Nationals
+Christina Belknap,39,Jacksonville Weightlifting,Female,71kg,120,19,Blue,USAW Master's Nationals
+Danielle Gallant,35,Brave Barbells N Sprinkles WLC,Female,71kg,115,19,Blue,USAW Master's Nationals
+Monica Long,36,DIESEL WEIGHTLIFTING,Female,71kg,115,19,Blue,USAW Master's Nationals
+Delaney Geissinger,36,Carson City Barbell Club,Female,71kg,113,19,Blue,USAW Master's Nationals
+Michaela Flaherty,36,FOUNDATION BARBELL,Female,71kg,111,19,Blue,USAW Master's Nationals
+Laura Dionisio,39,Manhattan Barbell,Female,71kg,110,19,Blue,USAW Master's Nationals
+Daniel Dodd,35,HEAVY METAL BARBELL,Male,96kg,340,20,Red,USAW Master's Nationals
+Joshua Gonet,36,ALLSOUTH Barbell,Male,96kg,275,20,Red,USAW Master's Nationals
+Zachary Leach,37,Pensacola Strength,Male,96kg,260,20,Red,USAW Master's Nationals
+Justin Frimmel,39,1Kilo,Male,96kg,258,20,Red,USAW Master's Nationals
+Kevin Real,37,Unaffiliated,Male,96kg,255,20,Red,USAW Master's Nationals
+Nathan Morris,36,Unaffiliated,Male,96kg,236,20,Red,USAW Master's Nationals
+krystofer bussell,38,MURDER OF CROWS,Male,96kg,230,20,Red,USAW Master's Nationals
+Chris Wong,37,SENSE Weightlifting Village,Male,96kg,230,20,Red,USAW Master's Nationals
+Christopher Butler,35,MASS Strength,Male,96kg,230,20,Red,USAW Master's Nationals
+Matthew Michel,37,Lupo Barbell Club,Male,96kg,214,20,Red,USAW Master's Nationals
+Christopher Yandle,39,HEAVY METAL BARBELL,Male,96kg,200,20,Red,USAW Master's Nationals
+Samantha Davis,35,BASA Weightlifting,Female,59kg,166,20,White,USAW Master's Nationals
+Tanya LaBell,39,Tri State Barbell,Female,59kg,155,20,White,USAW Master's Nationals
+Samantha McCauley,39,Unaffiliated,Female,59kg,133,20,White,USAW Master's Nationals
+Remedios Timo-Dondoyano,39,Catalyst Masters,Female,59kg,130,20,White,USAW Master's Nationals
+Priscilla Cavazos,36,Stone Age Barbell Club,Female,59kg,120,20,White,USAW Master's Nationals
+Brittany Chudakoff,35,Coffee Weightlifting Team,Female,59kg,119,20,White,USAW Master's Nationals
+Dana Kelly,38,Bexar Barbell,Female,59kg,115,20,White,USAW Master's Nationals
+Stephanie Langdon,37,Wolf Pack Weightlifting,Female,59kg,110,20,White,USAW Master's Nationals
+Meagan Chisholm,39,South Georgia Barbell,Female,59kg,108,20,White,USAW Master's Nationals
+jacqueline harrell,37,Attitude Nation Barbell Club,Female,59kg,106,20,White,USAW Master's Nationals
+Chelsea Eskridge,35,CHFP WEIGHTLIFTING CLUB,Female,59kg,105,20,White,USAW Master's Nationals
+Danielle Gaspar,36,McKenna Weightlifting,Female,59kg,105,20,White,USAW Master's Nationals
+Alyssa Cypher,35,POWER AND GRACE PERFORMANCE.,Female,59kg,100,20,White,USAW Master's Nationals
+Gina Gatlin,39,Greenville Weightlifting,Female,59kg,100,20,White,USAW Master's Nationals
+Tayler Harris,38,HEAVY METAL BARBELL,Female,76kg,200,20,Blue,USAW Master's Nationals
+Amanda Feist,38,GARAGE STRENGTH,Female,76kg,179,20,Blue,USAW Master's Nationals
+Nadia Khan,35,NEW YORK WEIGHTLIFTING ACADEMY,Female,76kg,172,20,Blue,USAW Master's Nationals
+Emily Garrett,38,Bexar Barbell,Female,76kg,144,20,Blue,USAW Master's Nationals
+Kathleen Marquez,39,CHFP WEIGHTLIFTING CLUB,Female,76kg,140,20,Blue,USAW Master's Nationals
+Bethany Farrar,36,Wormtown Weightlifting,Female,76kg,125,20,Blue,USAW Master's Nationals
+Sherilyn Wilman-DePeña,36,McKenna Weightlifting,Female,76kg,120,20,Blue,USAW Master's Nationals
+Hope Justice,38,CLEAN SLATE WEIGHTLIFTING,Female,76kg,120,20,Blue,USAW Master's Nationals
+Alice Agnew,35,COASTAL EMPIRE WEIGHTLIFTING,Female,76kg,116,20,Blue,USAW Master's Nationals
+Ashley Castro,35,Millennium Weightlifting,Female,76kg,115,20,Blue,USAW Master's Nationals
+Raquel Barreto,39,McKenna Weightlifting,Female,76kg,115,20,Blue,USAW Master's Nationals
+Grace Chin,39,POWER AND GRACE PERFORMANCE.,Female,76kg,115,20,Blue,USAW Master's Nationals
+Danielle Palmer,36,Heartland Strength,Female,76kg,115,20,Blue,USAW Master's Nationals
+lydia diggs,36,Jacksonville Weightlifting,Female,64kg,154,21,Red,USAW Master's Nationals
+Amanda York,36,ALLSOUTH Barbell,Female,64kg,145,21,Red,USAW Master's Nationals
+Rachel Garmon,36,McKenna Weightlifting,Female,64kg,144,21,Red,USAW Master's Nationals
+Laura Godfrey,37,Unaffiliated,Female,64kg,140,21,Red,USAW Master's Nationals
+Shayla Ford,39,Eastside Barbell,Female,64kg,135,21,Red,USAW Master's Nationals
+Julia Falamas,36,Unaffiliated,Female,64kg,135,21,Red,USAW Master's Nationals
+Kaitlyn Segur,37,People's Republic of The Dojo,Female,64kg,135,21,Red,USAW Master's Nationals
+Savannah Quezada,39,Unaffiliated,Female,64kg,132,21,Red,USAW Master's Nationals
+Tara Mann,36,Bull City Barbell,Female,64kg,131,21,Red,USAW Master's Nationals
+Carlyn Winston,38,RVA Weightlifting,Female,71kg,170,21,White,USAW Master's Nationals
+Christina Richards,38,CATALYST ATHLETICS,Female,71kg,170,21,White,USAW Master's Nationals
+Ericha Flateau,37,People's Republic of The Dojo,Female,71kg,155,21,White,USAW Master's Nationals
+Victoria Sam,35,DSSC Weightlifting,Female,71kg,155,21,White,USAW Master's Nationals
+Amanda Scrementi,37,Team SAW,Female,71kg,151,21,White,USAW Master's Nationals
+Amanda Street,38,Shoofly Barbell Club,Female,71kg,149,21,White,USAW Master's Nationals
+Katie Baldrich,36,KiloDelphia,Female,71kg,140,21,White,USAW Master's Nationals
+Katy Posithai,37,HEAVY METAL BARBELL,Female,71kg,140,21,White,USAW Master's Nationals
+Esme Hovekamp,37,JDI BARBELL,Female,71kg,138,21,White,USAW Master's Nationals
+Melissa Lingafeldt,36,HEAVY METAL BARBELL,Female,71kg,135,21,White,USAW Master's Nationals
+Kelley Roberts,39,West Georgia Weightlifting,Female,71kg,134,21,White,USAW Master's Nationals
+Georgina Moss,35,EAST COAST GOLD W/L TEAM,Female,71kg,134,21,White,USAW Master's Nationals
+Amelia Obra,38,HI PERFORMANCE ATHLETICS,Female,71kg,133,21,White,USAW Master's Nationals
+Carly Best,38,People's Republic of The Dojo,Female,81kg,183,21,Blue,USAW Master's Nationals
+Chelsey Tharp,36,CATALYST ATHLETICS,Female,81kg,170,21,Blue,USAW Master's Nationals
+Erin Nelson,37,Denver Barbell Club,Female,81kg,160,21,Blue,USAW Master's Nationals
+Christine Miller,38,Heartland Strength,Female,81kg,157,21,Blue,USAW Master's Nationals
+Amanda Shirley,37,Atlas Weightlifting Club,Female,81kg,150,21,Blue,USAW Master's Nationals
+Lisa Blevens,38,Boombox Barbell,Female,81kg,140,21,Blue,USAW Master's Nationals
+Mallory Fountain,39,Strength Ratio,Female,81kg,140,21,Blue,USAW Master's Nationals
+Rebecca Murdoch,38,PAWSitive Barbell Club,Female,81kg,130,21,Blue,USAW Master's Nationals
+Nicole Long,39,PROJECT LIFT,Female,81kg,122,21,Blue,USAW Master's Nationals
+Christina Ramirez,39,McKenna Weightlifting,Female,81kg,120,21,Blue,USAW Master's Nationals
+Rhoda Ko,38,FOUNDATION BARBELL,Female,81kg,119,21,Blue,USAW Master's Nationals
+Jane Kruszewski,38,CHFP WEIGHTLIFTING CLUB,Female,81kg,117,21,Blue,USAW Master's Nationals
+Annirose Womack,37,Team Variant,Female,87kg,181,22,Red,USAW Master's Nationals
+Sasha Jarquin,37,Orlando Strength,Female,87kg,171,22,Red,USAW Master's Nationals
+Lauren McHugh,37,CHFP WEIGHTLIFTING CLUB,Female,87kg,170,22,Red,USAW Master's Nationals
+Beth Simon,36,Unaffiliated,Female,87kg,170,22,Red,USAW Master's Nationals
+Yvgeni Henderson,37,HEAVY METAL BARBELL,Female,87kg,162,22,Red,USAW Master's Nationals
+Maria Lopez Guardone,39,Manhattan Barbell,Female,87kg,160,22,Red,USAW Master's Nationals
+Elyssabeth Beers,39,Vardanian Weightlifting,Female,87kg,160,22,Red,USAW Master's Nationals
+Corinn Williams,37,Manhattan Barbell,Female,87kg,154,22,Red,USAW Master's Nationals
+Nikki Holt,35,Winston Salem Weightlifting,Female,87kg,126,22,Red,USAW Master's Nationals
+Cleonie Meraz,36,Built By Becker Weightlifting Club,Female,87kg,126,22,Red,USAW Master's Nationals
+Melanie Vance,36,ALLSOUTH Barbell,Female,87kg,125,22,Red,USAW Master's Nationals
+Caine Wilkes,38,HEAVY METAL BARBELL,Male,109+kg,350,22,White,USAW Master's Nationals
+Jacob Pudenz,37,Unaffiliated,Male,102kg,300,22,White,USAW Master's Nationals
+Brett Keith,37,Tsunami Weightlifting System,Male,109kg,300,22,White,USAW Master's Nationals
+Norman Carreiro,38,RUBBER CITY WEIGHTLIFTING,Male,109kg,300,22,White,USAW Master's Nationals
+Sean Rigsby,37,HEAVY METAL BARBELL,Male,109+kg,280,22,White,USAW Master's Nationals
+Corey Frey,36,Aegis Barbell,Male,109kg,280,22,White,USAW Master's Nationals
+Jason Pendergraph,35,Unaffiliated,Male,102kg,270,22,White,USAW Master's Nationals
+Jason Cappetta,37,Tri State Barbell,Male,109kg,270,22,White,USAW Master's Nationals
+Michael Pott,35,Unaffiliated,Male,109+kg,265,22,White,USAW Master's Nationals
+LeKiesha White,36,RVA Weightlifting,Female,87+kg,200,22,Blue,USAW Master's Nationals
+Samantha Dowgin,37,CROSSFIT FORT VANCOUVER BARBELL CLUB,Female,87+kg,185,22,Blue,USAW Master's Nationals
+Caitlin Whealy,38,RUBBER CITY WEIGHTLIFTING,Female,87+kg,180,22,Blue,USAW Master's Nationals
+Amanda Roberts,38,POWER AND GRACE PERFORMANCE.,Female,87+kg,180,22,Blue,USAW Master's Nationals
+Georgia Stone,36,Endless Strength Weightlifting,Female,87+kg,162,22,Blue,USAW Master's Nationals
+Kali Fernandez,36,People's Republic of The Dojo,Female,87+kg,160,22,Blue,USAW Master's Nationals
+Elyce Johnson,37,BAM Weightlifting Club,Female,87+kg,155,22,Blue,USAW Master's Nationals
+Rose Seibold Fasano,38,Wormtown Weightlifting,Female,87+kg,126,22,Blue,USAW Master's Nationals
+Christine Harris,35,Unaffiliated,Female,87+kg,126,22,Blue,USAW Master's Nationals
+Ayesha Athar,35,Unaffiliated,Female,87+kg,124,22,Blue,USAW Master's Nationals
+Emily Thompson,36,Unaffiliated,Female,87+kg,120,22,Blue,USAW Master's Nationals
