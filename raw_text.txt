@@ -1,691 +1,107 @@
-Start List presented by:
-Lot First Name Last Name State Age Club Name Gender Event CATEGORIES Group Entry Total Session Platform Day Lifting Time
-684Laurie Nelson CA 80Polaris Weightlifting W Masters W80 71 / / / / A 64 1RED 3-Apr 8:00 AM
-74Holly Arrow OR 70Eastside Barbell W Masters W70 71 / / / / A 100 1RED 3-Apr 8:00 AM
-547Beth Lamoreaux DC 65BASA Weightlifting W Masters W65 55 / / / / A 88 1RED 3-Apr 8:00 AM
-69Valerie Matsunaga HI 68HI PERFORMANCE ATHLETICS W Masters W65 55 / / / / A 68 1RED 3-Apr 8:00 AM
-28Kellie Moylan NC 651Kilo W Masters W65 59 / / / / A 72 1RED 3-Apr 8:00 AM
-92Carrie Thompson GA 675 Rings Barbell W Masters W65 64 / / / / A 70 1RED 3-Apr 8:00 AM
-165Kate Mitchell NC 66Brave Barbells N Sprinkles WLC W Masters W65 64 / / / / A 70 1RED 3-Apr 8:00 AM
-409Kim Washington MI 67Optimus Barbell Club W Masters W65 64 / / / / A 60 1RED 3-Apr 8:00 AM
-310Bennie Jarvis NC 66Unaffiliated W Masters W65 76 / / / / A 78 1RED 3-Apr 8:00 AM
-647Deborah Strobel OK 67Pure Health Barbell W Masters W65 87 / / / / A 98 1RED 3-Apr 8:00 AM
-268Doncella Young VA 66CHFP WEIGHTLIFTING CLUB W Masters W65 87 / / / / A 80 1RED 3-Apr 8:00 AM
-475Barry Lewis CO 82Boulder Barbell Club M Masters M80 89 / MIL M 89 / / / A 90 1BLUE 3-Apr 8:00 AM
-175JEROME MILLER NC 76Unaffiliated M Masters M75 61 / / / / A 110 1BLUE 3-Apr 8:00 AM
-487Philip Arnold WA 77PARAMOUNT BARBELL CLUB M Masters M75 89 / / / / A 127 1BLUE 3-Apr 8:00 AM
-431Joe DeLago NJ 72MOORESTOWN WLC M Masters M70 61 / / / / A 90 1BLUE 3-Apr 8:00 AM
-243Nicholas Weingarten NM 74MILLER WEIGHTLIFTING M Masters M70 73 / / / / A 110 1BLUE 3-Apr 8:00 AM
-363James Tracy AL 71Unaffiliated M Masters M70 81 / / / / A 110 1BLUE 3-Apr 8:00 AM
-386Thomas Zucca NJ 73Unaffiliated M Masters M70 81 / / / / A 98 1BLUE 3-Apr 8:00 AM
-300John West KY 71Unaffiliated M Masters M70 96 / / / / A 125 1BLUE 3-Apr 8:00 AM
-668Christopher Polakowski DE 70Delaware and Vermont Weightlifting M Masters M70 96 / / / / A 121 1BLUE 3-Apr 8:00 AM
-586Bruce Barry PA 73GARAGE STRENGTH M Masters M70 96 / MIL M 96 / / / A 114 1BLUE 3-Apr 8:00 AM
-584Akiko Stojek NJ 60Marble Weightlifting W Masters W60 49 / / / / A 74 2RED 3-Apr 10:00 AM
-439gaby morgerman CA 62Unaffiliated W Masters W60 55 / / / / A 57 2RED 3-Apr 10:00 AM
-465Deanna Johnson OR 61Eastside Barbell W Masters W60 59 / / / / A 78 2RED 3-Apr 10:00 AM
-644Laura Seals OR 62Eastside Barbell W Masters W60 59 / / / / A 68 2RED 3-Apr 10:00 AM
-181Tierney Korotkin NV 64Team Aita W Masters W60 64 / / / / A 90 2RED 3-Apr 10:00 AM
-108Maureen O'Hagan OR 60Cully Strength W Masters W60 64 / / / / A 77 2RED 3-Apr 10:00 AM
-100Debbie Bennett WA 61Pilchuck Barbell W Masters W60 64 / / / / A 72 2RED 3-Apr 10:00 AM
-20Litsa Olsson WA 64Unaffiliated W Masters W60 71 / / / / A 105 2RED 3-Apr 10:00 AM
-579Barbara Kazmierczak CT 61Unaffiliated W Masters W60 76 / / / / A 85 2RED 3-Apr 10:00 AM
-504Margaret binzer VA 64CHFP WEIGHTLIFTING CLUB W Masters W60 81 / / / / A 98 2RED 3-Apr 10:00 AM
-666Gwen Chamberlin IL 62Summit Barbell W Masters W60 81 / / / / A 90 2RED 3-Apr 10:00 AM
-370Debbie Alexander OH 63CLEAN SLATE WEIGHTLIFTING W Masters W60 87+ / / / / A 90 2RED 3-Apr 10:00 AM
-305Kerry Dahl IA 67Unaffiliated M Masters - Adap M65 89 / ADAP M 89 / / / A 75 2BLUE 3-Apr 10:00 AM
-174Arthur Slade SC 66Unaffiliated M Masters M65 73 / / / / A 110 2BLUE 3-Apr 10:00 AM
-199Donald Glab MD 65Unaffiliated M Masters M65 81 / / / / A 135 2BLUE 3-Apr 10:00 AM
-341Teddy Binette SC 65Beyond The Barbell M Masters M65 81 / / / / A 120 2BLUE 3-Apr 10:00 AM
-591Robert Gallup GA 67ALLSOUTH Barbell M Masters M65 81 / / / / A 110 2BLUE 3-Apr 10:00 AM
-620Samuel Starkey III TX 67Stomp Weightlifting M Masters M65 89 / MIL M 89 / / / A 145 2BLUE 3-Apr 10:00 AM
-72Charlie Simmons GA 66Unaffiliated M Masters M65 89 / / / / A 135 2BLUE 3-Apr 10:00 AM
-568Carlos Martinez NC 67Unaffiliated M Masters M65 89 / MIL M 89 / / / A 120 2BLUE 3-Apr 10:00 AM
-156Kevin Kreamer MS 65MISSISSIPPI BARBELL M Masters M65 109 / / / / A 140 2BLUE 3-Apr 10:00 AM
-225Mark Solomon NY 67BUFFALO BARBELL CLUB M Masters M65 109+ / MIL M 109+ / / / A 110 2BLUE 3-Apr 10:00 AM
-139Jennifer Nelson NY 55Unaffiliated W Masters W55 55 / / / / A 100 3RED 3-Apr 12:00 PM
-479Alexandra Weill MA 57People's Republic of The Dojo W Masters W55 55 / MIL W 55 / / / A 100 3RED 3-Apr 12:00 PM
-519Elizabeth Weil NM 59MILLER WEIGHTLIFTING W Masters W55 55 / / / / A 70 3RED 3-Apr 12:00 PM
-254Evelyn Knight CA 55Southern California Weightlifting Club W Masters W55 59 / / / / A 100 3RED 3-Apr 12:00 PM
-676Judith Anzaldo CA 59PRECISION BARBELL W Masters W55 59 / / / / A 80 3RED 3-Apr 12:00 PM
-374Nicole Devine WA 58FOUNDATION BARBELL W Masters W55 59 / / / / A 75 3RED 3-Apr 12:00 PM
-293LeAlyce Miller WA 58Pilchuck Barbell W Masters W55 64 / MIL W 64 / / / A 100 3RED 3-Apr 12:00 PM
-667Gary Gill FL 56Unaffiliated M Masters M55 96 / / / / A 166 3BLUE 3-Apr 12:00 PM
-164Christopher Follenius FL 58Team Florida Gainesville M Masters M55 67 / / / / A 165 3BLUE 3-Apr 12:00 PM
-176Matthew Mediatore NY 57Unaffiliated M Masters M55 81 / MIL M 81 / / / A 160 3BLUE 3-Apr 12:00 PM
-488Kevin Dittler AZ 60Unaffiliated M Masters M60 81 / / / / A 160 3BLUE 3-Apr 12:00 PM
-544Raymond Loser NC 57Strength Ratio M Masters M55 89 / / / / A 152 3BLUE 3-Apr 12:00 PM
-207Marc Silverstein PA 56West Chester Weightlifting M Masters M55 73 / / / / A 150 3BLUE 3-Apr 12:00 PM
-434Justin Brandstater CA 58Unaffiliated M Masters M55 96 / / / / A 150 3BLUE 3-Apr 12:00 PM
-Start List presented by:
-478Eric Bramwell AZ 55POWER AND GRACE PERFORMANCE. M Masters M55 73 / / / / A 150 3BLUE 3-Apr 12:00 PM
-606Steve Schang NC 56HEAVY METAL BARBELL M Masters M55 89 / MIL M 89 / / / A 140 3BLUE 3-Apr 12:00 PM
-195RAYMOND BERRY WA 61CROSSFIT FORT VANCOUVER BARBELL CLUB M Masters M60 102 / / / / A 133 3BLUE 3-Apr 12:00 PM
-577Jerry Wigger SC 62Lowcountry Barbell M Masters M60 89 / MIL M 89 / / / A 130 3BLUE 3-Apr 12:00 PM
-4Russell Seay NC 64HARRISBURG WEIGHTLIFTING CLUB M Masters M60 61 / / / / A 109 3BLUE 3-Apr 12:00 PM
-619Michelle Picking PA 56Team SAW W Masters W55 71 / / / / A 130 4RED 3-Apr 1:40 PM
-360Tatiana Nikitina NY 55Manhattan Barbell W Masters W55 71 / / / / A 110 4RED 3-Apr 1:40 PM
-424Halelly Azulay CA 55PRECISION BARBELL W Masters W55 71 / / / / A 110 4RED 3-Apr 1:40 PM
-605Lisa Barrow CO 55Vardanian Weightlifting W Masters W55 71 / / / / A 100 4RED 3-Apr 1:40 PM
-73Gladys Spaulding PA 56McKenna Weightlifting W Masters W55 71 / MIL W 71 / / / A 85 4RED 3-Apr 1:40 PM
-334Helen Shiver SC 57Butcher Barbell W Masters W55 71 / / / / A 80 4RED 3-Apr 1:40 PM
-107Vicki Piper OR 58Unaffiliated W Masters W55 76 / / / / A 131 4RED 3-Apr 1:40 PM
-353Kirstin Boddy OH 56Eastside Barbell W Masters W55 76 / / / / A 89 4RED 3-Apr 1:40 PM
-173Loretta Scott CA 55Team SAW W Masters W55 81 / / / / A 115 4RED 3-Apr 1:40 PM
-683Krista Dornbush CA 56Southern California Weightlifting Club W Masters W55 81 / / / / A 110 4RED 3-Apr 1:40 PM
-542Kelley Howell OR 57Eastside Barbell W Masters W55 81 / / / / A 100 4RED 3-Apr 1:40 PM
-446Anna Cannington MS 58EAST COAST GOLD W/L TEAM W Masters W55 87 / MIL W 87 / / / A 110 4RED 3-Apr 1:40 PM
-27Jana Berhow VA 58CHFP WEIGHTLIFTING CLUB W Masters W55 87+ / / / / A 96 4RED 3-Apr 1:40 PM
-517Eric Brown WA 56CROSSFIT FORT VANCOUVER BARBELL CLUB M Masters M55 102 / / / / A 227 4BLUE 3-Apr 2:00 PM
-425Fernando Chaviano FL 61Oly Concepts M Masters M60 73 / / / / A 216 4BLUE 3-Apr 2:00 PM
-599Joel Lackey GA 58Unaffiliated M Masters M55 89 / / / / A 211 4BLUE 3-Apr 2:00 PM
-240Robert Fezza GA 55POWER AND GRACE PERFORMANCE. M Masters M55 96 / / / / A 205 4BLUE 3-Apr 2:00 PM
-420Robert O'Day VA 61Attitude Nation Barbell Club M Masters M60 89 / MIL M 89 / / / A 201 4BLUE 3-Apr 2:00 PM
-368Tim Hennessey IL 58FORZA WEIGHTLIFTING CLUB M Masters M55 89 / / / / A 200 4BLUE 3-Apr 2:00 PM
-178Johnny Williams FL 56Freedom Weightlifting M Masters M55 102 / / / / A 195 4BLUE 3-Apr 2:00 PM
-31Dean Goad GA 57CALPIANS WLC M Masters M55 81 / / / / A 194 4BLUE 3-Apr 2:00 PM
-474Mark Lado SC 60Greenville Weightlifting M Masters M60 102 / MIL M 102 / / / A 194 4BLUE 3-Apr 2:00 PM
-589John Dalessio NJ 57CALIFORNIA STRENGTH M Masters M55 89 / MIL M 89 / / / A 190 4BLUE 3-Apr 2:00 PM
-677Darin Dehle OR 58Eastside Barbell M Masters M55 96 / / / / A 170 4BLUE 3-Apr 2:00 PM
-101Daniel Nelson MN 61Unaffiliated M Masters M60 81 / / / / A 167 4BLUE 3-Apr 2:00 PM
-500Julie Carmody NJ 52Tri State Barbell W Masters W50 45 / / / / A 75 5RED 3-Apr 4:00 PM
-110Janet Chow FL 50Oly Concepts W Masters W50 45 / / / / A 70 5RED 3-Apr 4:00 PM
-404Holly Kauffman PA 54GARAGE STRENGTH W Masters W50 49 / / / / A 80 5RED 3-Apr 4:00 PM
-29Annia Velazquez Padron GA 52Unaffiliated W Masters W50 55 / / / / A 135 5RED 3-Apr 4:00 PM
-510Barbara Brewer KY 53Unaffiliated W Masters W50 55 / / / / A 93 5RED 3-Apr 4:00 PM
-170Jara MacDermott MD 50CHFP WEIGHTLIFTING CLUB W Masters W50 59 / / / / A 136 5RED 3-Apr 4:00 PM
-454Mira Kwon Gracia OR 54Haworth Weightlifting W Masters W50 59 / / / / A 125 5RED 3-Apr 4:00 PM
-283pamela gagnon NC 51Unaffiliated W Masters W50 59 / / / / A 117 5RED 3-Apr 4:00 PM
-533Wendi Lubinus WA 54Tacoma Strength Weightlifting W Masters W50 59 / / / / A 83 5RED 3-Apr 4:00 PM
-344Amy Farrell ME 51MASS Strength W Masters W50 64 / / / / A 135 5BLUE 3-Apr 4:00 PM
-196Deanna Montalbano AZ 52Unaffiliated W Masters W50 64 / / / / A 105 5BLUE 3-Apr 4:00 PM
-524Amy Herrera FL 52Attitude Nation Barbell Club W Masters W50 64 / / / / A 95 5BLUE 3-Apr 4:00 PM
-157Katherine Brown WA 50Haworth Weightlifting W Masters W50 71 / MIL W 71 / / / A 160 5BLUE 3-Apr 4:00 PM
-214Tressie Mullins AL 52HEAVY METAL BARBELL W Masters W50 71 / / / / A 139 5BLUE 3-Apr 4:00 PM
-209Christie McNair GA 50Unaffiliated W Masters W50 71 / / / / A 135 5BLUE 3-Apr 4:00 PM
-501Jolene Bollman WA 51CROSSFIT FORT VANCOUVER BARBELL CLUB W Masters W50 71 / MIL W 71 / / / A 117 5BLUE 3-Apr 4:00 PM
-105Brad Baldwin OH 52CLEAN SLATE WEIGHTLIFTING M Masters M50 67 / / / / A 200 6RED 3-Apr 5:40 PM
-587Michael Herzog GA 53ATLANTA PERFORMANCE M Masters M50 73 / / / / A 210 6RED 3-Apr 5:40 PM
-437Jonathan Willmoth MO 50Parish Barbell Club M Masters M50 73 / / / / A 182 6RED 3-Apr 5:40 PM
-670Martin Palma NY 51Unaffiliated M Masters M50 73 / / / / A 180 6RED 3-Apr 5:40 PM
-179Michael Romero FL 50Unaffiliated M Masters M50 73 / / / / A 170 6RED 3-Apr 5:40 PM
-70Dan Wells CA 52Team Juanatas-Bowens M Masters M50 81 / / / / A 175 6RED 3-Apr 5:40 PM
-54Douglas Desatnik OH 50Catalyst Masters M Masters M50 81 / / / / A 170 6RED 3-Apr 5:40 PM
-343Brian Zimmerman NC 50Unaffiliated M Masters M50 81 / / / / A 170 6RED 3-Apr 5:40 PM
-373Jimmy Kantor NC 51Unaffiliated M Masters M50 89 / / / / A 204 6RED 3-Apr 5:40 PM
-125Greg Karas MI 514 Star Strength M Masters M50 89 / MIL M 89 / / / A 195 6RED 3-Apr 5:40 PM
-295Armando Ordonez TX 52Stonehenge Weightlifting M Masters M50 89 / / / / A 191 6RED 3-Apr 5:40 PM
-230Mike Osborn TN 51Unaffiliated M Masters M50 89 / / / / A 190 6RED 3-Apr 5:40 PM
-Start List presented by:
-642Jeven Sloan AL 50Wheelhouse Academy M Masters M50 89 / / / / A 190 6RED 3-Apr 5:40 PM
-661Jay Jernigan AL 51Wheelhouse Academy M Masters M50 89 / / / / A 175 6RED 3-Apr 5:40 PM
-689Greg Darian GA 53Unaffiliated M Masters M50 89 / / / / A 172 6RED 3-Apr 5:40 PM
-639William Loheide FL 54Unaffiliated M Masters M50 89 / / / / A 168 6RED 3-Apr 5:40 PM
-508Elizabeth Korchnak VA 51CHFP WEIGHTLIFTING CLUB W Masters W50 76 / / / / A 125 6BLUE 3-Apr 5:40 PM
-556Elisa Leporini IL 54SAYRE PARK WLC W Masters W50 76 / / / / A 123 6BLUE 3-Apr 5:40 PM
-549Gwendolyn Montgomery MD 50CHFP WEIGHTLIFTING CLUB W Masters W50 76 / MIL W 76 / / / A 116 6BLUE 3-Apr 5:40 PM
-595Margaret Dubbin TX 51BlueWave Weightlifting W Masters W50 76 / / / / A 110 6BLUE 3-Apr 5:40 PM
-564Tiffany Pezzulo NM 50MILLER WEIGHTLIFTING W Masters W50 76 / / / / A 100 6BLUE 3-Apr 5:40 PM
-285Jennifer Valosek CA 50CALIFORNIA STRENGTH W Masters W50 81 / / / / A 125 6BLUE 3-Apr 5:40 PM
-664Susanne Taggi PA 50Unaffiliated W Masters W50 81 / / / / A 114 6BLUE 3-Apr 5:40 PM
-46Chris Brown OH 54CLEAN SLATE WEIGHTLIFTING W Masters W50 81 / / / / A 112 6BLUE 3-Apr 5:40 PM
-686Joy Baganz IL 51Unaffiliated W Masters W50 81 / / / / A 100 6BLUE 3-Apr 5:40 PM
-659Brandy Thomas FL 51Unaffiliated W Masters W50 87 / MIL W 87 / / / A 98 6BLUE 3-Apr 5:40 PM
-332Kristina Teel PA 54The Strength Shack W Masters W50 87+ / / / / A 138 6BLUE 3-Apr 5:40 PM
-80Tammy Berry WA 51CROSSFIT FORT VANCOUVER BARBELL CLUB W Masters W50 87+ / / / / A 113 6BLUE 3-Apr 5:40 PM
-466Heather Thrush OH 48RUBBER CITY WEIGHTLIFTING W Masters W45 49 / / / / A 118 7RED 4-Apr 8:00 AM
-218Melissa Sue JutrasKamphake KY 45EAST COAST GOLD W/L TEAM W Masters W45 49 / / / / A 108 7RED 4-Apr 8:00 AM
-430Kelly Rexroad Williams GA 47WILLIAMS WEIGHTLIFTING W Masters W45 49 / / / / A 101 7RED 4-Apr 8:00 AM
-492Huyen-Lam Nguyen MT 48Catalyst Masters W Masters W45 49 / / / / A 85 7RED 4-Apr 8:00 AM
-48Rebecca Anderson TX 45Catalyst Masters W Masters W45 55 / / / / A 125 7RED 4-Apr 8:00 AM
-166Lauren Storck GA 47ATLANTA PERFORMANCE W Masters W45 55 / / / / A 125 7RED 4-Apr 8:00 AM
-390ANGELA TUCKER NC 48HEAVY METAL BARBELL W Masters W45 55 / / / / A 110 7RED 4-Apr 8:00 AM
-581Kerri Mailer carreira FL 48Keep Pulling W Masters W45 55 / / / / A 100 7RED 4-Apr 8:00 AM
-656Samantha Mosher CA 45Unaffiliated W Masters W45 55 / / / / A 98 7RED 4-Apr 8:00 AM
-631Merenciana Paulus IA 45Jake Pudenz Strength & Power W Masters W45 55 / / / / A 88 7RED 4-Apr 8:00 AM
-375Katherine Hejtmanek NY 47Brooklyn Training Hall W Masters W45 59 / / / / A 145 7WHITE 4-Apr 8:00 AM
-597Heather Albro KY 49BLUEGRASS BARBELL CLUB W Masters W45 59 / / / / A 125 7WHITE 4-Apr 8:00 AM
-663Rachel Batista FL 49Unaffiliated W Masters W45 59 / / / / A 125 7WHITE 4-Apr 8:00 AM
-412Lynnette Hull NC 46Brave Barbells N Sprinkles WLC W Masters W45 59 / / / / A 120 7WHITE 4-Apr 8:00 AM
-150Soupha Jones NV 49CALAVERA BARBELL W Masters W45 59 / / / / A 115 7WHITE 4-Apr 8:00 AM
-562ALEXANDRIA Zikoyanis NY 45Unaffiliated W Masters W45 59 / MIL W 59 / / / A 113 7WHITE 4-Apr 8:00 AM
-68Linda Nguyen 46HI PERFORMANCE ATHLETICS W Masters W45 59 / / / / A 104 7WHITE 4-Apr 8:00 AM
-112Kimberly Barham NC 48PTW Training W Masters W45 59 / / / / A 99 7WHITE 4-Apr 8:00 AM
-229Alicia Bryan VA 48Unaffiliated W Masters W45 59 / / / / A 87 7WHITE 4-Apr 8:00 AM
-555Kurby Brown Jr NJ 50McKenna Weightlifting M Masters M50 96 / / / / A 225 7BLUE 4-Apr 8:00 AM
-526Christopher Gregg OH 54Root 18 Weightlifting M Masters M50 96 / MIL M 96 / / / A 196 7BLUE 4-Apr 8:00 AM
-421Roy Lesui CA 53Unaffiliated M Masters M50 102 / MIL M 102 / / / A 220 7BLUE 4-Apr 8:00 AM
-346Steve Griffin NC 54PTW Training M Masters M50 102 / / / / A 200 7BLUE 4-Apr 8:00 AM
-263Chris Wagner GA 53Cherokee Barbell M Masters M50 102 / MIL M 102 / / / A 190 7BLUE 4-Apr 8:00 AM
-385Joseph DeStasio NC 54Shoofly Barbell Club M Masters M50 102 / MIL M 102 / / / A 190 7BLUE 4-Apr 8:00 AM
-274Danny Henry CA 54Team Juanatas-Bowens M Masters M50 102 / / / / A 184 7BLUE 4-Apr 8:00 AM
-456Gregory Vallee SC 52Swamp Cabbage Barbell Club M Masters M50 109 / / / / A 210 7BLUE 4-Apr 8:00 AM
-481Tony Keeler FL 52Oly Concepts M Masters M50 109 / / / / A 210 7BLUE 4-Apr 8:00 AM
-618Jason Long TX 52Unaffiliated M Masters M50 109 / MIL M 109 / / / A 200 7BLUE 4-Apr 8:00 AM
-33Valerie Greenslade CO 49Oly Concepts W Masters W45 64 / / / / A 140 8RED 4-Apr 9:50 AM
-90Crysta Parkin MN 48ROCHESTER BARBELL CLUB W Masters W45 64 / / / / A 137 8RED 4-Apr 9:50 AM
-180Erin Martin NY 45 W Masters W45 64 / / / / A 135 8RED 4-Apr 9:50 AM
-255Kelly Smith KY 46Boombox Barbell W Masters W45 64 / / / / A 113 8RED 4-Apr 9:50 AM
-391Brandi Fallica CA 48Southern California Weightlifting Club W Masters W45 64 / / / / A 110 8RED 4-Apr 9:50 AM
-193Jen Kicker MD 47Unaffiliated W Masters W45 64 / MIL W 64 / / / A 105 8RED 4-Apr 9:50 AM
-261Jaime Jones GA 47ALLSOUTH Barbell W Masters W45 64 / / / / A 105 8RED 4-Apr 9:50 AM
-311Kamber Sherrod DC 45DC WEIGHTLIFTING CLUB W Masters W45 64 / / / / A 105 8RED 4-Apr 9:50 AM
-532Alicia Greer MD 48TOUGH TEMPLE BARBELL CLUB W Masters W45 64 / MIL W 64 / / / A 105 8RED 4-Apr 9:50 AM
-154Carolyn Bryant FL 46West Coast Weightlifting W Masters W45 64 / / / / A 100 8RED 4-Apr 9:50 AM
-433Natalie Dale TX 48Vektløfter Barbell W Masters W45 64 / / / / A 98 8RED 4-Apr 9:50 AM
-601Sally Stephens VA 47Echo Weightlifting W Masters W45 64 / / / / A 97 8RED 4-Apr 9:50 AM
-395Aimee Anaya Everett OR 48CATALYST ATHLETICS W Masters W45 71 / / / / A 155 8WHITE 4-Apr 9:50 AM
-Start List presented by:
-138Jennifer Riley CT 46Unaffiliated W Masters W45 71 / / / / A 123 8WHITE 4-Apr 9:50 AM
-291Samantha Artiga MD 49CHFP WEIGHTLIFTING CLUB W Masters W45 71 / / / / A 122 8WHITE 4-Apr 9:50 AM
-415Alexis Horn CA 47Team Aita W Masters W45 71 / / / / A 117 8WHITE 4-Apr 9:50 AM
-523Jodi Lin CA 45BARBARIAN BARBELL CLUB W Masters W45 71 / / / / A 112 8WHITE 4-Apr 9:50 AM
-251Megan Vickery WA 48CROSSFIT FORT VANCOUVER BARBELL CLUB W Masters W45 71 / / / / A 110 8WHITE 4-Apr 9:50 AM
-600Pennye Stansel FL 49HEAVY METAL BARBELL W Masters W45 71 / / / / A 110 8WHITE 4-Apr 9:50 AM
-352Kirsten Spargo MA 45People's Republic of The Dojo W Masters W45 71 / / / / A 104 8WHITE 4-Apr 9:50 AM
-158Torie Mathis GA 47Unaffiliated W Masters W45 71 / MIL W 71 / / / A 100 8WHITE 4-Apr 9:50 AM
-575Alison Blaum NC 48PTW Training W Masters W45 71 / / / / A 100 8WHITE 4-Apr 9:50 AM
-7Alison Roark SC 47Swamp Cabbage Barbell Club W Masters W45 71 / / / / A 92 8WHITE 4-Apr 9:50 AM
-77Tony Lau WA 47FOUNDATION BARBELL M Masters M45 67 / / / / A 187 8BLUE 4-Apr 9:50 AM
-190Eric Chang HI 48HI PERFORMANCE ATHLETICS M Masters M45 67 / / / / A 170 8BLUE 4-Apr 9:50 AM
-364Keith Whitmore WA 45CROSSFIT FORT VANCOUVER BARBELL CLUB M Masters M45 67 / / / / A 163 8BLUE 4-Apr 9:50 AM
-691Chris Miller WI 46Unaffiliated M Masters M45 73 / / / / A 195 8BLUE 4-Apr 9:50 AM
-131John Negron GA 48Unaffiliated M Masters M45 73 / / / / A 185 8BLUE 4-Apr 9:50 AM
-473David Seltzer NY 45Tri State Barbell M Masters M45 73 / / / / A 170 8BLUE 4-Apr 9:50 AM
-436Chris Carreira FL 48Keep Pulling M Masters M45 73 / / / / A 167 8BLUE 4-Apr 9:50 AM
-59Fred Macaraeg MD 4812 Labours Barbell M Masters M45 81 / / / / A 210 8BLUE 4-Apr 9:50 AM
-200matthew gonzalez SC 46HEAVY METAL BARBELL M Masters M45 81 / / / / A 210 8BLUE 4-Apr 9:50 AM
-506Nathan Black GA 46Unaffiliated M Masters M45 81 / / / / A 208 8BLUE 4-Apr 9:50 AM
-128Corey Johnson NE 45Heartland Strength M Masters M45 81 / / / / A 175 8BLUE 4-Apr 9:50 AM
-585Renee Michelle Burnette GA 46ALLSOUTH Barbell W Masters - Adap W45 76 / ADAP W 76 / / / A 90 9RED 4-Apr 11:50 AM
-468Ayse Sukola GA 45Cherokee Barbell W Masters W45 76 / / / / A 125 9RED 4-Apr 11:50 AM
-628Faith Hilterbrand OH 47Superfly Barbell Club W Masters W45 76 / / / / A 125 9RED 4-Apr 11:50 AM
-339Jewelyn Cabigon HI 48HI PERFORMANCE ATHLETICS W Masters W45 76 / / / / A 120 9RED 4-Apr 11:50 AM
-565Hanna Estevez FL 45Unaffiliated W Masters W45 76 / / / / A 120 9RED 4-Apr 11:50 AM
-191Angela Di Fiore OH 48Catalyst Masters W Masters W45 76 / / / / A 113 9RED 4-Apr 11:50 AM
-463Kelley Marsh NC 48Down South Barbell W Masters W45 76 / / / / A 109 9RED 4-Apr 11:50 AM
-304Misty Hill TX 49Vektløfter Barbell W Masters W45 76 / / / / A 103 9RED 4-Apr 11:50 AM
-518Amy Hovan OH 48Eastside Barbell W Masters W45 81 / / / / A 174 9RED 4-Apr 11:50 AM
-188Jessica Beal FL 45Oly Concepts W Masters W45 81 / / / / A 148 9RED 4-Apr 11:50 AM
-366Colleen Moon NM 45Desert Devil Barbell W Masters W45 81 / / / / A 141 9RED 4-Apr 11:50 AM
-335Melissa Melvin-Rodriguez NC 46HEAVY METAL BARBELL W Masters W45 81 / / / / A 120 9RED 4-Apr 11:50 AM
-12Melissa Selk AZ 48Unaffiliated W Masters W45 81 / / / / A 113 9RED 4-Apr 11:50 AM
-235Paula Habel ME 46PAWSitive Barbell Club W Masters W45 87 / / / / A 147 9WHITE 4-Apr 11:50 AM
-610Marissa Sterrett CO 46Vardanian Weightlifting W Masters W45 87 / / / / A 140 9WHITE 4-Apr 11:50 AM
-19Lindsay Pitzer MD 4712 Labours Barbell W Masters W45 87 / / / / A 125 9WHITE 4-Apr 11:50 AM
-63Brandi Eustice NY 45Buff City Barbell W Masters W45 87 / / / / A 120 9WHITE 4-Apr 11:50 AM
-634Chelsea Hopkins OR 49Eastside Barbell W Masters W45 87+ / / / / A 164 9WHITE 4-Apr 11:50 AM
-17Candace Sneed GA 45Unaffiliated W Masters W45 87+ / / / / A 132 9WHITE 4-Apr 11:50 AM
-414Natasha Wunderlich CA 46McKenna Weightlifting W Masters W45 87+ / / / / A 130 9WHITE 4-Apr 11:50 AM
-134Kelly Smotherman KY 45Unaffiliated W Masters W45 87+ / / / / A 128 9WHITE 4-Apr 11:50 AM
-402Kelli Wells MD 48CHFP WEIGHTLIFTING CLUB W Masters W45 87+ / / / / A 120 9WHITE 4-Apr 11:50 AM
-284Tracy Bolsinger OR 48Seven Pound Lifting W Masters W45 87+ / MIL W 87+ / / / A 117 9WHITE 4-Apr 11:50 AM
-515Donna Richards WA 48CROSSFIT FORT VANCOUVER BARBELL CLUB W Masters W45 87+ / / / / A 115 9WHITE 4-Apr 11:50 AM
-205Rebecca Pearce FL 453P Weightlifting W Masters W45 87+ / / / / A 112 9WHITE 4-Apr 11:50 AM
-400Christopher Robertson CA 45Unaffiliated M Masters M45 89 / / / / A 246 9BLUE 4-Apr 11:50 AM
-264Efe Sozkesen CA 45Standard Strength M Masters M45 89 / / / / A 205 9BLUE 4-Apr 11:50 AM
-652Neil Roberts MD 45TOUGH TEMPLE BARBELL CLUB M Masters M45 89 / / / / A 205 9BLUE 4-Apr 11:50 AM
-312Noah Oliphant AL 46Wheelhouse Academy M Masters M45 89 / / / / A 195 9BLUE 4-Apr 11:50 AM
-399Garret St. Onge MA 46Wormtown Weightlifting M Masters M45 89 / / / / A 190 9BLUE 4-Apr 11:50 AM
-493David Jones GA 48ALLSOUTH Barbell M Masters M45 89 / / / / A 187 9BLUE 4-Apr 11:50 AM
-186Benton Ives IN 49Unaffiliated M Masters M45 89 / / / / A 185 9BLUE 4-Apr 11:50 AM
-410Michael Ben-Hain FL 49Bexar Barbell M Masters M45 89 / / / / A 184 9BLUE 4-Apr 11:50 AM
-266Jessica Taylor IL 42Team SAW W Masters W40 64 / / / / B 121 10RED 4-Apr 1:50 PM
-537Trina Sumodobila WA 42BARBARIAN BARBELL CLUB W Masters W40 64 / / / / B 121 10RED 4-Apr 1:50 PM
-114Jennifer Spafford NY 41Kenmore Barbell Club W Masters W40 64 / / / / B 120 10RED 4-Apr 1:50 PM
-278Angela White IN 44Unaffiliated W Masters W40 64 / / / / B 120 10RED 4-Apr 1:50 PM
-Start List presented by:
-289Bethany Weaver TX 43Unaffiliated W Masters W40 64 / / / / B 120 10RED 4-Apr 1:50 PM
-650Lisa Nichols NY 41Schuster Athletics W Masters W40 64 / / / / B 120 10RED 4-Apr 1:50 PM
-286Kathleen Black MA 42Wormtown Weightlifting W Masters W40 64 / / / / B 118 10RED 4-Apr 1:50 PM
-15Rene Bermudez OR 41Cully Strength W Masters W40 64 / / / / B 116 10RED 4-Apr 1:50 PM
-445Erica Skinner NC 41HEAVY METAL BARBELL W Masters W40 64 / / / / B 115 10RED 4-Apr 1:50 PM
-9Juliana Gil FL 42TEAM OMNIA W Masters W40 64 / / / / B 114 10RED 4-Apr 1:50 PM
-588Christina Girton CA 44Unaffiliated W Masters W40 64 / / / / B 110 10RED 4-Apr 1:50 PM
-217Christine Kato CA 40Southern California Weightlifting Club W Masters W40 64 / / / / B 106 10RED 4-Apr 1:50 PM
-522Allyson Cochran NC 43HEAVY METAL BARBELL W Masters W40 64 / / / / B 100 10RED 4-Apr 1:50 PM
-572Jennifer Fullhart WI 40A1 Barbell Club W Masters W40 49 / / / / A 135 10WHITE 4-Apr 1:50 PM
-260Nile Franklin CA 40Wilder Athletics W Masters W40 49 / / / / A 130 10WHITE 4-Apr 1:50 PM
-262Amy Smith CO 41Unaffiliated W Masters W40 55 / / / / A 152 10WHITE 4-Apr 1:50 PM
-554Rachael Bommicino GA 44Grow or Die Barbell W Masters W40 55 / / / / A 127 10WHITE 4-Apr 1:50 PM
-162Emily Lau WA 40FOUNDATION BARBELL W Masters W40 55 / / / / A 123 10WHITE 4-Apr 1:50 PM
-357Jane Jones MD 41Fourteen Forty Collective W Masters W40 55 / MIL W 55 / / / A 119 10WHITE 4-Apr 1:50 PM
-296Karen Agena VA 44CHFP WEIGHTLIFTING CLUB W Masters W40 59 / / / / A 119 10WHITE 4-Apr 1:50 PM
-253Aubrey Raymond SC 40Powerhouse Functional Fitness W Masters W40 59 / / / / A 117 10WHITE 4-Apr 1:50 PM
-509Tiffany Hoffner MD 43BAM Weightlifting Club W Masters W40 59 / / / / A 115 10WHITE 4-Apr 1:50 PM
-438Mariya Kalishchuk CA 40Unaffiliated W Masters W40 59 / / / / A 110 10WHITE 4-Apr 1:50 PM
-129Dijana Stojanovski GA 42Unaffiliated W Masters W40 59 / / / / A 104 10WHITE 4-Apr 1:50 PM
-333Joy Munyan NC 43HEAVY METAL BARBELL W Masters W40 59 / / / / A 100 10WHITE 4-Apr 1:50 PM
-239Jonathan Herrera FL 48Unaffiliated M Masters M45 96 / MIL M 96 / / / A 220 10BLUE 4-Apr 1:30 PM
-93Lee Sikon OH 46North 41 Barbell M Masters M45 96 / MIL M 96 / / / A 215 10BLUE 4-Apr 1:30 PM
-25Jason Adams TX 45Unaffiliated M Masters M45 96 / MIL M 96 / / / A 210 10BLUE 4-Apr 1:30 PM
-203Marq Cerqua CT 48Unaffiliated M Masters M45 96 / / / / A 210 10BLUE 4-Apr 1:30 PM
-259Peter Schied TX 45Tsunami Weightlifting System M Masters M45 96 / MIL M 96 / / / A 200 10BLUE 4-Apr 1:30 PM
-636Bryan Bee AL 46Wheelhouse Academy M Masters M45 102 / / / / A 220 10BLUE 4-Apr 1:30 PM
-86Max Sterling SC 48Haworth Weightlifting M Masters M45 102 / / / / A 207 10BLUE 4-Apr 1:30 PM
-486Kevin Wright FL 49FOREVER YOUNG BARBELL M Masters M45 102 / / / / A 205 10BLUE 4-Apr 1:30 PM
-406Ruben Martinez OR 47Bexar Barbell M Masters M45 102 / / / / A 200 10BLUE 4-Apr 1:30 PM
-550Jason Dinius WA 46PR WEIGHTLIFTING M Masters M45 109 / / / / A 275 10BLUE 4-Apr 1:30 PM
-545Cody Looney WA 45Wolf Pack Weightlifting M Masters M45 109 / MIL M 109 / / / A 220 10BLUE 4-Apr 1:30 PM
-655Jason Kristal CA 46Unaffiliated M Masters M45 109+ / / / / A 275 10BLUE 4-Apr 1:30 PM
-85Chris Walls NM 45CROSSFIT FORT VANCOUVER BARBELL CLUB M Masters M45 109+ / MIL M 109+ / / / A 244 10BLUE 4-Apr 1:30 PM
-428Jonathan Schultz OH 46Unaffiliated M Masters M45 109+ / / / / A 200 10BLUE 4-Apr 1:30 PM
-560Traci Beaune MI 40Optimus Barbell Club W Masters W40 64 / / / / A 180 11RED 4-Apr 3:50 PM
-309Abigail Hoskins GA 43POWER AND GRACE PERFORMANCE. W Masters W40 64 / / / / A 168 11RED 4-Apr 3:50 PM
-297Christina Henesian CA 43Unaffiliated W Masters W40 64 / / / / A 148 11RED 4-Apr 3:50 PM
-482Kristin Maselli CT 43Red Eye Barbell Club W Masters W40 64 / / / / A 148 11RED 4-Apr 3:50 PM
-679Kelly Nichols VA 40BASA Weightlifting W Masters W40 64 / / / / A 140 11RED 4-Apr 3:50 PM
-288Erinn Frazer OH 43PROJECT LIFT W Masters W40 64 / / / / A 138 11RED 4-Apr 3:50 PM
-348Brenda Emery PA 44Fourteen Forty Collective W Masters W40 64 / / / / A 136 11RED 4-Apr 3:50 PM
-367Rachel Bryla IL 40Team SAW W Masters W40 64 / / / / A 132 11RED 4-Apr 3:50 PM
-681Megan Patton NC 40Brave Barbells N Sprinkles WLC W Masters W40 64 / / / / A 132 11RED 4-Apr 3:50 PM
-350Rebeca Stephenson FL 40Oly Concepts W Masters W40 64 / / / / A 129 11RED 4-Apr 3:50 PM
-119Charlene Sattler NE 43Bexar Barbell W Masters W40 64 / / / / A 125 11RED 4-Apr 3:50 PM
-171Jillian Wagner-Green TN 40Catalyst Masters W Masters W40 64 / / / / A 125 11RED 4-Apr 3:50 PM
-67Patricia Lawson KY 40Milo Strength Weightlifting Club W Masters W40 59 / / / / A 146 11WHITE 4-Apr 3:50 PM
-183Cameron Barden GA 41POWER AND GRACE PERFORMANCE. W Masters W40 59 / / / / A 145 11WHITE 4-Apr 3:50 PM
-638Cynthia Rae NC 40Down South Barbell W Masters W40 59 / MIL W 59 / / / A 142 11WHITE 4-Apr 3:50 PM
-669Libby Elias NY 41Tri State Barbell W Masters W40 59 / / / / A 140 11WHITE 4-Apr 3:50 PM
-219Katy Large TN 42POWER AND GRACE PERFORMANCE. W Masters W40 59 / / / / A 134 11WHITE 4-Apr 3:50 PM
-483Amy Callori MA 40BEANTOWN BARBELL CLUB W Masters W40 59 / / / / A 133 11WHITE 4-Apr 3:50 PM
-198Lindsey Kujawski WA 41Unaffiliated W Masters W40 59 / / / / A 130 11WHITE 4-Apr 3:50 PM
-250Maryam Zanbagh VA 42Built By Becker Weightlifting Club W Masters W40 59 / / / / A 130 11WHITE 4-Apr 3:50 PM
-380Leah EdwArds WA 44ALPHA BARBELL W Masters W40 59 / / / / A 129 11WHITE 4-Apr 3:50 PM
-511Shunsuke Nakao CA 42Koyano Weightlifting M Masters M40 61 / / / / A 169 11BLUE 4-Apr 3:50 PM
-47Jethro Acenas CA 42Unaffiliated M Masters M40 67 / / / / A 171 11BLUE 4-Apr 3:50 PM
-Start List presented by:
-14Wes Richardson NC 43HEAVY METAL BARBELL M Masters M40 67 / / / / A 170 11BLUE 4-Apr 3:50 PM
-627Christopher Douglas WA 44PARAMOUNT BARBELL CLUB M Masters M40 73 / / / / A 249 11BLUE 4-Apr 3:50 PM
-602Edwin Johnson MA 43Unaffiliated M Masters M40 73 / / / / A 188 11BLUE 4-Apr 3:50 PM
-269onan marroquin FL 40Unaffiliated M Masters M40 81 / / / / A 220 11BLUE 4-Apr 3:50 PM
-435Justin Goonan TN 43Unaffiliated M Masters M40 81 / / / / A 220 11BLUE 4-Apr 3:50 PM
-662Brian Leung VA 42CHFP WEIGHTLIFTING CLUB M Masters M40 81 / / / / A 220 11BLUE 4-Apr 3:50 PM
-621Carl Nelson NY 42MURDER OF CROWS M Masters M40 81 / / / / A 217 11BLUE 4-Apr 3:50 PM
-617John Erwin KY 40COASTAL EMPIRE WEIGHTLIFTING M Masters M40 81 / / / / A 215 11BLUE 4-Apr 3:50 PM
-223Terrence O'Neil MT 43True North Weightlifting M Masters M40 81 / / / / A 200 11BLUE 4-Apr 3:50 PM
-407Carlos Hernandez NV 44CALAVERA BARBELL M Masters M40 81 / / / / A 200 11BLUE 4-Apr 3:50 PM
-117Lionel Bravo CA 42BARBARIAN BARBELL CLUB M Masters M40 81 / / / / A 198 11BLUE 4-Apr 3:50 PM
-570Carlos Concepcion NY 41Unaffiliated M Masters M40 81 / / / / A 190 11BLUE 4-Apr 3:50 PM
-187Phillip Bost NC 43HEAVY METAL BARBELL M Masters M40 81 / / / / A 189 11BLUE 4-Apr 3:50 PM
-18Nastaran Whitson NJ 43Tri State Barbell W Masters W40 71 / / / / B 120 12RED 4-Apr 5:50 PM
-224Nikki Ouellette MA 40Wormtown Weightlifting W Masters W40 71 / / / / B 120 12RED 4-Apr 5:50 PM
-236Karen O'Donnell VA 42Built By Becker Weightlifting Club W Masters W40 71 / / / / B 120 12RED 4-Apr 5:50 PM
-245Tiffany Pan VA 41CHFP WEIGHTLIFTING CLUB W Masters W40 71 / / / / B 120 12RED 4-Apr 5:50 PM
-279Ashley Cullen VA 42RVA Weightlifting W Masters W40 71 / / / / B 120 12RED 4-Apr 5:50 PM
-10Andrea Dyar IA 42Jake Pudenz Strength & Power W Masters W40 71 / / / / B 115 12RED 4-Apr 5:50 PM
-282Roslyn Taylor CO 44Littleton Performance Barbell W Masters W40 71 / / / / B 114 12RED 4-Apr 5:50 PM
-569Sara Liu VA 40Echo Weightlifting W Masters W40 71 / / / / B 110 12RED 4-Apr 5:50 PM
-51Rachel Romano GA 43Unaffiliated W Masters W40 71 / / / / B 109 12RED 4-Apr 5:50 PM
-247Jennifer Fite TX 41POWER AND GRACE PERFORMANCE. W Masters W40 71 / / / / B 109 12RED 4-Apr 5:50 PM
-603Charina Vintson GA 43Butcher Barbell W Masters W40 71 / / / / B 109 12RED 4-Apr 5:50 PM
-469John Gilleland VA 41Unaffiliated M Masters M40 89 / MIL M 89 / / / A 275 12WHITE 4-Apr 5:40 PM
-202Bryann Turner OR 41Eastside Barbell M Masters M40 89 / / / / A 270 12WHITE 4-Apr 5:40 PM
-6Nathan Pickard GA 42Unaffiliated M Masters M40 89 / MIL M 89 / / / A 250 12WHITE 4-Apr 5:40 PM
-227Jonathan Raymond OH 44Steadfast Barbell M Masters M40 89 / / / / A 250 12WHITE 4-Apr 5:40 PM
-281Terrence Roland GA 43ALLSOUTH Barbell M Masters M40 89 / / / / A 210 12WHITE 4-Apr 5:40 PM
-673Erik Schreiber DE 41Unaffiliated M Masters M40 96 / / / / A 261 12WHITE 4-Apr 5:40 PM
-643Mike Garrett NC 4195East Barbell Club M Masters M40 96 / / / / A 250 12WHITE 4-Apr 5:40 PM
-53Neville Chu CA 42Unaffiliated M Masters M40 96 / / / / A 225 12WHITE 4-Apr 5:40 PM
-292Marciano Pimentel CA 43Unaffiliated M Masters M40 96 / / / / A 202 12WHITE 4-Apr 5:40 PM
-95Danielle Ashley GA 40DSSC Weightlifting W Masters W40 71 / / / / A 135 13RED 5-Apr 8:00 AM
-541Kalina Lesseva ME 40People's Republic of The Dojo W Masters W40 71 / / / / A 135 13RED 5-Apr 8:00 AM
-563Daisy May Gutierrez WA 44FOUNDATION BARBELL W Masters W40 71 / / / / A 135 13RED 5-Apr 8:00 AM
-608Shelli Poe VA 44CHFP WEIGHTLIFTING CLUB W Masters W40 71 / / / / A 135 13RED 5-Apr 8:00 AM
-688Lynsey Hathcock GA 41Unaffiliated W Masters W40 71 / / / / A 134 13RED 5-Apr 8:00 AM
-204Rebekah Horn SC 41Unaffiliated W Masters W40 71 / / / / A 133 13RED 5-Apr 8:00 AM
-615Stormy Weather NC 41Unaffiliated W Masters W40 71 / / / / A 126 13RED 5-Apr 8:00 AM
-646Jessica Lake NC 43POWER AND GRACE PERFORMANCE. W Masters W40 71 / / / / A 125 13RED 5-Apr 8:00 AM
-302Morgan Memmott FL 43Unaffiliated W Masters W40 71 / / / / A 124 13RED 5-Apr 8:00 AM
-512Brooke Thompson FL 40Unaffiliated W Masters W40 71 / / / / A 122 13RED 5-Apr 8:00 AM
-137Phoebe Storck GA 12ATLANTA PERFORMANCE W GA WSO U13 W 40 / / / / A 37 13WHITE 5-Apr 8:00 AM
-590Jayde Duncan GA 8South Georgia Barbell W GA WSO U13 W 30 / / / / A 30 13WHITE 5-Apr 8:00 AM
-632Hadley Tillman GA 8South Georgia Barbell W GA WSO U13 W 30 / / / / A 30 13WHITE 5-Apr 8:00 AM
-126Lilia Demers GA 19Floyd Farms Weightlifting W GA WSO JR W 49 / / / / A 90 13WHITE 5-Apr 8:00 AM
-408Talayna Britt GA 10WILLIAMS WEIGHTLIFTING W GA WSO U13 W 49 / / / / A 65 13WHITE 5-Apr 8:00 AM
-471KAIDENCE WASHINGTON GA 11COASTAL EMPIRE WEIGHTLIFTING W GA WSO U13 W 55 / / / / A 60 13WHITE 5-Apr 8:00 AM
-423Leila Ray GA 14South Georgia Barbell W GA WSO U15 W 59 / / / / A 90 13WHITE 5-Apr 8:00 AM
-132Ellie Kichler GA 15South Georgia Barbell W GA WSO U15 W 64 / / / / A 100 13WHITE 5-Apr 8:00 AM
-336Imani Washington GA 12COASTAL EMPIRE WEIGHTLIFTING W GA WSO U13 W 64 / / / / A 70 13WHITE 5-Apr 8:00 AM
-607Gabrielle Holmes GA 11COASTAL EMPIRE WEIGHTLIFTING W GA WSO U13 W 64 / / / / A 40 13WHITE 5-Apr 8:00 AM
-189Judah Mangrum GA 18Zoetic Weightlifting W GA WSO JR W 71 / / / / A 150 13WHITE 5-Apr 8:00 AM
-593sofia kokorina GA 16 W GA WSO U17 W 71 / / / / A 128 13WHITE 5-Apr 8:00 AM
-598Emma Meads GA 17South Georgia Barbell W GA WSO U17 W 76 / / / / A 135 13WHITE 5-Apr 8:00 AM
-680Anthony Pantazides Jr GA 41Cherokee Barbell M Masters M40 102 / / / / A 260 13BLUE 5-Apr 8:00 AM
-62Adrian Francis VA 42Wellbuilt Strength M Masters M40 102 / / / / A 257 13BLUE 5-Apr 8:00 AM
-Start List presented by:
-442Steven Bambinelli CO 40Vardanian Weightlifting M Masters M40 102 / / / / A 255 13BLUE 5-Apr 8:00 AM
-457david ethier RI 42Providence Barbell Club M Masters M40 102 / / / / A 250 13BLUE 5-Apr 8:00 AM
-152Eric Brandom CT 40Cheshire Weightlifting Club M Masters M40 102 / / / / A 245 13BLUE 5-Apr 8:00 AM
-231Eligio Sotelo IA 40Jake Pudenz Strength & Power M Masters M40 102 / / / / A 225 13BLUE 5-Apr 8:00 AM
-371Mike Isman MA 43Unaffiliated M Masters M40 102 / / / / A 217 13BLUE 5-Apr 8:00 AM
-228Herrick Chang CA 40Polaris Weightlifting M Masters M40 102 / / / / A 211 13BLUE 5-Apr 8:00 AM
-216Kristin Brimhall TX 42Unaffiliated W Masters W40 81 / / / / B 123 14RED 5-Apr 9:50 AM
-104Paige Hernandez NV 41CALAVERA BARBELL W Masters W40 76 / / / / B 120 14RED 5-Apr 9:50 AM
-168Keli Holley AL 41EAST ALABAMA WEIGHTLIFTING W Masters W40 81 / / / / B 120 14RED 5-Apr 9:50 AM
-208Emily Heiberg OR 41Industrial Strength WLC W Masters W40 76 / / / / B 120 14RED 5-Apr 9:50 AM
-396Tracy Wong WA 40FOUNDATION BARBELL W Masters W40 76 / / / / B 120 14RED 5-Apr 9:50 AM
-319LeslieAnne Pester FL 43Oly Concepts W Masters W40 81 / MIL W 81 / / / B 119 14RED 5-Apr 9:50 AM
-401Heather Myers MD 40BAM Weightlifting Club W Masters W40 81 / / / / B 117 14RED 5-Apr 9:50 AM
-272Kate Jensen MN 41Giffy’s Barbell Club W Masters W40 87 / / / / B 116 14RED 5-Apr 9:50 AM
-654Tristin Miller NC 43Unaffiliated W Masters W40 81 / / / / B 112 14RED 5-Apr 9:50 AM
-347Yecenia Feliz FL 43FOREVER YOUNG BARBELL W Masters W40 87 / / / / B 110 14RED 5-Apr 9:50 AM
-480Mateo Villa PA 40RUBBER CITY WEIGHTLIFTING M Masters M40 109 / / / / A 290 14WHITE 5-Apr 9:30 AM
-397John Smith NC 42Brave Barbells N Sprinkles WLC M Masters M40 109 / / / / A 270 14WHITE 5-Apr 9:30 AM
-303Jeffrey Gerlach CO 41Vardanian Weightlifting M Masters M40 109 / MIL M 109 / / / A 255 14WHITE 5-Apr 9:30 AM
-331Daniel Brown TX 41Bexar Barbell M Masters M40 109 / / / / A 250 14WHITE 5-Apr 9:30 AM
-163Steven Doughty CT 43Stay Golden Barbell M Masters M40 109 / / / / A 235 14WHITE 5-Apr 9:30 AM
-459George Gallaway VA 42CHFP WEIGHTLIFTING CLUB M Masters M40 109 / MIL M 109 / / / A 211 14WHITE 5-Apr 9:30 AM
-520Timothy Clouatre NC 41Blackheart Barbell M Masters M40 109+ / MIL M 109+ / / / A 285 14WHITE 5-Apr 9:30 AM
-8Mike Preston MI 43POWER AND GRACE PERFORMANCE. M Masters M40 109+ / / / / A 250 14WHITE 5-Apr 9:30 AM
-306Matthew Boyd NC 42Team SAW M Masters M40 109+ / / / / A 250 14WHITE 5-Apr 9:30 AM
-213Cyrus Rasnavad FL 40First Coast Weightlifting M Masters M40 109+ / / / / A 218 14WHITE 5-Apr 9:30 AM
-290Thomas Reynolds MA 42Unaffiliated M Masters M40 109+ / / / / A 218 14WHITE 5-Apr 9:30 AM
-536Francisco Chacon-Rovira GA 13West Georgia Weightlifting M GA WSO U13 M 55 / / / / A 95 14BLUE 5-Apr 9:50 AM
-32charles colbaugh GA 12Bowen Elite Weightlifting M GA WSO U13 M 49 / / / / A 50 14BLUE 5-Apr 9:50 AM
-49Hunter Simmons GA 10COASTAL EMPIRE WEIGHTLIFTING M GA WSO U13 M 55 / / / / A 40 14BLUE 5-Apr 9:50 AM
-16Saxon Colbaugh GA 15Bowen Elite Weightlifting M GA WSO U15 M 61 / / / / A 90 14BLUE 5-Apr 9:50 AM
-571Gavin Nelms GA 20Floyd Farms Weightlifting M GA WSO JR M 67 / / / / A 195 14BLUE 5-Apr 9:50 AM
-674Ashby Floyd GA 20Floyd Farms Weightlifting M GA WSO JR M 81 / / / / A 230 14BLUE 5-Apr 9:50 AM
-106Jaden Smith GA 15COASTAL EMPIRE WEIGHTLIFTING M GA WSO U15 M 89 / / / / A 110 14BLUE 5-Apr 9:50 AM
-637Nathan Cleghorn GA 18 M GA WSO JR M 96 / / / / A 200 14BLUE 5-Apr 9:50 AM
-30Freddy Perez GA 20West Georgia Weightlifting M GA WSO JR M 96 / / / / A 180 14BLUE 5-Apr 9:50 AM
-313Ahmad Minor GA 17COASTAL EMPIRE WEIGHTLIFTING M GA WSO U17 M 96 / / / / A 180 14BLUE 5-Apr 9:50 AM
-538Alonzo Richardson, Jr. GA 14COASTAL EMPIRE WEIGHTLIFTING M GA WSO U15 M 89+ / / / / A 80 14BLUE 5-Apr 9:50 AM
-658Emory McFann GA 16Rising Tide Weightlifting M GA WSO U17 M 102+ / / / / A 220 14BLUE 5-Apr 9:50 AM
-153Trent Hagiya CA 37Daidalos Weightlifting M Masters M35 67 / / / / A 240 15RED 5-Apr 11:40 AM
-622Brian Horwath NJ 36Tri State Barbell M Masters M35 67 / / / / A 200 15RED 5-Apr 11:40 AM
-81Shamil Parbhoo NY 38Lupo Barbell Club M Masters M35 67 / / / / A 194 15RED 5-Apr 11:40 AM
-682Nico Paulo Tolentino TX 35Kim Barbell M Masters M35 67 / / / / A 190 15RED 5-Apr 11:40 AM
-244donald keller lll FL 37Unaffiliated M Masters M35 67 / / / / A 181 15RED 5-Apr 11:40 AM
-405Bryan Jow AL 37Gryphon Strength Barbell M Masters M35 73 / MIL M 73 / / / A 250 15RED 5-Apr 11:40 AM
-625Jacob Howard WA 37Wolf Pack Weightlifting M Masters M35 73 / / / / A 225 15RED 5-Apr 11:40 AM
-118Timothy Everhart VA 35CHFP WEIGHTLIFTING CLUB M Masters M35 73 / / / / A 220 15RED 5-Apr 11:40 AM
-540Joshua Claravall OR 37Unaffiliated M Masters M35 73 / / / / A 220 15RED 5-Apr 11:40 AM
-422Tim Lorenz CO 36Denver Barbell Club M Masters M35 73 / / / / A 205 15RED 5-Apr 11:40 AM
-120Sean Higgins IL 37Unaffiliated M Masters M35 73 / / / / A 193 15RED 5-Apr 11:40 AM
-222Ryan Miller OR 39Industrial Strength WLC M Masters M35 73 / / / / A 191 15RED 5-Apr 11:40 AM
-45Michael Sullivan MO 36Unaffiliated M Masters M35 73 / MIL M 73 / / / A 190 15RED 5-Apr 11:40 AM
-109Amber Butler GA 42 W GA WSO OPEN W 76 / W40 76 / / / A 112 15WHITE 5-Apr 11:30 AM
-551Katy Lott GA 50MaxOut Barbell W GA WSO OPEN W 71 / W50 71 / / / A 110 15WHITE 5-Apr 11:30 AM
-317Meagan Chisholm GA 39South Georgia Barbell W GA WSO OPEN W 59 / W35 59 / / / A 109 15WHITE 5-Apr 11:30 AM
-513Kailey Diatikar GA 22ATLANTA PERFORMANCE W GA WSO OPEN W 71 / / / / A 106 15WHITE 5-Apr 11:30 AM
-242Natalie Richardson GA 31Cherokee Barbell W GA WSO OPEN W 81 / / / / A 100 15WHITE 5-Apr 11:30 AM
-429Torie Mathis GA 47 W GA WSO OPEN W 71 / W45 71 / / / A 100 15WHITE 5-Apr 11:30 AM
-Start List presented by:
-496Caitlin Meyer GA 27West Georgia Weightlifting W GA WSO OPEN W 76 / / / / A 100 15WHITE 5-Apr 11:30 AM
-43Ashley Bowen GA 37Bowen Elite Weightlifting W GA WSO OPEN W 64 / W35 64 / / / A 99 15WHITE 5-Apr 11:30 AM
-398Kenya Blocker GA 41 W GA WSO OPEN W 87+ / W40 87+ / / / A 95 15WHITE 5-Apr 11:30 AM
-641Megan Warburg GA 33South Georgia Barbell W GA WSO OPEN W 59 / / / / A 95 15WHITE 5-Apr 11:30 AM
-246Lachelle Phillips GA 40West Georgia Weightlifting W GA WSO OPEN W 81 / W40 81 / / / A 90 15WHITE 5-Apr 11:30 AM
-329Renee Michelle Burnette GA 46ALLSOUTH Barbell W GA WSO OPEN W 76 / W45 76 / / / A 90 15WHITE 5-Apr 11:30 AM
-452Shasda Bishop GA 39Bowen Elite Weightlifting W GA WSO OPEN W 87 / W35 87 / / / A 67 15WHITE 5-Apr 11:30 AM
-3Maria Paramo GA 30South Georgia Barbell W GA WSO OPEN W 71 / / / / A 65 15WHITE 5-Apr 11:30 AM
-301Natasha Bowen GA 50Bowen Elite Weightlifting W GA WSO OPEN W 64 / W50 64 / / / A 65 15WHITE 5-Apr 11:30 AM
-315Jennifer White MT 42POWER AND GRACE PERFORMANCE. W Masters W40 71 / / / / A 175 15BLUE 5-Apr 11:50 AM
-116Alise Enriquez OR 40Eastside Barbell W Masters W40 71 / / / / A 166 15BLUE 5-Apr 11:50 AM
-38Teralyn Carter NJ 40FRONT RANGE WLC W Masters W40 71 / / / / A 165 15BLUE 5-Apr 11:50 AM
-99Laura Meador TN 43Unaffiliated W Masters W40 71 / / / / A 165 15BLUE 5-Apr 11:50 AM
-258Stephanie Jefferson NH 40Unaffiliated W Masters W40 71 / / / / A 165 15BLUE 5-Apr 11:50 AM
-96Kate Painter NC 41Brave Barbells N Sprinkles WLC W Masters W40 71 / / / / A 151 15BLUE 5-Apr 11:50 AM
-383Courtney Shoemaker NC 40HEAVY METAL BARBELL W Masters W40 71 / / / / A 150 15BLUE 5-Apr 11:50 AM
-34Angelica Rosales VA 40RVA Weightlifting W Masters W40 71 / / / / A 141 15BLUE 5-Apr 11:50 AM
-221Corinne Van Deusen OH 41Root 18 Weightlifting W Masters W40 71 / / / / A 140 15BLUE 5-Apr 11:50 AM
-124Jessica Cummings MA 43Providence Barbell Club W Masters W40 71 / / / / A 138 15BLUE 5-Apr 11:50 AM
-210Sean Nguyen FL 35BARBARIAN BARBELL CLUB M Masters M35 81 / / / / A 265 16RED 5-Apr 1:40 PM
-640Javan Freyenberger IA 35Jake Pudenz Strength & Power M Masters M35 81 / / / / A 260 16RED 5-Apr 1:40 PM
-645Aaron Denney FL 37ALLSOUTH Barbell M Masters M35 81 / / / / A 245 16RED 5-Apr 1:40 PM
-111Tony Schuster NE 38Heartland Strength M Masters M35 81 / / / / A 240 16RED 5-Apr 1:40 PM
-358steven franklin MI 37Unaffiliated M Masters M35 81 / MIL M 81 / / / A 240 16RED 5-Apr 1:40 PM
-389Gary Esparza KY 36Gary’s Gym M Masters M35 81 / / / / A 220 16RED 5-Apr 1:40 PM
-484Luis Martinez GA 36West Georgia Weightlifting M Masters M35 81 / MIL M 81 / / / A 220 16RED 5-Apr 1:40 PM
-382Jeff Boughton NC 37Highland Weightlifting M Masters M35 81 / / / / A 215 16RED 5-Apr 1:40 PM
-155John Fasulo CA 36Unaffiliated M Masters M35 81 / MIL M 81 / / / A 204 16RED 5-Apr 1:40 PM
-37Matt Reeves WA 37Unaffiliated M Masters M35 81 / / / / A 200 16RED 5-Apr 1:40 PM
-212Justin Rae NC 36Down South Barbell M Masters M35 81 / MIL M 81 / / / A 200 16RED 5-Apr 1:40 PM
-13Rachel Kremer OH 43Superfly Barbell Club W Masters W40 76 / / / / A 150 16WHITE 5-Apr 2:00 PM
-192Lacey Sotelo IA 43Jake Pudenz Strength & Power W Masters W40 76 / / / / A 150 16WHITE 5-Apr 2:00 PM
-531Jamie Adams GA 44Atlas Weightlifting Club W Masters W40 76 / / / / A 145 16WHITE 5-Apr 2:00 PM
-592Rachel Reiboldt GA 42POWER AND GRACE PERFORMANCE. W Masters W40 81 / / / / A 145 16WHITE 5-Apr 2:00 PM
-248Lisa Bagby VA 41CHFP WEIGHTLIFTING CLUB W Masters W40 87 / / / / A 140 16WHITE 5-Apr 2:00 PM
-232Alba Fortuna NY 41Unaffiliated W Masters W40 76 / / / / A 136 16WHITE 5-Apr 2:00 PM
-287Brigitte Bieyro CA 41LuxFit Barbell Club W Masters W40 76 / / / / A 135 16WHITE 5-Apr 2:00 PM
-614Silvia Mangas FL 43Unaffiliated W Masters W40 76 / / / / A 133 16WHITE 5-Apr 2:00 PM
-529Erica Fenech OH 43CLEAN SLATE WEIGHTLIFTING W Masters W40 76 / / / / A 127 16WHITE 5-Apr 2:00 PM
-413Caroline Kim Palacios CA 41BARBARIAN BARBELL CLUB W Masters W40 81 / / / / A 125 16WHITE 5-Apr 2:00 PM
-444Ashley Richardson TX 44Unaffiliated W Masters W40 81 / / / / A 125 16WHITE 5-Apr 2:00 PM
-467Sara Soto NY 44MURDER OF CROWS W Masters W40 87 / / / / A 125 16WHITE 5-Apr 2:00 PM
-211Benjamin Chang GA 33 M GA WSO OPEN M 81 / / / / A 200 16BLUE 5-Apr 1:30 PM
-419Michael Vo GA 24Floyd Farms Weightlifting M GA WSO OPEN M 89 / / / / A 195 16BLUE 5-Apr 1:30 PM
-71Trip Floyd GA 23Floyd Farms Weightlifting M GA WSO OPEN M 96 / / / / A 190 16BLUE 5-Apr 1:30 PM
-418Chris Wagner GA 53Cherokee Barbell M GA WSO OPEN M 102 / M50 102 / / / A 190 16BLUE 5-Apr 1:30 PM
-552William Nollenberger GA 37Cherokee Barbell M GA WSO OPEN M 89 / M35 89 / / / A 179 16BLUE 5-Apr 1:30 PM
-687Gabriel Shull GA 26 M GA WSO OPEN M 102 / / / / A 170 16BLUE 5-Apr 1:30 PM
-52Justin Martin-Bailey GA 41Bowen Elite Weightlifting M GA WSO OPEN M 109 / M40 109 / / / A 166 16BLUE 5-Apr 1:30 PM
-35Scott Stamey GA 50Brave Barbells N Sprinkles WLC M GA WSO OPEN M 89 / M50 89 / / / A 160 16BLUE 5-Apr 1:30 PM
-270Bill Prater GA 52Bowen Elite Weightlifting M GA WSO OPEN M 96 / M50 96 / / / A 160 16BLUE 5-Apr 1:30 PM
-384Ryan Gesser GA 50ATLANTA PERFORMANCE M GA WSO OPEN M 102 / M50 102 / / / A 152 16BLUE 5-Apr 1:30 PM
-359Michael Russell GA 35South Georgia Barbell M GA WSO OPEN M 102 / M35 102 / / / A 150 16BLUE 5-Apr 1:30 PM
-534Martin Rydel GA 47South Georgia Barbell M GA WSO OPEN M 81 / M45 81 / / / A 140 16BLUE 5-Apr 1:30 PM
-369Jarret Bryan GA 35ATLANTA PERFORMANCE M GA WSO OPEN M 73 / M35 73 / / / A 135 16BLUE 5-Apr 1:30 PM
-499David DeGroot GA 55 M GA WSO OPEN M 96 / M55 96 / / / A 130 16BLUE 5-Apr 1:30 PM
-362Steven Acenbrak GA 67Cherokee Barbell M GA WSO OPEN M 73 / M65 73 / / / A 92 16BLUE 5-Apr 1:30 PM
-361Sarah Tyler VA 43HEAVY METAL BARBELL W Masters W40 87+ / / / / A 190 17RED 5-Apr 3:40 PM
-Start List presented by:
-489Kimberlee Douglas OR 44Haworth Weightlifting W Masters W40 87+ / / / / A 190 17RED 5-Apr 3:40 PM
-387Liz Earley PA 40KiloDelphia W Masters W40 87+ / / / / A 170 17RED 5-Apr 3:40 PM
-11Erin Becker CA 40Standard Strength W Masters W40 87+ / / / / A 166 17RED 5-Apr 3:40 PM
-495Megan Haymaker NC 411Kilo W Masters W40 87+ / / / / A 165 17RED 5-Apr 3:40 PM
-633Stephanie Dickhute IA 42Heartland Strength W Masters W40 87+ / / / / A 161 17RED 5-Apr 3:40 PM
-147Jamie Martin OH 40CLEAN SLATE WEIGHTLIFTING W Masters W40 87+ / / / / A 160 17RED 5-Apr 3:40 PM
-40Marjorie Gottier NC 42Rising Tide Weightlifting W Masters W40 87+ / / / / A 150 17RED 5-Apr 3:40 PM
-182Jennifer Miller VA 44Bexar Barbell W Masters W40 87+ / MIL W 87+ / / / A 150 17RED 5-Apr 3:40 PM
-167Diana Thorne MN 44Unaffiliated W Masters W40 87+ / / / / A 135 17RED 5-Apr 3:40 PM
-416Katerina Athanassiadou DC 40DC WEIGHTLIFTING CLUB W Masters W40 87+ / / / / A 127 17RED 5-Apr 3:40 PM
-91Tacora Beasley NY 44Unaffiliated W Masters W40 87+ / / / / A 125 17RED 5-Apr 3:40 PM
-559Amber Englebright KY 41Gary’s Gym W Masters W40 87+ / / / / A 120 17RED 5-Apr 3:40 PM
-583Christina Brockington SC 40Swamp Cabbage Barbell Club W Masters W40 87+ / / / / A 120 17RED 5-Apr 3:40 PM
-161Janice White NC 43HEAVY METAL BARBELL W Masters W40 87+ / / / / A 114 17RED 5-Apr 3:40 PM
-220Amanda Cook NV 43CALAVERA BARBELL W Masters W40 81 / / / / A 175 17WHITE 5-Apr 4:00 PM
-451Kimberly Andrew WA 40Eastside Barbell W Masters W40 76 / / / / A 170 17WHITE 5-Apr 4:00 PM
-651Amanda Cann NY 44Lupo Barbell Club W Masters W40 87 / / / / A 161 17WHITE 5-Apr 4:00 PM
-146Tereka Clark MD 4012 Labours Barbell W Masters W40 81 / / / / A 160 17WHITE 5-Apr 4:00 PM
-337Stephanie Rosario IL 42FORZA WEIGHTLIFTING CLUB W Masters W40 76 / MIL W 76 / / / A 160 17WHITE 5-Apr 4:00 PM
-450Angie Cornejo WA 41Wolf Pack Weightlifting W Masters W40 76 / / / / A 160 17WHITE 5-Apr 4:00 PM
-596Lucille Murphy NY 41Gryphon Strength Barbell W Masters W40 76 / / / / A 160 17WHITE 5-Apr 4:00 PM
-455Eunice Rho FL 40Unaffiliated W Masters W40 87 / / / / A 155 17WHITE 5-Apr 4:00 PM
-672Selena Cearley TX 43Bexar Barbell W Masters W40 81 / / / / A 155 17WHITE 5-Apr 4:00 PM
-65Catharine Messersmith KY 41Category 5 Athletics W Masters W40 81 / MIL W 81 / / / A 154 17WHITE 5-Apr 4:00 PM
-149Cherisse Taylor FL 43RFS Barbell W Masters W40 76 / / / / A 154 17WHITE 5-Apr 4:00 PM
-103Joshua Venegas GA 33Rising Tide Weightlifting M GA WSO OPEN M 96 / / / / A 270 17BLUE 5-Apr 4:00 PM
-26Hunter Orloff GA 26Endless Strength Weightlifting M GA WSO OPEN M 89 / / / / A 265 17BLUE 5-Apr 4:00 PM
-561Isaac Tenga GA 25 M GA WSO OPEN M 102 / / / / A 265 17BLUE 5-Apr 4:00 PM
-256Ethan Bowen GA 27Bowen Elite Weightlifting M GA WSO OPEN M 73 / / / / A 260 17BLUE 5-Apr 4:00 PM
-376Jacob OConnor GA 27Endless Strength Weightlifting M GA WSO OPEN M 81 / / / / A 260 17BLUE 5-Apr 4:00 PM
-477Anthony Pantazides Jr GA 41Cherokee Barbell M GA WSO OPEN M 102 / M40 102 / / / A 255 17BLUE 5-Apr 4:00 PM
-82Stewart Ragan GA 33POWER AND GRACE PERFORMANCE. M GA WSO OPEN M 81 / / / / A 240 17BLUE 5-Apr 4:00 PM
-657Dustin Craig GA 29West Georgia Weightlifting M GA WSO OPEN M 96 / / / / A 235 17BLUE 5-Apr 4:00 PM
-273Gregory Sweat GA 23Floyd Farms Weightlifting M GA WSO OPEN M 89 / / / / A 220 17BLUE 5-Apr 4:00 PM
-392Benjamin Engelbracht GA 23Floyd Farms Weightlifting M GA WSO OPEN M 73 / / / / A 220 17BLUE 5-Apr 4:00 PM
-432Joseph DarderUquillas GA 28TEAM SAVANNAH M GA WSO OPEN M 67 / / / / A 220 17BLUE 5-Apr 4:00 PM
-485Thomas Minor GA 32Grow or Die Barbell M GA WSO OPEN M 73 / / / / A 215 17BLUE 5-Apr 4:00 PM
-177Bud Pearce GA 39Attitude Nation Barbell Club M GA WSO OPEN M 89 / M35 89 / / / A 210 17BLUE 5-Apr 4:00 PM
-516Robert Fezza GA 55POWER AND GRACE PERFORMANCE. M GA WSO OPEN M 96 / M55 96 / / / A 205 17BLUE 5-Apr 4:00 PM
-89Daniel Hamill GA 26Floyd Farms Weightlifting M GA WSO OPEN M 89 / / / / A 204 17BLUE 5-Apr 4:00 PM
-135Tracy Liu MD 35Wellbuilt Strength W Masters W35 45 / / / / A 79 18RED 5-Apr 6:00 PM
-379Hannah Sirdofsky PA 38West Chester Weightlifting W Masters W35 49 / / / / A 90 18RED 5-Apr 6:00 PM
-1Meredith Reyes VA 37351 Barbell Club W Masters W35 55 / / / / A 145 18RED 5-Apr 6:00 PM
-678Suzy Sanchez CO 35The Retirement Home W Masters W35 55 / / / / A 120 18RED 5-Apr 6:00 PM
-476Marissa Reeves WA 36Unaffiliated W Masters W35 55 / / / / A 115 18RED 5-Apr 6:00 PM
-557Danielle Funaro CT 38Stay Golden Barbell W Masters W35 55 / / / / A 115 18RED 5-Apr 6:00 PM
-578Alyson Weidmann VA 37Built By Becker Weightlifting Club W Masters W35 55 / / / / A 114 18RED 5-Apr 6:00 PM
-133Amy Livingston OR 39Heroic Barbell W Masters W35 55 / / / / A 112 18RED 5-Apr 6:00 PM
-316Bethany Looney WA 35Wolf Pack Weightlifting W Masters W35 55 / / / / A 111 18RED 5-Apr 6:00 PM
-464Ashley Bowen GA 37Bowen Elite Weightlifting W Masters W35 55 / / / / A 100 18RED 5-Apr 6:00 PM
-206Carly Lansley GA 34Haworth Weightlifting W GA WSO OPEN W 87+ / / / / A 190 18WHITE 5-Apr 5:50 PM
-326Na'Erykah Goodwin GA 24COASTAL EMPIRE WEIGHTLIFTING W GA WSO OPEN W 87 / / / / A 170 18WHITE 5-Apr 5:50 PM
-201Grace Jenkins GA 26POWER AND GRACE PERFORMANCE. W GA WSO OPEN W 87+ / / / / A 160 18WHITE 5-Apr 5:50 PM
-394Corynne Francis GA 34 W GA WSO OPEN W 64 / / / / A 157 18WHITE 5-Apr 5:50 PM
-127Amelia Kushner GA 24UNIVERSITY OF TEXAS W GA WSO OPEN W 71 / / / / A 155 18WHITE 5-Apr 5:50 PM
-543Rachel Reiboldt GA 42POWER AND GRACE PERFORMANCE. W GA WSO OPEN W 81 / W40 81 / / / A 145 18WHITE 5-Apr 5:50 PM
-121Amanda Shirley GA 37 W GA WSO OPEN W 81 / W35 81 / / / A 140 18WHITE 5-Apr 5:50 PM
-527Clara Dennis GA 34 W GA WSO OPEN W 71 / / / / A 133 18WHITE 5-Apr 5:50 PM
-Start List presented by:
-88Jasmine Louis-Jacques GA 30 W GA WSO OPEN W 81 / / / / A 130 18WHITE 5-Apr 5:50 PM
-145Rose Caderno GA 28ALLSOUTH Barbell W GA WSO OPEN W 64 / / / / A 130 18WHITE 5-Apr 5:50 PM
-252Halaina Yancey GA 22Bowen Elite Weightlifting W GA WSO OPEN W 64 / / / / A 130 18WHITE 5-Apr 5:50 PM
-340Rebecca Mckinnon GA 35MaxOut Barbell W GA WSO OPEN W 76 / W35 76 / / / A 128 18WHITE 5-Apr 5:50 PM
-61Ashleigh Hulett GA 33MaxOut Barbell W GA WSO OPEN W 87 / / / / A 126 18WHITE 5-Apr 5:50 PM
-403Adrien Gates GA 32Greenlight Weightlifting W GA WSO OPEN W 64 / / / / A 120 18WHITE 5-Apr 5:50 PM
-97Debra Woods GA 44South Georgia Barbell W GA WSO OPEN W 71 / W40 71 / / / A 115 18WHITE 5-Apr 5:50 PM
-265angelica henderson GA 29Cherokee Barbell W GA WSO OPEN W 71 / / / / A 115 18WHITE 5-Apr 5:50 PM
-39John Casselberry FL 36Rise Weightlifting M Masters M35 89 / / / / A 260 18BLUE 5-Apr 6:20 PM
-449Jacob Elder NC 38Bull City Barbell M Masters M35 89 / / / / A 260 18BLUE 5-Apr 6:20 PM
-514Dominic Montoya PA 39GARAGE STRENGTH M Masters M35 89 / / / / A 253 18BLUE 5-Apr 6:20 PM
-41Evan Melendez OH 37PROJECT LIFT M Masters M35 89 / / / / A 250 18BLUE 5-Apr 6:20 PM
-57Jeremy Jackson FL 38Orlando Strength M Masters M35 89 / / / / A 250 18BLUE 5-Apr 6:20 PM
-194Alexander Arquilla IL 37SAYRE PARK WLC M Masters M35 89 / / / / A 250 18BLUE 5-Apr 6:20 PM
-665Jacob Bockelmann CA 38Mad Hammer Barbell M Masters M35 89 / / / / A 240 18BLUE 5-Apr 6:20 PM
-58Joseph Ward PA 35House of Weightlifting M Masters M35 89 / / / / A 229 18BLUE 5-Apr 6:20 PM
-653James Dantoni GA 39Unaffiliated M Masters M35 89 / / / / A 225 18BLUE 5-Apr 6:20 PM
-472Greg Foote TX 38Unaffiliated M Masters M35 89 / MIL M 89 / / / A 217 18BLUE 5-Apr 6:20 PM
-491Dan Sokolow OH 39CLEAN SLATE WEIGHTLIFTING M Masters M35 89 / / / / A 216 18BLUE 5-Apr 6:20 PM
-136Sean Rabourn NY 39Lupo Barbell Club M Masters M35 89 / / / / A 215 18BLUE 5-Apr 6:20 PM
-530Brian Sasaki WI 35Unaffiliated M Masters M35 89 / / / / A 212 18BLUE 5-Apr 6:20 PM
-604Kentaro Majima VA 37RVA Weightlifting M Masters M35 89 / / / / A 208 18BLUE 5-Apr 6:20 PM
-22Maxwell Anderson PA 37PHILADELPHIA BARBELL M Masters M35 89 / / / / A 207 18BLUE 5-Apr 6:20 PM
-345Caitlin Jaeger MA 37Wormtown Weightlifting W Masters W35 64 / / / / B 130 19RED 6-Apr 8:00 AM
-609Laura Bleiler VA 35CHFP WEIGHTLIFTING CLUB W Masters W35 64 / / / / B 127 19RED 6-Apr 8:00 AM
-159Katelyn Lipa GA 38Cherokee Barbell W Masters W35 64 / / / / B 126 19RED 6-Apr 8:00 AM
-629Stephanie Kuehne GA 37Unaffiliated W Masters W35 64 / / / / B 125 19RED 6-Apr 8:00 AM
-160Karisa Hoke NY 36JDI BARBELL W Masters W35 64 / / / / B 120 19RED 6-Apr 8:00 AM
-616Jeana Boughton NC 35Highland Weightlifting W Masters W35 64 / / / / B 120 19RED 6-Apr 8:00 AM
-623Whitney Evans OR 35Iron Acres Barbell W Masters W35 64 / / / / B 120 19RED 6-Apr 8:00 AM
-355Lauren Hall FL 37Rocket City Lifting W Masters W35 64 / / / / B 111 19RED 6-Apr 8:00 AM
-558Maryann Teichman CT 39Cheshire Weightlifting Club W Masters W35 64 / / / / B 110 19RED 6-Apr 8:00 AM
-490Andrea Hennings NE 37Heartland Strength W Masters W35 64 / / / / B 104 19RED 6-Apr 8:00 AM
-277Ralph Seidler PA 35GARAGE STRENGTH M Masters M35 109 / MIL M 109 / / / A 265 19WHITE 6-Apr 8:00 AM
-141Aaron Butcher CA 36BARBARIAN BARBELL CLUB M Masters M35 109 / / / / A 250 19WHITE 6-Apr 8:00 AM
-372Seth Day TX 39Vektløfter Barbell M Masters M35 109 / / / / A 245 19WHITE 6-Apr 8:00 AM
-144Thomas Boatswain NY 39Unaffiliated M Masters M35 102 / / / / A 240 19WHITE 6-Apr 8:00 AM
-671Seth Lingafeldt NC 36HEAVY METAL BARBELL M Masters M35 102 / / / / A 240 19WHITE 6-Apr 8:00 AM
-692Emilio Azukwu NY 38JDI BARBELL M Masters M35 102 / / / / A 240 19WHITE 6-Apr 8:00 AM
-130Jose Cruz Richardson FL 38Bexar Barbell M Masters M35 102 / MIL M 102 / / / A 230 19WHITE 6-Apr 8:00 AM
-151Evan Chelini FL 39Unaffiliated M Masters M35 109 / / / / A 226 19WHITE 6-Apr 8:00 AM
-624Kristina Ho-on NJ 37Brooklyn Training Hall W Masters W35 71 / / / / B 131 19BLUE 6-Apr 8:00 AM
-675Cooper Wall GA 35Synergy Barbell W Masters W35 71 / / / / B 131 19BLUE 6-Apr 8:00 AM
-330Nicole Kosakowski NC 37Blackheart Barbell W Masters W35 71 / MIL W 71 / / / B 130 19BLUE 6-Apr 8:00 AM
-56ASHLEY KNIGHT CA 36BARBARIAN BARBELL CLUB W Masters W35 71 / / / / B 128 19BLUE 6-Apr 8:00 AM
-87Ashley Burnell MD 39CHFP WEIGHTLIFTING CLUB W Masters W35 71 / / / / B 125 19BLUE 6-Apr 8:00 AM
-2Carly Jamieson SC 38Butcher Barbell W Masters W35 71 / / / / B 120 19BLUE 6-Apr 8:00 AM
-50Anne Core TN 36Full Steam Barbell W Masters W35 71 / / / / B 120 19BLUE 6-Apr 8:00 AM
-498Christina Belknap FL 39Jacksonville Weightlifting W Masters W35 71 / / / / B 120 19BLUE 6-Apr 8:00 AM
-75Danielle Gallant NC 35Brave Barbells N Sprinkles WLC W Masters W35 71 / / / / B 115 19BLUE 6-Apr 8:00 AM
-185Monica Long FL 36DIESEL WEIGHTLIFTING W Masters W35 71 / / / / B 115 19BLUE 6-Apr 8:00 AM
-613Delaney Geissinger NV 36Carson City Barbell Club W Masters W35 71 / / / / B 113 19BLUE 6-Apr 8:00 AM
-94Michaela Flaherty WA 36FOUNDATION BARBELL W Masters W35 71 / / / / B 111 19BLUE 6-Apr 8:00 AM
-690Laura Dionisio NY 39Manhattan Barbell W Masters W35 71 / / / / B 110 19BLUE 6-Apr 8:00 AM
-441Daniel Dodd NJ 35HEAVY METAL BARBELL M Masters M35 96 / / / / A 340 20RED 6-Apr 10:00 AM
-574Joshua Gonet GA 36ALLSOUTH Barbell M Masters M35 96 / MIL M 96 / / / A 275 20RED 6-Apr 10:00 AM
-377Zachary Leach FL 37Pensacola Strength M Masters M35 96 / MIL M 96 / / / A 260 20RED 6-Apr 10:00 AM
-626Justin Frimmel NJ 391Kilo M Masters M35 96 / / / / A 258 20RED 6-Apr 10:00 AM
-Start List presented by:
-36Kevin Real ME 37Unaffiliated M Masters M35 96 / MIL M 96 / / / A 255 20RED 6-Apr 10:00 AM
-458Nathan Morris CO 36Unaffiliated M Masters M35 96 / / / / A 236 20RED 6-Apr 10:00 AM
-5krystofer bussell NY 38MURDER OF CROWS M Masters M35 96 / / / / A 230 20RED 6-Apr 10:00 AM
-525Chris Wong CA 37SENSE Weightlifting Village M Masters M35 96 / / / / A 230 20RED 6-Apr 10:00 AM
-567Christopher Butler RI 35MASS Strength M Masters M35 96 / / / / A 230 20RED 6-Apr 10:00 AM
-66Matthew Michel NY 37Lupo Barbell Club M Masters M35 96 / / / / A 214 20RED 6-Apr 10:00 AM
-237Christopher Yandle NC 39HEAVY METAL BARBELL M Masters M35 96 / / / / A 200 20RED 6-Apr 10:00 AM
-113Samantha Davis PA 35BASA Weightlifting W Masters W35 59 / / / / A 166 20WHITE 6-Apr 9:45 AM
-427Tanya LaBell NJ 39Tri State Barbell W Masters W35 59 / / / / A 155 20WHITE 6-Apr 9:45 AM
-635Samantha McCauley MT 39Unaffiliated W Masters W35 59 / / / / A 133 20WHITE 6-Apr 9:45 AM
-42Remedios Timo-Dondoyano SC 39Catalyst Masters W Masters W35 59 / MIL W 59 / / / A 130 20WHITE 6-Apr 9:45 AM
-573Priscilla Cavazos IL 36Stone Age Barbell Club W Masters W35 59 / / / / A 120 20WHITE 6-Apr 9:45 AM
-184Brittany Chudakoff OH 35Coffee Weightlifting Team W Masters W35 59 / / / / A 119 20WHITE 6-Apr 9:45 AM
-417Dana Kelly CO 38Bexar Barbell W Masters W35 59 / / / / A 115 20WHITE 6-Apr 9:45 AM
-299Stephanie Langdon WA 37Wolf Pack Weightlifting W Masters W35 59 / / / / A 110 20WHITE 6-Apr 9:45 AM
-55Meagan Chisholm GA 39South Georgia Barbell W Masters W35 59 / / / / A 108 20WHITE 6-Apr 9:45 AM
-342jacqueline harrell FL 37Attitude Nation Barbell Club W Masters W35 59 / / / / A 106 20WHITE 6-Apr 9:45 AM
-505Chelsea Eskridge MD 35CHFP WEIGHTLIFTING CLUB W Masters W35 59 / / / / A 105 20WHITE 6-Apr 9:45 AM
-566Danielle Gaspar NJ 36McKenna Weightlifting W Masters W35 59 / / / / A 105 20WHITE 6-Apr 9:45 AM
-548Alyssa Cypher PA 35POWER AND GRACE PERFORMANCE. W Masters W35 59 / / / / A 100 20WHITE 6-Apr 9:45 AM
-553Gina Gatlin SC 39Greenville Weightlifting W Masters W35 59 / / / / A 100 20WHITE 6-Apr 9:45 AM
-502Tayler Harris NC 38HEAVY METAL BARBELL W Masters W35 76 / / / / A 200 20BLUE 6-Apr 10:00 AM
-64Amanda Feist PA 38GARAGE STRENGTH W Masters W35 76 / / / / A 179 20BLUE 6-Apr 10:00 AM
-271Nadia Khan CA 35NEW YORK WEIGHTLIFTING ACADEMY W Masters W35 76 / / / / A 172 20BLUE 6-Apr 10:00 AM
-83Emily Garrett NC 38Bexar Barbell W Masters W35 76 / / / / A 144 20BLUE 6-Apr 10:00 AM
-521Kathleen Marquez VA 39CHFP WEIGHTLIFTING CLUB W Masters W35 76 / MIL W 76 / / / A 140 20BLUE 6-Apr 10:00 AM
-338Bethany Farrar MA 36Wormtown Weightlifting W Masters W35 76 / / / / A 125 20BLUE 6-Apr 10:00 AM
-280Sherilyn Wilman-DePeña NJ 36McKenna Weightlifting W Masters W35 76 / / / / A 120 20BLUE 6-Apr 10:00 AM
-354Hope Justice OH 38CLEAN SLATE WEIGHTLIFTING W Masters W35 76 / / / / A 120 20BLUE 6-Apr 10:00 AM
-695Alice Agnew VA 35COASTAL EMPIRE WEIGHTLIFTING W Masters W35 76 / / / / A 116 20BLUE 6-Apr 10:00 AM
-78Ashley Castro FL 35Millennium Weightlifting W Masters W35 76 / / / / A 115 20BLUE 6-Apr 10:00 AM
-307Raquel Barreto NJ 39McKenna Weightlifting W Masters W35 76 / / / / A 115 20BLUE 6-Apr 10:00 AM
-440Grace Chin CO 39POWER AND GRACE PERFORMANCE. W Masters W35 76 / / / / A 115 20BLUE 6-Apr 10:00 AM
-539Danielle Palmer NE 36Heartland Strength W Masters W35 76 / / / / A 115 20BLUE 6-Apr 10:00 AM
-115lydia diggs FL 36Jacksonville Weightlifting W Masters W35 64 / / / / A 154 21RED 6-Apr 12:00 PM
-197Amanda York GA 36ALLSOUTH Barbell W Masters W35 64 / / / / A 145 21RED 6-Apr 12:00 PM
-76Rachel Garmon VA 36McKenna Weightlifting W Masters W35 64 / / / / A 144 21RED 6-Apr 12:00 PM
-381Laura Godfrey GA 37Unaffiliated W Masters W35 64 / / / / A 140 21RED 6-Apr 12:00 PM
-249Shayla Ford OR 39Eastside Barbell W Masters W35 64 / / / / A 135 21RED 6-Apr 12:00 PM
-314Julia Falamas NY 36Unaffiliated W Masters W35 64 / / / / A 135 21RED 6-Apr 12:00 PM
-503Kaitlyn Segur MA 37People's Republic of The Dojo W Masters W35 64 / / / / A 135 21RED 6-Apr 12:00 PM
-322Savannah Quezada CA 39Unaffiliated W Masters W35 64 / / / / A 132 21RED 6-Apr 12:00 PM
-648Tara Mann NC 36Bull City Barbell W Masters W35 64 / / / / A 131 21RED 6-Apr 12:00 PM
-576Carlyn Winston VA 38RVA Weightlifting W Masters W35 71 / MIL W 71 / / / A 170 21WHITE 6-Apr 12:00 PM
-660Christina Richards FL 38CATALYST ATHLETICS W Masters W35 71 / / / / A 170 21WHITE 6-Apr 12:00 PM
-123Ericha Flateau MA 37People's Republic of The Dojo W Masters W35 71 / / / / A 155 21WHITE 6-Apr 12:00 PM
-448Victoria Sam GA 35DSSC Weightlifting W Masters W35 71 / / / / A 155 21WHITE 6-Apr 12:00 PM
-98Amanda Scrementi IL 37Team SAW W Masters W35 71 / / / / A 151 21WHITE 6-Apr 12:00 PM
-443Amanda Street NC 38Shoofly Barbell Club W Masters W35 71 / / / / A 149 21WHITE 6-Apr 12:00 PM
-275Katie Baldrich DE 36KiloDelphia W Masters W35 71 / / / / A 140 21WHITE 6-Apr 12:00 PM
-351Katy Posithai NC 37HEAVY METAL BARBELL W Masters W35 71 / / / / A 140 21WHITE 6-Apr 12:00 PM
-507Esme Hovekamp NY 37JDI BARBELL W Masters W35 71 / / / / A 138 21WHITE 6-Apr 12:00 PM
-494Melissa Lingafeldt NC 36HEAVY METAL BARBELL W Masters W35 71 / / / / A 135 21WHITE 6-Apr 12:00 PM
-462Kelley Roberts GA 39West Georgia Weightlifting W Masters W35 71 / / / / A 134 21WHITE 6-Apr 12:00 PM
-612Georgina Moss PA 35EAST COAST GOLD W/L TEAM W Masters W35 71 / / / / A 134 21WHITE 6-Apr 12:00 PM
-594Amelia Obra HI 38HI PERFORMANCE ATHLETICS W Masters W35 71 / / / / A 133 21WHITE 6-Apr 12:00 PM
-142Carly Best NH 38People's Republic of The Dojo W Masters W35 81 / / / / A 183 21BLUE 6-Apr 12:00 PM
-630Chelsey Tharp LA 36CATALYST ATHLETICS W Masters W35 81 / / / / A 170 21BLUE 6-Apr 12:00 PM
-Start List presented by:
-328Erin Nelson CO 37Denver Barbell Club W Masters W35 81 / / / / A 160 21BLUE 6-Apr 12:00 PM
-393Christine Miller NE 38Heartland Strength W Masters W35 81 / / / / A 157 21BLUE 6-Apr 12:00 PM
-238Amanda Shirley GA 37Atlas Weightlifting Club W Masters W35 81 / / / / A 150 21BLUE 6-Apr 12:00 PM
-24Lisa Blevens IN 38Boombox Barbell W Masters W35 81 / / / / A 140 21BLUE 6-Apr 12:00 PM
-649Mallory Fountain NC 39Strength Ratio W Masters W35 81 / / / / A 140 21BLUE 6-Apr 12:00 PM
-226Rebecca Murdoch ME 38PAWSitive Barbell Club W Masters W35 81 / / / / A 130 21BLUE 6-Apr 12:00 PM
-426Nicole Long OH 39PROJECT LIFT W Masters W35 81 / / / / A 122 21BLUE 6-Apr 12:00 PM
-356Christina Ramirez NJ 39McKenna Weightlifting W Masters W35 81 / / / / A 120 21BLUE 6-Apr 12:00 PM
-294Rhoda Ko WA 38FOUNDATION BARBELL W Masters W35 81 / / / / A 119 21BLUE 6-Apr 12:00 PM
-411Jane Kruszewski VA 38CHFP WEIGHTLIFTING CLUB W Masters W35 81 / / / / A 117 21BLUE 6-Apr 12:00 PM
-320Annirose Womack CO 37Team Variant W Masters W35 87 / / / / A 181 22RED 6-Apr 2:00 PM
-298Sasha Jarquin FL 37Orlando Strength W Masters W35 87 / / / / A 171 22RED 6-Apr 2:00 PM
-44Lauren McHugh VA 37CHFP WEIGHTLIFTING CLUB W Masters W35 87 / / / / A 170 22RED 6-Apr 2:00 PM
-241Beth Simon OH 36Unaffiliated W Masters W35 87 / / / / A 170 22RED 6-Apr 2:00 PM
-21Yvgeni Henderson VA 37HEAVY METAL BARBELL W Masters W35 87 / / / / A 162 22RED 6-Apr 2:00 PM
-497Maria Lopez Guardone NY 39Manhattan Barbell W Masters W35 87 / / / / A 160 22RED 6-Apr 2:00 PM
-693Elyssabeth Beers CO 39Vardanian Weightlifting W Masters W35 87 / / / / A 160 22RED 6-Apr 2:00 PM
-388Corinn Williams CA 37Manhattan Barbell W Masters W35 87 / / / / A 154 22RED 6-Apr 2:00 PM
-378Nikki Holt NC 35Winston Salem Weightlifting W Masters W35 87 / / / / A 126 22RED 6-Apr 2:00 PM
-460Cleonie Meraz PA 36Built By Becker Weightlifting Club W Masters W35 87 / / / / A 126 22RED 6-Apr 2:00 PM
-546Melanie Vance GA 36ALLSOUTH Barbell W Masters W35 87 / / / / A 125 22RED 6-Apr 2:00 PM
-308Caine Wilkes NC 38HEAVY METAL BARBELL M Masters M35 109+ / / / / A 350 22WHITE 6-Apr 2:00 PM
-267Jacob Pudenz IA 37Unaffiliated M Masters M35 102 / / / / A 300 22WHITE 6-Apr 2:00 PM
-276Brett Keith TX 37Tsunami Weightlifting System M Masters M35 109 / / / / A 300 22WHITE 6-Apr 2:00 PM
-582Norman Carreiro OH 38RUBBER CITY WEIGHTLIFTING M Masters M35 109 / MIL M 109 / / / A 300 22WHITE 6-Apr 2:00 PM
-122Sean Rigsby NC 37HEAVY METAL BARBELL M Masters M35 109+ / / / / A 280 22WHITE 6-Apr 2:00 PM
-453Corey Frey PA 36Aegis Barbell M Masters M35 109 / / / / A 280 22WHITE 6-Apr 2:00 PM
-84Jason Pendergraph FL 35Unaffiliated M Masters M35 102 / / / / A 270 22WHITE 6-Apr 2:00 PM
-234Jason Cappetta NJ 37Tri State Barbell M Masters M35 109 / / / / A 270 22WHITE 6-Apr 2:00 PM
-23Michael Pott OH 35Unaffiliated M Masters M35 109+ / MIL M 109+ / / / A 265 22WHITE 6-Apr 2:00 PM
-685LeKiesha White VA 36RVA Weightlifting W Masters W35 87+ / / / / A 200 22BLUE 6-Apr 2:00 PM
-365Samantha Dowgin WA 37CROSSFIT FORT VANCOUVER BARBELL CLUB W Masters W35 87+ / / / / A 185 22BLUE 6-Apr 2:00 PM
-323Caitlin Whealy OH 38RUBBER CITY WEIGHTLIFTING W Masters W35 87+ / / / / A 180 22BLUE 6-Apr 2:00 PM
-461Amanda Roberts IN 38POWER AND GRACE PERFORMANCE. W Masters W35 87+ / / / / A 180 22BLUE 6-Apr 2:00 PM
-535Georgia Stone NC 36Endless Strength Weightlifting W Masters W35 87+ / / / / A 162 22BLUE 6-Apr 2:00 PM
-611Kali Fernandez MA 36People's Republic of The Dojo W Masters W35 87+ / / / / A 160 22BLUE 6-Apr 2:00 PM
-257Elyce Johnson MD 37BAM Weightlifting Club W Masters W35 87+ / / / / A 155 22BLUE 6-Apr 2:00 PM
-169Rose Seibold Fasano MA 38Wormtown Weightlifting W Masters W35 87+ / / / / A 126 22BLUE 6-Apr 2:00 PM
-528Christine Harris GA 35Unaffiliated W Masters W35 87+ / / / / A 126 22BLUE 6-Apr 2:00 PM
-447Ayesha Athar CA 35Unaffiliated W Masters W35 87+ / / / / A 124 22BLUE 6-Apr 2:00 PM
-233Emily Thompson TX 36Unaffiliated W Masters W35 87+ / / / / A 120 22BLUE 6-Apr 2:00 PM
+2025 Oklahoma State Championship Start List
+1 - Oklahoma State Championship Missing USAW Member #
+2 - Oklahoma State Championship - Youth Membership Expires Before Event
+3 - Oklahoma State Championship - Junior Unable to Verify Expiration
+4 - Oklahoma State Championship - Master
+Sess Pfm Date Gndr Group Cat Lot Age Name Total Team Comps
+SR- 81A 28 HEALY Austin 270 Unattached 1
+M65 73A 66 BARLOW Tim 102 Eclipse Barbell Club 14
+Sat
+M55 102A 56 NICHOLLS Steve 220 School of Champions 14
+May 10
+109+A 53 MIDDLETON Mark 219 Eclipse Barbell Club 14
+M50 73A 54 HARKNESS Ray 120 Spoon Barbell Club 14
+96A 52 GUNNIN Jason Norman Strength 14
+109A 38 LUCIO Rick 200 Norman Strength 14
+1 A Weigh In
+m 35 WEST Daniel 240 Pure Health Barbell 14
+8:00 AM 89A
+M35 36 WILLIAMS Cameron 100 OKC Barbell Club 14
+38 SMITH Daniel 237 Pure Health Barbell 14
+96A
+38 MIQUELON Brett 230 Pure Health Barbell 14
+19 BASTINGS Austin 215 Pure Health Barbell 13
+Start JR- 89A
+18 SWISHER Archer Pure Health Barbell 13
+10:00 AM
+17 MESSNER Max 120 Oklahoma Weightlifting Club 12
+16-17 102+A
+17 GUNNIN Emery Norman Strength 12
+W65 59A 66 LUDLOW Jocelyn 50 OKC Barbell Club 14
+Sat
+W45 64B 48 WOOD Kelly 104 OneLife Barbell Club 14
+May 10
+16-17 76A 17 ADEE Peyton 120 OKC Barbell Club 12
+f 55A 15 HICKOK Jaycee 70 Pure Health Barbell 12
+2 A Weigh In 15 DENNIS Alysse 60 Pure Health Barbell 12
+14-15 59A
+10:40 AM 15 STUTEVILLE Leyah OneLife Barbell Club 12
+64A 15 PARSONS Hadley 130 Pure Health Barbell 12
+16-17 73A 17 SHULTZ Xaiden 215 Eclipse Barbell Club 12
+Start
+m 14-15 49A 15 ANCSIN-FISHER Elek OKC Barbell Club 12
+12:40 PM
+13U 49A 13 PRAETORIUS Archer Pure Health Barbell 12
+W65 87A 67 STROBEL Debbie 100 Pure Health Barbell 14
+Sat 55 ALLEN Christine 70 The SHOP 14
+W55 87+A
+May 10 55 ALLEN Karen 70 The SHOP 14
+W45 64A 46 TAUSCHER Sarah 70 The SHOP 14
+W40 87A 42 WENDT Karen 123 Parish Barbell 14
+3 A Weigh In
+f 81A 39 COVERT Kaila Pure Health Barbell 14
+12:30 PM
+38 BOON Abby 138 Pure Health Barbell 14
+87+A
+35 WEAVER Courtney Pure Health Barbell 14
+W35
+Start 36 LAUXMAN Abigail 181 OKC Barbell Club 14
+2:30 PM 87A 37 SIFERS Felicia 165 OKC Barbell Club 14
+38 PROKOP Melissa 110 Bexar Barbell 14
+22 PARSONS Xander 265 Pure Health Barbell 1
+Sun 102A 29 JEFFRIES Dylan 230 Southwest Barbell Club 1
+May 11 29 PADGETT Zack 206 Unattached 1
+109A 28 HITCHCOCK Jacob OKC Barbell Club 1
+73A 23 MARTIN Victor 200 Bulldog Weightlifting Club 1
+4 A Weigh In SR-
+m 23 OCONNOR Keaton 260 Bulldog Weightlifting Club 1
+8:00 AM
+27 TAYLOR Ryan 253 Unattached 1
+89A
+28 PEÑA Gerald 250 True Strength Performance 1
+Start 29 MOOS Cole 250 True Strength Performance 1
+10:00 AM 96A 28 MERINO GARCIA Alexis 189 Southwest Barbell Club 1
+JR- 96A 19 STEWART Blake 248 Pioneer Weightlifting Club 13
+Page 1 of 2
+2025 Oklahoma State Championship Start List
+1 - Oklahoma State Championship Missing USAW Member #
+2 - Oklahoma State Championship - Youth Membership Expires Before Event
+3 - Oklahoma State Championship - Junior Unable to Verify Expiration
+4 - Oklahoma State Championship - Master
+Sess Pfm Date Gndr Group Cat Lot Age Name Total Team Comps
+Sun W40 64A 41 CURD Kristin 138 Pure Health Barbell 14
+May 11 59B 22 MORRIS Alena 119 Pioneer Weightlifting Club 1
+71B 28 AMEZCUA Brittany 114 Eclipse Barbell Club 1
+5 A Weigh In
+f SR- 76B 32 MORFIN Izzy 108 OKC Barbell Club 1
+10:05 AM
+81B 33 KOZLOWSKI Marilyn 120 Norman Strength 1
+Start 87+B 21 YANG Zhizhe 118 Norman Strength 1
+12:05 PM 14-15 71A 15 SHADE Katy 99 Pure Health Barbell 12
+71A 32 SMITH Lindsey 179 Eclipse Barbell Club 1
+Sun
+23 KNORR Baylee 140 Pure Health Barbell 1
+May 11 76A
+21 OTT Lyla 140 True Strength Performance 1
+30 GRAHAM Carley 180 OKC Barbell Club 1
+81A
+6 A Weigh In SR- 27 STEFEK Tahlor 140 Pure Health Barbell 1
+f
+11:30 AM 87+A 30 POPPE Keaton 165 True Strength Performance 1
+34 MAHER Marisa 160 OKC Barbell Club 1
+87A 29 CASH Caitlyn 153 Pure Health Barbell 1
+Start
+25 GIRARD Kassidy 150 Pure Health Barbell 1
+1:30 PM
+JR- 76A 19 BRANDON Hayden 150 Pure Health Barbell 13
+Page 2 of 2

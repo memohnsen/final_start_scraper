@@ -217,7 +217,7 @@ def enrich_data(entries):
 def save_to_csv(data, output_path):
     """Save the parsed data to a CSV file."""
     # Fields to exclude from output
-    excluded_fields = ['lot_number', 'state', 'group', 'age_groups', 'day', 'time', 'weight_classes', 'categories']
+    excluded_fields = ['state', 'group', 'age_groups', 'day', 'time', 'weight_classes', 'categories']
     
     # Define platform order
     platform_order = {
@@ -246,6 +246,7 @@ def save_to_csv(data, output_path):
         
         # Map the fields with their new names
         field_mapping = {
+            'member_id': entry.get('lot_number', ''),
             'name': entry.get('name', ''),
             'age': entry.get('age', ''),
             'club': entry.get('club', ''),
@@ -254,14 +255,14 @@ def save_to_csv(data, output_path):
             'entry_total': entry.get('entryTotal', ''),
             'session_number': entry.get('session', ''),
             'session_platform': entry.get('platform', ''),
-            'meet': "USAW Master's Nationals"  # Add constant meet name
+            'meet': "Oklahoma State Championship"  # Add constant meet name
         }
         
         filtered_entry.update(field_mapping)
         filtered_data.append(filtered_entry)
     
     # Convert numeric fields to integers
-    numeric_fields = ['entry_total', 'age', 'session_number']
+    numeric_fields = ['entry_total', 'age', 'session_number', 'member_id']
     for entry in filtered_data:
         for field in numeric_fields:
             if field in entry and isinstance(entry[field], str) and entry[field].isdigit():
@@ -274,7 +275,7 @@ def save_to_csv(data, output_path):
     ))
     
     # Define the exact order of columns
-    fieldnames = ['name', 'age', 'club', 'gender', 'weight_class', 'entry_total', 'session_number', 'session_platform', 'meet']
+    fieldnames = ['member_id', 'name', 'age', 'club', 'gender', 'weight_class', 'entry_total', 'session_number', 'session_platform', 'meet']
     
     # Write to CSV with specified column order
     with open(output_path, 'w', newline='') as csvfile:
@@ -286,7 +287,7 @@ def save_to_csv(data, output_path):
 
 def main():
     # File paths
-    pdf_path = "start-list.pdf"
+    pdf_path = "ok final.pdf"
     output_path = "start_list_data.csv"  # Changed extension to .csv
     
     # Extract text from PDF
